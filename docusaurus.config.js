@@ -105,6 +105,26 @@ module.exports = {
           activeBaseRegex: "^/learn/.*",
         },
         {
+          label: "hack_md",
+          to: "https://dashboard-76c7d.web.app/hacmkd",
+        },
+        {
+          label: "up_time",
+          to: "https://dashboard-76c7d.web.app/up_time",
+        },
+        {
+          label: "MTR",
+          to: "https://dashboard-76c7d.web.app/MTR",
+        },
+        {
+          label: "BUS",
+          to: "https://dashboard-76c7d.web.app/BUS",
+        },
+        {
+          label: "weather",
+          to: "https://dashboard-76c7d.web.app/weather",
+        },
+        {
           label: "Projects",
           to: "projects/support-the-network/about-nodes",
           activeBaseRegex: "^/projects/.*",
@@ -115,7 +135,7 @@ module.exports = {
         //   activeBaseRegex: "^/participate/.*",
         // },
         {
-          label: "Build",
+          label: "Shortcuts",
           to: "#",
           layout: [
             "0 1 3 4",
