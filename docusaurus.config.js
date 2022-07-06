@@ -100,6 +100,11 @@ module.exports = {
           activeBaseRegex: "^/learn/.*",
         },
         {
+          label: "setup_notes",
+          to: "setup/about-iota/an-introduction-to-iota",
+          activeBaseRegex: "^/learn/.*",
+        },
+        {
           label: "Participate",
           to: "participate/support-the-network/about-nodes",
           activeBaseRegex: "^/participate/.*",
@@ -443,6 +448,23 @@ module.exports = {
         path: "internal/learn",
         routeBasePath: "learn",
         sidebarPath: require.resolve("./internal/learn/sidebars.ts"),
+
+        // General config
+        editUrl: "https://github.com/iota-community/iota-wiki/edit/main/",
+        remarkPlugins: [
+          require("remark-code-import"),
+          require("remark-import-partial"),
+        ],
+        showLastUpdateTime: true,
+      },
+    ],
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "setup",
+        path: "internal/setup",
+        routeBasePath: "setup",
+        sidebarPath: require.resolve("./internal/setup/sidebars.ts"),
 
         // General config
         editUrl: "https://github.com/iota-community/iota-wiki/edit/main/",
