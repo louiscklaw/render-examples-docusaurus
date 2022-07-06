@@ -5,8 +5,8 @@ const tutorials = require("./content/tutorials/docusaurus.config");
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "加藤真平",
-  tagline: "The complete reference for IOTA",
+  title: "dashboard",
+  tagline: "louislabs control panel",
   url: "https://render-examples-docusaurus.onrender.com/",
   baseUrl: "/",
   onBrokenLinks: "log",

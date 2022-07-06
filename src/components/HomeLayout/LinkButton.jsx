@@ -1,6 +1,6 @@
 import React from "react";
 
-function LinkButton({ button_text, button_link }) {
+function LinkButton({ button_text, button_link, ...props }) {
   return (
     <>
       <div className="padding--sm">

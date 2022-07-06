@@ -13,6 +13,7 @@ import Dashboards from "./Dashboards";
 import Containers from "./Containers";
 import Tools from "./Tools";
 import Notes from "./Notes";
+import StatusReporting from "./StatusReporting";
 
 export interface HomeLayoutProps {
   description: string;
@@ -52,6 +53,7 @@ export default function HomeLayout({
             </div>
             <div className="col col--2">
               <Dashboards />
+              <StatusReporting />
             </div>
             <div className="col col--2">
               <Containers />
