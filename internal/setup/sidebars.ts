@@ -2,6 +2,18 @@ module.exports = {
   learn: [
     {
       type: "category",
+      label: "Change detect",
+      collapsed: false,
+      items: ["change_detect/index"],
+    },
+    {
+      type: "category",
+      label: "database",
+      collapsed: false,
+      items: ["database/index"],
+    },
+    {
+      type: "category",
       label: "About IOTA",
       collapsed: false,
       items: [
