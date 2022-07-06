@@ -40,7 +40,7 @@ module.exports = {
       type: "category",
       label: "pi_hole_notes",
       collapsed: true,
-      items: ["Pi hole notes/index"],
+      items: ["pi_hole_notes/index"],
     },
     {
       type: "category",
@@ -62,9 +62,9 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Repo config",
+      label: "repo_config",
       collapsed: true,
-      items: ["Repo config/index"],
+      items: ["repo_config/index"],
     },
     {
       type: "category",
@@ -82,7 +82,7 @@ module.exports = {
       type: "category",
       label: "Repo config",
       collapsed: true,
-      items: ["Repo config/index"],
+      items: ["repo_config/index"],
     },
 
     {
@@ -94,8 +94,5 @@ module.exports = {
         "about-iota/energy-efficiency",
       ],
     },
-
-    "glossary",
-    "faqs",
   ],
 };
