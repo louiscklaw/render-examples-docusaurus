@@ -1,0 +1,29 @@
+{
+  "unversionedId": "tutorials/youtube",
+  "id": "tutorials/youtube",
+  "title": "YouTube",
+  "description": "YouTube coding tutorials and learning material about IOTA",
+  "source": "@site/internal/build/tutorials/youtube.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/youtube",
+  "permalink": "/build/tutorials/youtube",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/build/tutorials/youtube.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "YouTube",
+    "description": "YouTube coding tutorials and learning material about IOTA"
+  },
+  "sidebar": "build",
+  "previous": {
+    "title": "Exchange Integration Guide",
+    "permalink": "/build/exchange-integration/exchange-integration-guide"
+  },
+  "next": {
+    "title": "Twitch",
+    "permalink": "/build/tutorials/twitch"
+  }
+}

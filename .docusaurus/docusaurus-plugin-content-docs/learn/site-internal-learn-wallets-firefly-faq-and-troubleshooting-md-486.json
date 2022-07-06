@@ -1,0 +1,29 @@
+{
+  "unversionedId": "wallets/firefly/faq-and-troubleshooting",
+  "id": "wallets/firefly/faq-and-troubleshooting",
+  "title": "Firefly FAQ",
+  "description": "Frequently asked questions and helpful troubleshooting information for users of the Firefly wallet.",
+  "source": "@site/internal/learn/wallets/firefly/faq-and-troubleshooting.md",
+  "sourceDirName": "wallets/firefly",
+  "slug": "/wallets/firefly/faq-and-troubleshooting",
+  "permalink": "/learn/wallets/firefly/faq-and-troubleshooting",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/wallets/firefly/faq-and-troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Firefly FAQ",
+    "description": "Frequently asked questions and helpful troubleshooting information for users of the Firefly wallet."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Firefly Ledger user guide",
+    "permalink": "/learn/wallets/firefly/user-guide-ledger"
+  },
+  "next": {
+    "title": "IOTA 2.0 DevNet Wallet",
+    "permalink": "/learn/wallets/iota-devnet-wallet"
+  }
+}

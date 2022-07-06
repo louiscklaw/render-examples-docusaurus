@@ -1,0 +1,30 @@
+{
+  "unversionedId": "about-iota/roadmap-to-decentralization",
+  "id": "about-iota/roadmap-to-decentralization",
+  "title": "Roadmap to Decentralization",
+  "description": "IOTA moves quickly towards full decentralization. This page describes the plan to reach this goal.",
+  "source": "@site/internal/learn/about-iota/roadmap-to-decentralization.md",
+  "sourceDirName": "about-iota",
+  "slug": "/about-iota/roadmap-to-decentralization",
+  "permalink": "/learn/about-iota/roadmap-to-decentralization",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/about-iota/roadmap-to-decentralization.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "roadmap-to-decentralization",
+    "title": "Roadmap to Decentralization",
+    "description": "IOTA moves quickly towards full decentralization. This page describes the plan to reach this goal."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Why is IOTA Feeless?",
+    "permalink": "/learn/about-iota/why-is-iota-feeless"
+  },
+  "next": {
+    "title": "Messages",
+    "permalink": "/learn/about-iota/messages"
+  }
+}

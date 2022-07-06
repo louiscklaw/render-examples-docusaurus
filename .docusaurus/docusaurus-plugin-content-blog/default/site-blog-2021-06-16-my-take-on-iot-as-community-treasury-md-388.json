@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/my-take-community-treasury",
+  "source": "@site/blog/2021-06-16_My-take-on-IOTAs-community-treasury.md",
+  "title": "My take on IOTA’s Community Treasury",
+  "description": "Treasuries",
+  "date": "2021-06-16T00:00:00.000Z",
+  "formattedDate": "June 16, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "DAO",
+      "permalink": "/blog/tags/dao"
+    },
+    {
+      "label": "Commmunity Treasury",
+      "permalink": "/blog/tags/commmunity-treasury"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Luka Stanisic",
+      "title": "X-Team Member",
+      "url": "https://luka99.medium.com",
+      "twitter": "https://twitter.com/lukastanisic99",
+      "imageURL": "https://pbs.twimg.com/profile_images/1340659523070136325/ivYifVE1_400x400.jpg",
+      "key": "lstanisic"
+    }
+  ],
+  "frontMatter": {
+    "slug": "my-take-community-treasury",
+    "title": "My take on IOTA’s Community Treasury",
+    "authors": "lstanisic",
+    "tags": [
+      "Community",
+      "DAO",
+      "Commmunity Treasury"
+    ],
+    "url": "https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba"
+  },
+  "prevItem": {
+    "title": "An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains",
+    "permalink": "/blog/An introduction to DLT Concepts"
+  },
+  "nextItem": {
+    "title": "The Chirping Machine",
+    "permalink": "/blog/the-chirping-machine"
+  }
+}

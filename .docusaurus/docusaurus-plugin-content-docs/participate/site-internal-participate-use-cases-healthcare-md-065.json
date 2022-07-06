@@ -1,0 +1,29 @@
+{
+  "unversionedId": "use-cases/healthcare",
+  "id": "use-cases/healthcare",
+  "title": "Healthcare",
+  "description": "Electronic healthcare (eHealth) data is the bedrock of healthcare. IOTA secures this data and opens up new models of care.",
+  "source": "@site/internal/participate/use-cases/healthcare.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/healthcare",
+  "permalink": "/participate/use-cases/healthcare",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/use-cases/healthcare.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Healthcare",
+    "description": "Electronic healthcare (eHealth) data is the bedrock of healthcare. IOTA secures this data and opens up new models of care."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Eco-Social-Projects",
+    "permalink": "/participate/use-cases/eco-social-projects"
+  },
+  "next": {
+    "title": "Industry Applications",
+    "permalink": "/participate/use-cases/industry-applications"
+  }
+}

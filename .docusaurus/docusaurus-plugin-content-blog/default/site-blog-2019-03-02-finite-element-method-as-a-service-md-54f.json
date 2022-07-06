@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/2019/03/02/_finite_element_method_as_a_service",
+  "source": "@site/blog/2019-03-02_finite_element_method_as_a_service.md",
+  "title": "IILA x IOTA — Finite Element Method As A Service",
+  "description": "IOTA Lab Aachen",
+  "date": "2019-03-02T00:00:00.000Z",
+  "formattedDate": "March 2, 2019",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "IoT",
+      "permalink": "/blog/tags/io-t"
+    },
+    {
+      "label": "IOTA LAB AACHEN",
+      "permalink": "/blog/tags/iota-lab-aachen"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Daniel Trauth",
+      "title": "Co-Fdr. of senseering GmbH",
+      "url": "https://medium.com/industrial-iota-lab-aachen-wzl-of-rwth-aachen",
+      "twitter": "https://twitter.com/DanielTrauth",
+      "imageURL": "https://pbs.twimg.com/profile_images/895537719870357506/EC0lmcTF_400x400.jpg",
+      "key": "dtrauth"
+    }
+  ],
+  "frontMatter": {
+    "title": "IILA x IOTA — Finite Element Method As A Service",
+    "authors": "dtrauth",
+    "tags": [
+      "Community",
+      "IoT",
+      "IOTA LAB AACHEN"
+    ],
+    "url": "https://medium.com/industrial-iota-lab-aachen-wzl-of-rwth-aachen/iila-x-iota-finite-element-method-as-a-service-2a782a479516"
+  },
+  "prevItem": {
+    "title": "The Economic Model of IOTA",
+    "permalink": "/blog/the-economic-model"
+  },
+  "nextItem": {
+    "title": "Manufacturing Economy",
+    "permalink": "/blog/manufacturing-economy"
+  }
+}

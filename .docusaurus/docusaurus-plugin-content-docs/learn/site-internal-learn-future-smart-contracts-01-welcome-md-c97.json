@@ -1,0 +1,38 @@
+{
+  "unversionedId": "future/smart-contracts/smart-contracts-introduction",
+  "id": "future/smart-contracts/smart-contracts-introduction",
+  "title": "Introduction",
+  "description": "IOTA Smart Contracts Series",
+  "source": "@site/internal/learn/future/smart-contracts/01_welcome.md",
+  "sourceDirName": "future/smart-contracts",
+  "slug": "/future/smart-contracts/smart-contracts-introduction",
+  "permalink": "/learn/future/smart-contracts/smart-contracts-introduction",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/01_welcome.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "smart-contracts-introduction",
+    "title": "Introduction",
+    "description": "IOTA Smart Contracts Series",
+    "keywords": [
+      "Smart Contracts",
+      "wasp",
+      "ISCP",
+      "Wasm",
+      "EVM"
+    ]
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/learn/future/future-of-iota"
+  },
+  "next": {
+    "title": "Smart Contract VM & Languages",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-VM-and-languages"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/structure/reference",
+  "id": "contribute-to-wiki/reference/structure/reference",
+  "title": "Reference",
+  "description": "Reference guides are technical descriptions of the project.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/structure/reference.md",
+  "sourceDirName": "contribute-to-wiki/reference/structure",
+  "slug": "/contribute-to-wiki/reference/structure/reference",
+  "permalink": "/participate/contribute-to-wiki/reference/structure/reference",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/reference.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "description": "Reference guides are technical descriptions of the project.",
+    "image": "/img/libraries/messages_in_tangle.svg",
+    "keywords": [
+      "reference",
+      "API"
+    ]
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Explanations",
+    "permalink": "/participate/contribute-to-wiki/reference/structure/explanations"
+  }
+}

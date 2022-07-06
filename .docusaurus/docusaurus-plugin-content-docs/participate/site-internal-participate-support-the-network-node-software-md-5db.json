@@ -1,0 +1,30 @@
+{
+  "unversionedId": "support-the-network/node-software",
+  "id": "support-the-network/node-software",
+  "title": "Node Software",
+  "description": "IOTA networks consist of interconnected nodes that run the same node software. We introduce the different available types and provide guides that will help in setting those nodes up.",
+  "source": "@site/internal/participate/support-the-network/node-software.md",
+  "sourceDirName": "support-the-network",
+  "slug": "/support-the-network/node-software",
+  "permalink": "/participate/support-the-network/node-software",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/support-the-network/node-software.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Node Software",
+    "description": "IOTA networks consist of interconnected nodes that run the same node software. We introduce the different available types and provide guides that will help in setting those nodes up.",
+    "image": "/img/participate/banner/banner_node_software.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Become a Node Operator",
+    "permalink": "/participate/support-the-network/become-a-node-operator"
+  },
+  "next": {
+    "title": "Discord",
+    "permalink": "/participate/the-community/discord"
+  }
+}

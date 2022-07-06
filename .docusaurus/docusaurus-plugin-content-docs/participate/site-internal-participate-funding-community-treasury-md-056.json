@@ -1,0 +1,29 @@
+{
+  "unversionedId": "funding/community-treasury",
+  "id": "funding/community-treasury",
+  "title": "Community - Treasury",
+  "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community",
+  "source": "@site/internal/participate/funding/community-treasury.md",
+  "sourceDirName": "funding",
+  "slug": "/funding/community-treasury",
+  "permalink": "/participate/funding/community-treasury",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/funding/community-treasury.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Community - Treasury",
+    "description": "A Decentralized Community governed Fund to support projects in the IOTA Ecosystem and Support the community"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "EDF - Funding",
+    "permalink": "/participate/funding/edf-funding"
+  },
+  "next": {
+    "title": "Data Confidence",
+    "permalink": "/participate/use-cases/data-confidence"
+  }
+}

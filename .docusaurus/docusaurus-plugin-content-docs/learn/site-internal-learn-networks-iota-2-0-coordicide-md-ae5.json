@@ -1,0 +1,29 @@
+{
+  "unversionedId": "networks/iota-2.0-coordicide",
+  "id": "networks/iota-2.0-coordicide",
+  "title": "IOTA 2.0 Coordicide",
+  "description": "The vision of a fully decentralized, feeless and highly scalable DLT.",
+  "source": "@site/internal/learn/networks/iota-2.0-coordicide.md",
+  "sourceDirName": "networks",
+  "slug": "/networks/iota-2.0-coordicide",
+  "permalink": "/learn/networks/iota-2.0-coordicide",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/networks/iota-2.0-coordicide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "IOTA 2.0 Coordicide",
+    "description": "The vision of a fully decentralized, feeless and highly scalable DLT."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "IOTA 1.5 Chrysalis",
+    "permalink": "/learn/networks/iota-1.5-chrysalis"
+  },
+  "next": {
+    "title": "Testnets",
+    "permalink": "/learn/networks/testnets"
+  }
+}

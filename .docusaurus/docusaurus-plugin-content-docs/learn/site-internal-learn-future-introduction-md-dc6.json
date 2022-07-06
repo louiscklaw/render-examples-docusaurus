@@ -1,0 +1,35 @@
+{
+  "unversionedId": "future/future-of-iota",
+  "id": "future/future-of-iota",
+  "title": "Introduction",
+  "description": "Future of IOTA",
+  "source": "@site/internal/learn/future/introduction.md",
+  "sourceDirName": "future",
+  "slug": "/future/future-of-iota",
+  "permalink": "/learn/future/future-of-iota",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/introduction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "future-of-iota",
+    "title": "Introduction",
+    "description": "Future of IOTA",
+    "keywords": [
+      "Future of IOTA",
+      "IOTA 2.0",
+      "Smart Contracts"
+    ]
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Research Papers",
+    "permalink": "/learn/research/research-papers"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-introduction"
+  }
+}

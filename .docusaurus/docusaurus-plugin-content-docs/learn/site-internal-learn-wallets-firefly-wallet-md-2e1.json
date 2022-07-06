@@ -1,0 +1,20 @@
+{
+  "unversionedId": "wallets/firefly-wallet",
+  "id": "wallets/firefly-wallet",
+  "title": "Firefly Wallet",
+  "description": "The IOTA Firefly Wallet sets a new standard for Software Wallets in DLT. Learn everything here.",
+  "source": "@site/internal/learn/wallets/firefly-wallet.md",
+  "sourceDirName": "wallets",
+  "slug": "/wallets/firefly-wallet",
+  "permalink": "/learn/wallets/firefly-wallet",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/wallets/firefly-wallet.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Firefly Wallet",
+    "description": "The IOTA Firefly Wallet sets a new standard for Software Wallets in DLT. Learn everything here."
+  }
+}

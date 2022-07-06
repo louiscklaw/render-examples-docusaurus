@@ -1,0 +1,29 @@
+{
+  "unversionedId": "frameworks/smart-contracts",
+  "id": "frameworks/smart-contracts",
+  "title": "Smart Contracts",
+  "description": "IOTA offers an unique Multi-Chain Smart Contract solution that is compatible with Solidity, Rust, Go and Linux.",
+  "source": "@site/internal/participate/frameworks/smart-contracts.md",
+  "sourceDirName": "frameworks",
+  "slug": "/frameworks/smart-contracts",
+  "permalink": "/participate/frameworks/smart-contracts",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/smart-contracts.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Smart Contracts",
+    "description": "IOTA offers an unique Multi-Chain Smart Contract solution that is compatible with Solidity, Rust, Go and Linux."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Identity",
+    "permalink": "/participate/frameworks/identity"
+  },
+  "next": {
+    "title": "Access",
+    "permalink": "/participate/frameworks/access"
+  }
+}

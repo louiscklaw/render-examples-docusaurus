@@ -1,0 +1,1273 @@
+{
+  "/blog-d95": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3997ae63"
+      },
+      {
+        "content": "3e4eb032"
+      },
+      {
+        "content": "1e758b6d"
+      },
+      {
+        "content": "ea1497f7"
+      },
+      {
+        "content": "616ad8e0"
+      },
+      {
+        "content": "0a663ceb"
+      },
+      {
+        "content": "e961eeb0"
+      },
+      {
+        "content": "09697dc6"
+      },
+      {
+        "content": "31822706"
+      },
+      {
+        "content": "bb4d4998"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/2019/03/02/_finite_element_method_as_a_service-ceb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "54f80c7c"
+  },
+  "/blog/An introduction to DLT Concepts-f33": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "604a04d8"
+  },
+  "/blog/archive-e93": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "archive": "b2f554cd"
+  },
+  "/blog/Assembly better than Coinbase-5f9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "8ac172c0"
+  },
+  "/blog/bitcoin-middle-man-78e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "f19001f3"
+  },
+  "/blog/develop_prediction_market-bf6": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "96f25dbe"
+  },
+  "/blog/Finality—Part 1: Two Generals-df3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "be050327"
+  },
+  "/blog/Finality—Part 2: Bookkeeping-582": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "d95ecdd9"
+  },
+  "/blog/Finality—Part 3: Total Order-ed1": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "56ce53b7"
+  },
+  "/blog/Finality—Part 4: Many Worlds-a09": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "9d18cf52"
+  },
+  "/blog/future_day_1-1a3": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "cd86c559"
+  },
+  "/blog/future_day_2-732": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "cce2dc56"
+  },
+  "/blog/iscp_security_proposal-451": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "ce28f03e"
+  },
+  "/blog/layer_one_1-463": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "6bf86e97"
+  },
+  "/blog/layer_one_2-b5f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "4fac8380"
+  },
+  "/blog/layer_one_3-3d5": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "bca3d262"
+  },
+  "/blog/manufacturing-economy-1fe": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "190f9212"
+  },
+  "/blog/multi-asset-multiverse-is-coming-944": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "7e7e303f"
+  },
+  "/blog/multiverse_consensus-643": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "d99919a5"
+  },
+  "/blog/my-take-community-treasury-b2f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "3882d9f6"
+  },
+  "/blog/page/2-ba6": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7ba1c45f"
+      },
+      {
+        "content": "1c9bf409"
+      },
+      {
+        "content": "5d512ff5"
+      },
+      {
+        "content": "e3ab8a2b"
+      },
+      {
+        "content": "3093de38"
+      },
+      {
+        "content": "6f67e7a5"
+      },
+      {
+        "content": "27fc0300"
+      },
+      {
+        "content": "c8b38a7d"
+      },
+      {
+        "content": "6dad603d"
+      },
+      {
+        "content": "9cb29257"
+      }
+    ],
+    "metadata": "8eb4e46b"
+  },
+  "/blog/page/3-e88": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d6b76ddb"
+      },
+      {
+        "content": "35d129b8"
+      },
+      {
+        "content": "b7fab636"
+      },
+      {
+        "content": "04e9edf5"
+      },
+      {
+        "content": "10bb3f48"
+      },
+      {
+        "content": "9ed1c52c"
+      }
+    ],
+    "metadata": "92999a1c"
+  },
+  "/blog/tags-dce": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/assembly-d9c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "616ad8e0"
+      }
+    ],
+    "tag": "74d01232",
+    "listMetadata": "08e3db72"
+  },
+  "/blog/tags/bitcoin-afd": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e3ab8a2b"
+      },
+      {
+        "content": "35d129b8"
+      }
+    ],
+    "tag": "f4aea73c",
+    "listMetadata": "310c5460"
+  },
+  "/blog/tags/commmunity-treasury-e93": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "6dad603d"
+      }
+    ],
+    "tag": "7140b834",
+    "listMetadata": "6b1813b6"
+  },
+  "/blog/tags/community-1fa": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3997ae63"
+      },
+      {
+        "content": "3e4eb032"
+      },
+      {
+        "content": "1e758b6d"
+      },
+      {
+        "content": "ea1497f7"
+      },
+      {
+        "content": "0a663ceb"
+      },
+      {
+        "content": "e961eeb0"
+      },
+      {
+        "content": "09697dc6"
+      },
+      {
+        "content": "31822706"
+      },
+      {
+        "content": "bb4d4998"
+      },
+      {
+        "content": "7ba1c45f"
+      }
+    ],
+    "tag": "69b09ea9",
+    "listMetadata": "afaff11a"
+  },
+  "/blog/tags/community/page/2-1a9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "5d512ff5"
+      },
+      {
+        "content": "e3ab8a2b"
+      },
+      {
+        "content": "3093de38"
+      },
+      {
+        "content": "6f67e7a5"
+      },
+      {
+        "content": "27fc0300"
+      },
+      {
+        "content": "c8b38a7d"
+      },
+      {
+        "content": "6dad603d"
+      },
+      {
+        "content": "9cb29257"
+      },
+      {
+        "content": "d6b76ddb"
+      },
+      {
+        "content": "35d129b8"
+      }
+    ],
+    "tag": "6e4ab04c",
+    "listMetadata": "f242d0a7"
+  },
+  "/blog/tags/community/page/3-29e": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "b7fab636"
+      },
+      {
+        "content": "04e9edf5"
+      },
+      {
+        "content": "10bb3f48"
+      },
+      {
+        "content": "9ed1c52c"
+      }
+    ],
+    "tag": "9268851e",
+    "listMetadata": "78257193"
+  },
+  "/blog/tags/consensus-783": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3997ae63"
+      },
+      {
+        "content": "3e4eb032"
+      },
+      {
+        "content": "1e758b6d"
+      },
+      {
+        "content": "ea1497f7"
+      }
+    ],
+    "tag": "6c05bc6b",
+    "listMetadata": "191fb562"
+  },
+  "/blog/tags/coordicide-a5b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d6b76ddb"
+      },
+      {
+        "content": "b7fab636"
+      }
+    ],
+    "tag": "0de59d08",
+    "listMetadata": "2c0c573e"
+  },
+  "/blog/tags/dao-4b9": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "0a663ceb"
+      },
+      {
+        "content": "6dad603d"
+      }
+    ],
+    "tag": "12ece279",
+    "listMetadata": "9abca082"
+  },
+  "/blog/tags/distributed-ledger-790": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "9cb29257"
+      }
+    ],
+    "tag": "dbe79aac",
+    "listMetadata": "19c2850a"
+  },
+  "/blog/tags/dlt-3d6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c8b38a7d"
+      }
+    ],
+    "tag": "9199c369",
+    "listMetadata": "00aef0d4"
+  },
+  "/blog/tags/economic-9bf": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "04e9edf5"
+      }
+    ],
+    "tag": "e3de1adb",
+    "listMetadata": "43aef269"
+  },
+  "/blog/tags/ethereum-e85": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "35d129b8"
+      }
+    ],
+    "tag": "4688d424",
+    "listMetadata": "98e459ed"
+  },
+  "/blog/tags/gossip-050": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "9cb29257"
+      }
+    ],
+    "tag": "5d20d274",
+    "listMetadata": "b373a260"
+  },
+  "/blog/tags/introduction-885": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c8b38a7d"
+      }
+    ],
+    "tag": "20417f73",
+    "listMetadata": "5ad2500b"
+  },
+  "/blog/tags/io-t-215": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "10bb3f48"
+      },
+      {
+        "content": "9ed1c52c"
+      }
+    ],
+    "tag": "b27699ff",
+    "listMetadata": "ef8fe38c"
+  },
+  "/blog/tags/iota-lab-aachen-c88": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "10bb3f48"
+      },
+      {
+        "content": "9ed1c52c"
+      }
+    ],
+    "tag": "525980fc",
+    "listMetadata": "27ad2271"
+  },
+  "/blog/tags/iota-wiki-ecc": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "1c9bf409"
+      }
+    ],
+    "tag": "418cefa8",
+    "listMetadata": "91bff259"
+  },
+  "/blog/tags/iscp-8e7": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "09697dc6"
+      },
+      {
+        "content": "31822706"
+      }
+    ],
+    "tag": "412c7cfa",
+    "listMetadata": "915a594a"
+  },
+  "/blog/tags/layer-one-aca": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "3093de38"
+      },
+      {
+        "content": "6f67e7a5"
+      },
+      {
+        "content": "27fc0300"
+      }
+    ],
+    "tag": "da31d0b1",
+    "listMetadata": "cffc0142"
+  },
+  "/blog/tags/mana-af1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "d6b76ddb"
+      },
+      {
+        "content": "b7fab636"
+      },
+      {
+        "content": "04e9edf5"
+      }
+    ],
+    "tag": "41da85c2",
+    "listMetadata": "79014ad7"
+  },
+  "/blog/tags/metaverse-eb2": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "616ad8e0"
+      }
+    ],
+    "tag": "1eebe6d4",
+    "listMetadata": "f74c27a7"
+  },
+  "/blog/tags/multiverse-609": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7ba1c45f"
+      }
+    ],
+    "tag": "9a68c4f8",
+    "listMetadata": "5afa2e36"
+  },
+  "/blog/tags/otv-81c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7ba1c45f"
+      }
+    ],
+    "tag": "0f66365c",
+    "listMetadata": "3c443c66"
+  },
+  "/blog/tags/tangle-c7d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "c8b38a7d"
+      }
+    ],
+    "tag": "1fd58ec7",
+    "listMetadata": "7ad2c32d"
+  },
+  "/blog/tags/tokenization-2f1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "e961eeb0"
+      }
+    ],
+    "tag": "e7d445e0",
+    "listMetadata": "1f45765f"
+  },
+  "/blog/tags/web-3-afb": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "616ad8e0"
+      }
+    ],
+    "tag": "6a3809a9",
+    "listMetadata": "37178c25"
+  },
+  "/blog/tags/x-teams-53b": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "1c9bf409"
+      }
+    ],
+    "tag": "e2d7a17d",
+    "listMetadata": "9b6e69ad"
+  },
+  "/blog/the-chirping-machine-074": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "a8b3e35d"
+  },
+  "/blog/the-dao-landscape-843": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "5ec5c016"
+  },
+  "/blog/the-economic-model-e58": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "fb68927f"
+  },
+  "/blog/the-tech-behind-IOTA-1-c33": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "6a5f059f"
+  },
+  "/blog/the-tech-behind-IOTA-2-dac": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "f58ece51"
+  },
+  "/blog/why-iota-1f9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "c36cca59"
+  },
+  "/blog/wiki-alpha-44b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "a49920f9"
+    },
+    "sidebar": "814f3328",
+    "content": "f8265a61"
+  },
+  "/legacy-b20": {
+    "__comp": "292d6fed",
+    "__context": {
+      "plugin": "7e9e90ed"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/search-75d": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "742c76e9"
+    }
+  },
+  "/team-700": {
+    "__comp": "ca10fb34",
+    "__context": {
+      "plugin": "7e9e90ed"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/team/member-c30": {
+    "__comp": "3748a629",
+    "__context": {
+      "plugin": "7e9e90ed"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/tutorials-5b9": {
+    "__comp": "10f96bc3",
+    "__context": {
+      "plugin": "7e9e90ed"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/build-7b3": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "5bc25947"
+    },
+    "versionMetadata": "d930201c"
+  },
+  "/build/exchange-integration/exchange-integration-guide-379": {
+    "__comp": "17896441",
+    "content": "2f4a7eaf"
+  },
+  "/build/fundamentals/cryptography-d43": {
+    "__comp": "17896441",
+    "content": "bddb4719"
+  },
+  "/build/networks/iota-1.5-821": {
+    "__comp": "17896441",
+    "content": "6667875a"
+  },
+  "/build/networks/iota-2.0-12d": {
+    "__comp": "17896441",
+    "content": "3bfc02b2"
+  },
+  "/build/tutorials/twitch-0fd": {
+    "__comp": "17896441",
+    "content": "5101deaa"
+  },
+  "/build/tutorials/youtube-acc": {
+    "__comp": "17896441",
+    "content": "07c83312"
+  },
+  "/build/welcome-115": {
+    "__comp": "17896441",
+    "content": "c4ececdb"
+  },
+  "/learn-3fd": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "cc467b6f"
+    },
+    "versionMetadata": "fb5308ca"
+  },
+  "/learn/about-iota/an-introduction-to-iota-352": {
+    "__comp": "17896441",
+    "content": "fa93d123"
+  },
+  "/learn/about-iota/data-transfer-0dc": {
+    "__comp": "17896441",
+    "content": "154a2b5d"
+  },
+  "/learn/about-iota/energy-efficiency-5dc": {
+    "__comp": "17896441",
+    "content": "8ad467aa"
+  },
+  "/learn/about-iota/messages-dc6": {
+    "__comp": "17896441",
+    "content": "19dee9c3"
+  },
+  "/learn/about-iota/roadmap-to-decentralization-753": {
+    "__comp": "17896441",
+    "content": "1313ee50"
+  },
+  "/learn/about-iota/value-transfer-950": {
+    "__comp": "17896441",
+    "content": "55a462bb"
+  },
+  "/learn/about-iota/why-is-iota-feeless-bc7": {
+    "__comp": "17896441",
+    "content": "1a360e9a"
+  },
+  "/learn/faqs-306": {
+    "__comp": "17896441",
+    "content": "a6cf0e29"
+  },
+  "/learn/future/assembly-76f": {
+    "__comp": "17896441",
+    "content": "06f1b5f4"
+  },
+  "/learn/future/dust-protection-20b": {
+    "__comp": "17896441",
+    "content": "4158984f"
+  },
+  "/learn/future/future-of-iota-264": {
+    "__comp": "17896441",
+    "content": "dc60ca71"
+  },
+  "/learn/future/nfts-4ab": {
+    "__comp": "17896441",
+    "content": "0d02d30b"
+  },
+  "/learn/future/role-of-iota-992": {
+    "__comp": "17896441",
+    "content": "21dcd9d5"
+  },
+  "/learn/future/shimmer-951": {
+    "__comp": "17896441",
+    "content": "f36b6081"
+  },
+  "/learn/future/smart-contracts/smart-contracts-chains-356": {
+    "__comp": "17896441",
+    "content": "a34633fa"
+  },
+  "/learn/future/smart-contracts/smart-contracts-community-tutorials-be8": {
+    "__comp": "17896441",
+    "content": "6796fd5a"
+  },
+  "/learn/future/smart-contracts/smart-contracts-consensus-858": {
+    "__comp": "17896441",
+    "content": "c7503931"
+  },
+  "/learn/future/smart-contracts/smart-contracts-dapps-7b2": {
+    "__comp": "17896441",
+    "content": "4154de7f"
+  },
+  "/learn/future/smart-contracts/smart-contracts-introduction-1cf": {
+    "__comp": "17896441",
+    "content": "c9721487"
+  },
+  "/learn/future/smart-contracts/smart-contracts-tangle-37d": {
+    "__comp": "17896441",
+    "content": "6957172a"
+  },
+  "/learn/future/smart-contracts/smart-contracts-validators-178": {
+    "__comp": "17896441",
+    "content": "ed2eecd0"
+  },
+  "/learn/future/smart-contracts/smart-contracts-VM-and-languages-dc6": {
+    "__comp": "17896441",
+    "content": "2022ccbd"
+  },
+  "/learn/glossary-424": {
+    "__comp": "17896441",
+    "content": "9866bfec"
+  },
+  "/learn/iota-token/buying-iota-72c": {
+    "__comp": "17896441",
+    "content": "a99d25fb"
+  },
+  "/learn/iota-token/staking-iota-fcb": {
+    "__comp": "17896441",
+    "content": "51c8366b"
+  },
+  "/learn/media-library/infographics-562": {
+    "__comp": "17896441",
+    "content": "ffc39983"
+  },
+  "/learn/media-library/project-presentations-4ac": {
+    "__comp": "17896441",
+    "content": "96ea9841"
+  },
+  "/learn/media-library/videos-dde": {
+    "__comp": "17896441",
+    "content": "59bb36fd"
+  },
+  "/learn/networks/iota-1.5-chrysalis-e9b": {
+    "__comp": "17896441",
+    "content": "fa24585e"
+  },
+  "/learn/networks/iota-2.0-coordicide-67d": {
+    "__comp": "17896441",
+    "content": "ae5996e0"
+  },
+  "/learn/networks/network-token-migration-01e": {
+    "__comp": "17896441",
+    "content": "adae99c9"
+  },
+  "/learn/networks/testnets-f5d": {
+    "__comp": "17896441",
+    "content": "f55d0cfa"
+  },
+  "/learn/research/research-outline-d08": {
+    "__comp": "17896441",
+    "content": "eeb25b1c"
+  },
+  "/learn/research/research-papers-92d": {
+    "__comp": "17896441",
+    "content": "ad67f68f"
+  },
+  "/learn/wallets/firefly-wallet-52a": {
+    "__comp": "17896441",
+    "content": "2e125c98"
+  },
+  "/learn/wallets/firefly/faq-and-troubleshooting-04e": {
+    "__comp": "17896441",
+    "content": "48630c60"
+  },
+  "/learn/wallets/firefly/general-54c": {
+    "__comp": "17896441",
+    "content": "fb50557f"
+  },
+  "/learn/wallets/firefly/user-guide-ab9": {
+    "__comp": "17896441",
+    "content": "efd4e549"
+  },
+  "/learn/wallets/firefly/user-guide-ledger-da2": {
+    "__comp": "17896441",
+    "content": "76bfdd37"
+  },
+  "/learn/wallets/iota-devnet-wallet-d5b": {
+    "__comp": "17896441",
+    "content": "17efbd2f"
+  },
+  "/learn/wallets/what-is-a-wallet-99d": {
+    "__comp": "17896441",
+    "content": "d3f84d5e"
+  },
+  "/participate-23b": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "9316ecfa"
+    },
+    "versionMetadata": "655207e3"
+  },
+  "/participate/contribute-to-wiki/explanations/third-party_works-15d": {
+    "__comp": "17896441",
+    "content": "547155fb"
+  },
+  "/participate/contribute-to-wiki/explanations/tools/mind_map-17d": {
+    "__comp": "17896441",
+    "content": "5ac46590"
+  },
+  "/participate/contribute-to-wiki/explanations/tools/overview-d81": {
+    "__comp": "17896441",
+    "content": "bd3008ac"
+  },
+  "/participate/contribute-to-wiki/explanations/tools/questions-e41": {
+    "__comp": "17896441",
+    "content": "2af66256"
+  },
+  "/participate/contribute-to-wiki/getting_started-27f": {
+    "__comp": "17896441",
+    "content": "1f721616"
+  },
+  "/participate/contribute-to-wiki/getting_started/developer-431": {
+    "__comp": "17896441",
+    "content": "77cf77a4"
+  },
+  "/participate/contribute-to-wiki/getting_started/quick_advice-f76": {
+    "__comp": "17896441",
+    "content": "81f6e53a"
+  },
+  "/participate/contribute-to-wiki/how_tos/documentation_setup-419": {
+    "__comp": "17896441",
+    "content": "c0b14821"
+  },
+  "/participate/contribute-to-wiki/how_tos/request_tw-b3e": {
+    "__comp": "17896441",
+    "content": "55429513"
+  },
+  "/participate/contribute-to-wiki/reference/structure/explanations-844": {
+    "__comp": "17896441",
+    "content": "4470963c"
+  },
+  "/participate/contribute-to-wiki/reference/structure/getting_started-38e": {
+    "__comp": "17896441",
+    "content": "50fcd333"
+  },
+  "/participate/contribute-to-wiki/reference/structure/how_tos-406": {
+    "__comp": "17896441",
+    "content": "795074b3"
+  },
+  "/participate/contribute-to-wiki/reference/structure/overview-5ca": {
+    "__comp": "17896441",
+    "content": "728c6840"
+  },
+  "/participate/contribute-to-wiki/reference/structure/reference-273": {
+    "__comp": "17896441",
+    "content": "64ad5d9b"
+  },
+  "/participate/contribute-to-wiki/reference/structure/tutorials-79d": {
+    "__comp": "17896441",
+    "content": "6ce7ce25"
+  },
+  "/participate/contribute-to-wiki/reference/style/form-3e4": {
+    "__comp": "17896441",
+    "content": "6eef1d6d"
+  },
+  "/participate/contribute-to-wiki/reference/style/formatting-4f9": {
+    "__comp": "17896441",
+    "content": "d165b396"
+  },
+  "/participate/contribute-to-wiki/reference/style/manifesto-ce2": {
+    "__comp": "17896441",
+    "content": "55a54491"
+  },
+  "/participate/contribute-to-wiki/reference/style/matter-aff": {
+    "__comp": "17896441",
+    "content": "6028ed67"
+  },
+  "/participate/contribute-to-wiki/reference/style/mechanics-270": {
+    "__comp": "17896441",
+    "content": "c8818709"
+  },
+  "/participate/contribute-to-wiki/reference/style/structure-bb1": {
+    "__comp": "17896441",
+    "content": "5c2b9656"
+  },
+  "/participate/contribute-to-wiki/welcome-22b": {
+    "__comp": "17896441",
+    "content": "d88ff06f"
+  },
+  "/participate/frameworks/access-fc3": {
+    "__comp": "17896441",
+    "content": "24b1a0ca"
+  },
+  "/participate/frameworks/identity-9b0": {
+    "__comp": "17896441",
+    "content": "388b6269"
+  },
+  "/participate/frameworks/introduction-f08": {
+    "__comp": "17896441",
+    "content": "0203f387"
+  },
+  "/participate/frameworks/oracles-aeb": {
+    "__comp": "17896441",
+    "content": "eba53adb"
+  },
+  "/participate/frameworks/smart-contracts-777": {
+    "__comp": "17896441",
+    "content": "c0797a4b"
+  },
+  "/participate/frameworks/streams-084": {
+    "__comp": "17896441",
+    "content": "8b405ac8"
+  },
+  "/participate/frameworks/stronghold-987": {
+    "__comp": "17896441",
+    "content": "dd48a424"
+  },
+  "/participate/frameworks/utilities/iota-ipfs-0b1": {
+    "__comp": "17896441",
+    "content": "0500b25f"
+  },
+  "/participate/frameworks/utilities/tangle-explorer-de9": {
+    "__comp": "17896441",
+    "content": "da5dbf2a"
+  },
+  "/participate/frameworks/utilities/visualizer-25b": {
+    "__comp": "17896441",
+    "content": "b4c69f09"
+  },
+  "/participate/funding/community-treasury-58c": {
+    "__comp": "17896441",
+    "content": "056f2f0f"
+  },
+  "/participate/funding/edf-funding-f6d": {
+    "__comp": "17896441",
+    "content": "30721912"
+  },
+  "/participate/support-the-network/about-nodes-955": {
+    "__comp": "17896441",
+    "content": "adb9e27b"
+  },
+  "/participate/support-the-network/become-a-node-operator-ada": {
+    "__comp": "17896441",
+    "content": "820942db"
+  },
+  "/participate/support-the-network/node-software-717": {
+    "__comp": "17896441",
+    "content": "5db44b77"
+  },
+  "/participate/the-community/discord-018": {
+    "__comp": "17896441",
+    "content": "04b3674a"
+  },
+  "/participate/the-community/git-hub-ed2": {
+    "__comp": "17896441",
+    "content": "f4da7e6a"
+  },
+  "/participate/the-community/social-media-ab7": {
+    "__comp": "17896441",
+    "content": "21260a60"
+  },
+  "/participate/the-community/x-teams-c41": {
+    "__comp": "17896441",
+    "content": "b5278a01"
+  },
+  "/participate/use-cases/data-confidence-75e": {
+    "__comp": "17896441",
+    "content": "17354c02"
+  },
+  "/participate/use-cases/eco-social-projects-840": {
+    "__comp": "17896441",
+    "content": "f4afa23e"
+  },
+  "/participate/use-cases/healthcare-25e": {
+    "__comp": "17896441",
+    "content": "0659f581"
+  },
+  "/participate/use-cases/industry-applications-3d7": {
+    "__comp": "17896441",
+    "content": "f38d7d38"
+  },
+  "/participate/use-cases/mobility-28c": {
+    "__comp": "17896441",
+    "content": "d97d32ea"
+  },
+  "/participate/use-cases/real-estate-fba": {
+    "__comp": "17896441",
+    "content": "4aff675b"
+  },
+  "/participate/use-cases/trade-and-supply-chain-fa5": {
+    "__comp": "17896441",
+    "content": "20b8668b"
+  },
+  "/-fe3": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "7e9e90ed"
+    },
+    "config": "5e9f5e1a"
+  }
+}

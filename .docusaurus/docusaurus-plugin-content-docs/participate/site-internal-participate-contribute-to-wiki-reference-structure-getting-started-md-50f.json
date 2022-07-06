@@ -1,0 +1,35 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/structure/getting_started",
+  "id": "contribute-to-wiki/reference/structure/getting_started",
+  "title": "Example Getting Started File",
+  "description": "Getting started with your project.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/structure/getting_started.md",
+  "sourceDirName": "contribute-to-wiki/reference/structure",
+  "slug": "/contribute-to-wiki/reference/structure/getting_started",
+  "permalink": "/participate/contribute-to-wiki/reference/structure/getting_started",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/getting_started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "description": "Getting started with your project.",
+    "image": "/img/logo/iota_logo.svg",
+    "keywords": [
+      "install",
+      "prerequisites",
+      "getting started",
+      "hello world"
+    ]
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/participate/contribute-to-wiki/reference/structure/overview"
+  },
+  "next": {
+    "title": "How Tos",
+    "permalink": "/participate/contribute-to-wiki/reference/structure/how_tos"
+  }
+}

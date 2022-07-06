@@ -1,0 +1,37 @@
+{
+  "unversionedId": "future/smart-contracts/smart-contracts-consensus",
+  "id": "future/smart-contracts/smart-contracts-consensus",
+  "title": "Consensus",
+  "description": "In this article you will learn how the IOTA Smart Contract Consensus works.",
+  "source": "@site/internal/learn/future/smart-contracts/06_consensus.md",
+  "sourceDirName": "future/smart-contracts",
+  "slug": "/future/smart-contracts/smart-contracts-consensus",
+  "permalink": "/learn/future/smart-contracts/smart-contracts-consensus",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/06_consensus.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "smart-contracts-consensus",
+    "title": "Consensus",
+    "description": "In this article you will learn how the IOTA Smart Contract Consensus works.",
+    "keywords": [
+      "Cosensus",
+      "Smart Contracts",
+      "wasp",
+      "ISCP"
+    ]
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Decentralized Applications",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-dapps"
+  },
+  "next": {
+    "title": "IOTA Tangle",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-tangle"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "wallets/firefly/user-guide",
+  "id": "wallets/firefly/user-guide",
+  "title": "Firefly user guide",
+  "description": "User guide for standard Firefly software wallet users. We explain every function here for you.",
+  "source": "@site/internal/learn/wallets/firefly/user-guide.md",
+  "sourceDirName": "wallets/firefly",
+  "slug": "/wallets/firefly/user-guide",
+  "permalink": "/learn/wallets/firefly/user-guide",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/wallets/firefly/user-guide.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Firefly user guide",
+    "description": "User guide for standard Firefly software wallet users. We explain every function here for you."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Firefly Wallet",
+    "permalink": "/learn/wallets/firefly/general"
+  },
+  "next": {
+    "title": "Firefly Ledger user guide",
+    "permalink": "/learn/wallets/firefly/user-guide-ledger"
+  }
+}

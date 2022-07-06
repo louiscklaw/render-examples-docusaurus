@@ -1,0 +1,29 @@
+{
+  "unversionedId": "research/research-papers",
+  "id": "research/research-papers",
+  "title": "Research Papers",
+  "description": "Links to all the Research papers published from IOTA Foundation Researchers.",
+  "source": "@site/internal/learn/research/research-papers.md",
+  "sourceDirName": "research",
+  "slug": "/research/research-papers",
+  "permalink": "/learn/research/research-papers",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/research/research-papers.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Research Papers",
+    "description": "Links to all the Research papers published from IOTA Foundation Researchers."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Research Outline",
+    "permalink": "/learn/research/research-outline"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/learn/future/future-of-iota"
+  }
+}

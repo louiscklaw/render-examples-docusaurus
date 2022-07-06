@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/develop_prediction_market",
+  "source": "@site/blog/2021-09-16_Exploring_ISCP_in_a_private_network_Developing_A_Prediction_Market.md",
+  "title": "ISCP in a Private Network - Developing a Prediction Market",
+  "description": "keyboard",
+  "date": "2021-09-16T00:00:00.000Z",
+  "formattedDate": "September 16, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "ISCP",
+      "permalink": "/blog/tags/iscp"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Dr. Achim Klein",
+      "title": "Founder of CryptoCaptain.com",
+      "url": "https://medium.com/@draklein",
+      "imageURL": "https://miro.medium.com/fit/c/393/393/1*a4nnmkKNfolvfmq8HF4_cA.jpeg",
+      "key": "aklein"
+    }
+  ],
+  "frontMatter": {
+    "slug": "develop_prediction_market",
+    "title": "ISCP in a Private Network - Developing a Prediction Market",
+    "authors": "aklein",
+    "tags": [
+      "Community",
+      "ISCP"
+    ],
+    "url": "https://medium.com/51nodes/exploring-iota-2-0-smart-contracts-in-a-private-network-developing-a-prediction-market-c2d81988f75e"
+  },
+  "prevItem": {
+    "title": "My opinion on ISCP — security improvement proposal",
+    "permalink": "/blog/iscp_security_proposal"
+  },
+  "nextItem": {
+    "title": "A future day with IOTA — Part II",
+    "permalink": "/blog/future_day_2"
+  }
+}

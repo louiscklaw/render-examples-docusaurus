@@ -1,0 +1,26 @@
+{
+  "unversionedId": "support-the-network/about-nodes",
+  "id": "support-the-network/about-nodes",
+  "title": "About Nodes",
+  "description": "Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.",
+  "source": "@site/internal/participate/support-the-network/about-nodes.md",
+  "sourceDirName": "support-the-network",
+  "slug": "/support-the-network/about-nodes",
+  "permalink": "/participate/support-the-network/about-nodes",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/support-the-network/about-nodes.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "About Nodes",
+    "description": "Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.",
+    "image": "/img/participate/banner/banner_about_nodes.png"
+  },
+  "sidebar": "participate",
+  "next": {
+    "title": "Become a Node Operator",
+    "permalink": "/participate/support-the-network/become-a-node-operator"
+  }
+}

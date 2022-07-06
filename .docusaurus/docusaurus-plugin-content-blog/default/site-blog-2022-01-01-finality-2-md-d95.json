@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/Finality—Part 2: Bookkeeping",
+  "source": "@site/blog/2022-01-01_Finality-2.md",
+  "title": "Finality—Part 2: Bookkeeping",
+  "description": "Finality—Part 2: Bookkeeping",
+  "date": "2022-01-01T00:00:00.000Z",
+  "formattedDate": "January 1, 2022",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "Consensus",
+      "permalink": "/blog/tags/consensus"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "R. Brennan Kelly",
+      "title": "X-Team Member",
+      "url": "https://iologica.substack.com",
+      "twitter": "https://twitter.com/rbrennankelly",
+      "imageURL": "https://cdn.substack.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21445b1d-ec24-4133-baa2-95ceede4f41e_448x479.png",
+      "key": "kbrennan"
+    }
+  ],
+  "frontMatter": {
+    "slug": "Finality—Part 2: Bookkeeping",
+    "title": "Finality—Part 2: Bookkeeping",
+    "authors": "kbrennan",
+    "tags": [
+      "Community",
+      "Consensus"
+    ],
+    "url": "https://iologica.substack.com/p/bookkeeping"
+  },
+  "prevItem": {
+    "title": "Finality—Part 1: Two Generals",
+    "permalink": "/blog/Finality—Part 1: Two Generals"
+  },
+  "nextItem": {
+    "title": "Finality—Part 3: Total Order",
+    "permalink": "/blog/Finality—Part 3: Total Order"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "use-cases/industry-applications",
+  "id": "use-cases/industry-applications",
+  "title": "Industry Applications",
+  "description": "The next industrial revolution is fast-approaching, bringing new economic possibilities, and powered by IOTA.",
+  "source": "@site/internal/participate/use-cases/industry-applications.mdx",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/industry-applications",
+  "permalink": "/participate/use-cases/industry-applications",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/use-cases/industry-applications.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Industry Applications",
+    "description": "The next industrial revolution is fast-approaching, bringing new economic possibilities, and powered by IOTA."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Healthcare",
+    "permalink": "/participate/use-cases/healthcare"
+  },
+  "next": {
+    "title": "Mobility",
+    "permalink": "/participate/use-cases/mobility"
+  }
+}

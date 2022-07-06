@@ -1,0 +1,29 @@
+{
+  "unversionedId": "networks/network-token-migration",
+  "id": "networks/network-token-migration",
+  "title": "Network Token Migration",
+  "description": "We describe the process of migrating tokens from the IOTA legacy network into the new Chrysalis network",
+  "source": "@site/internal/learn/networks/network-token-migration.md",
+  "sourceDirName": "networks",
+  "slug": "/networks/network-token-migration",
+  "permalink": "/learn/networks/network-token-migration",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/networks/network-token-migration.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Network Token Migration",
+    "description": "We describe the process of migrating tokens from the IOTA legacy network into the new Chrysalis network"
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Testnets",
+    "permalink": "/learn/networks/testnets"
+  },
+  "next": {
+    "title": "Infographics",
+    "permalink": "/learn/media-library/infographics"
+  }
+}

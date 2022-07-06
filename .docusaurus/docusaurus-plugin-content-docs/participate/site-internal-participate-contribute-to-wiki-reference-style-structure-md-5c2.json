@@ -1,0 +1,32 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/style/structure",
+  "id": "contribute-to-wiki/reference/style/structure",
+  "title": "Structure",
+  "description": "The technical writer's guide for IOTA Wiki.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/style/structure.md",
+  "sourceDirName": "contribute-to-wiki/reference/style",
+  "slug": "/contribute-to-wiki/reference/style/structure",
+  "permalink": "/participate/contribute-to-wiki/reference/style/structure",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/style/structure.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "keywords": [
+      "reference"
+    ],
+    "description": "The technical writer's guide for IOTA Wiki.",
+    "image": "/img/iota-wiki.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Manifesto",
+    "permalink": "/participate/contribute-to-wiki/reference/style/manifesto"
+  },
+  "next": {
+    "title": "Matter",
+    "permalink": "/participate/contribute-to-wiki/reference/style/matter"
+  }
+}

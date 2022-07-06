@@ -1,0 +1,30 @@
+{
+  "unversionedId": "iota-token/buying-iota",
+  "id": "iota-token/buying-iota",
+  "title": "Buying IOTA",
+  "description": "Where and how to buy the IOTA Cryptocurrency.",
+  "source": "@site/internal/learn/iota-token/buying-iota.md",
+  "sourceDirName": "iota-token",
+  "slug": "/iota-token/buying-iota",
+  "permalink": "/learn/iota-token/buying-iota",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/iota-token/buying-iota.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "buying-iota",
+    "title": "Buying IOTA",
+    "description": "Where and how to buy the IOTA Cryptocurrency."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Energy efficiency",
+    "permalink": "/learn/about-iota/energy-efficiency"
+  },
+  "next": {
+    "title": "Staking IOTA",
+    "permalink": "/learn/iota-token/staking-iota"
+  }
+}

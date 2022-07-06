@@ -1,0 +1,29 @@
+{
+  "unversionedId": "networks/testnets",
+  "id": "networks/testnets",
+  "title": "Testnets",
+  "description": "The Development and Testnet implementations for Research purposes. Participate in future developments here.",
+  "source": "@site/internal/learn/networks/testnets.md",
+  "sourceDirName": "networks",
+  "slug": "/networks/testnets",
+  "permalink": "/learn/networks/testnets",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/networks/testnets.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Testnets",
+    "description": "The Development and Testnet implementations for Research purposes. Participate in future developments here."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "IOTA 2.0 Coordicide",
+    "permalink": "/learn/networks/iota-2.0-coordicide"
+  },
+  "next": {
+    "title": "Network Token Migration",
+    "permalink": "/learn/networks/network-token-migration"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unversionedId": "frameworks/streams",
+  "id": "frameworks/streams",
+  "title": "Streams",
+  "description": "IOTA's Streams framework offers encrypted data channels for secure data transfer over the Tangle",
+  "source": "@site/internal/participate/frameworks/streams.md",
+  "sourceDirName": "frameworks",
+  "slug": "/frameworks/streams",
+  "permalink": "/participate/frameworks/streams",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/streams.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Streams",
+    "description": "IOTA's Streams framework offers encrypted data channels for secure data transfer over the Tangle"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/participate/frameworks/introduction"
+  },
+  "next": {
+    "title": "Identity",
+    "permalink": "/participate/frameworks/identity"
+  }
+}

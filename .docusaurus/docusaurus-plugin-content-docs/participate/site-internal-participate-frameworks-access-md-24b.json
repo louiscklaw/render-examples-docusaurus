@@ -1,0 +1,29 @@
+{
+  "unversionedId": "frameworks/access",
+  "id": "frameworks/access",
+  "title": "Access",
+  "description": "IOTA's unique framework to grant and control access to data and objects.",
+  "source": "@site/internal/participate/frameworks/access.md",
+  "sourceDirName": "frameworks",
+  "slug": "/frameworks/access",
+  "permalink": "/participate/frameworks/access",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/access.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Access",
+    "description": "IOTA's unique framework to grant and control access to data and objects."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Smart Contracts",
+    "permalink": "/participate/frameworks/smart-contracts"
+  },
+  "next": {
+    "title": "Stronghold",
+    "permalink": "/participate/frameworks/stronghold"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "iota-token/staking-iota",
+  "id": "iota-token/staking-iota",
+  "title": "Staking IOTA",
+  "description": "Everything you need to know about all the different upcoming staking opportunities in IOTA, Assembly, and Shimmer network.",
+  "source": "@site/internal/learn/iota-token/staking-iota.md",
+  "sourceDirName": "iota-token",
+  "slug": "/iota-token/staking-iota",
+  "permalink": "/learn/iota-token/staking-iota",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/iota-token/staking-iota.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "staking-iota",
+    "title": "Staking IOTA",
+    "description": "Everything you need to know about all the different upcoming staking opportunities in IOTA, Assembly, and Shimmer network."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Buying IOTA",
+    "permalink": "/learn/iota-token/buying-iota"
+  },
+  "next": {
+    "title": "What is a Wallet?",
+    "permalink": "/learn/wallets/what-is-a-wallet"
+  }
+}

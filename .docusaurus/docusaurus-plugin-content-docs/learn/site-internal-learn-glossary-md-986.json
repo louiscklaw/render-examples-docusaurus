@@ -1,0 +1,29 @@
+{
+  "unversionedId": "glossary",
+  "id": "glossary",
+  "title": "Glossary",
+  "description": "Glossary of all specialized names and phrases used in the IOTA Technology. If you dont understand a wording you will find answers here.",
+  "source": "@site/internal/learn/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/learn/glossary",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/glossary.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Glossary",
+    "description": "Glossary of all specialized names and phrases used in the IOTA Technology. If you dont understand a wording you will find answers here."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Non-fungible Tokens (NFTs)",
+    "permalink": "/learn/future/nfts"
+  },
+  "next": {
+    "title": "FAQ's",
+    "permalink": "/learn/faqs"
+  }
+}

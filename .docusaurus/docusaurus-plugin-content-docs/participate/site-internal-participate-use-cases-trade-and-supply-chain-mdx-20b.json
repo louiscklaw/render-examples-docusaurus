@@ -1,0 +1,29 @@
+{
+  "unversionedId": "use-cases/trade-and-supply-chain",
+  "id": "use-cases/trade-and-supply-chain",
+  "title": "Trade and Supply Chain",
+  "description": "IOTA delivers solutions to stremaline proccesses in international trade and supply chain and to establish trust in data",
+  "source": "@site/internal/participate/use-cases/trade-and-supply-chain.mdx",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/trade-and-supply-chain",
+  "permalink": "/participate/use-cases/trade-and-supply-chain",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/use-cases/trade-and-supply-chain.mdx",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Trade and Supply Chain",
+    "description": "IOTA delivers solutions to stremaline proccesses in international trade and supply chain and to establish trust in data"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Real Estate",
+    "permalink": "/participate/use-cases/real-estate"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/participate/frameworks/introduction"
+  }
+}

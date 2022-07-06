@@ -1,0 +1,29 @@
+{
+  "unversionedId": "use-cases/mobility",
+  "id": "use-cases/mobility",
+  "title": "Mobility",
+  "description": "IOTA enables accessible, affordable, and sustainable connected mobility.",
+  "source": "@site/internal/participate/use-cases/mobility.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/mobility",
+  "permalink": "/participate/use-cases/mobility",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/use-cases/mobility.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Mobility",
+    "description": "IOTA enables accessible, affordable, and sustainable connected mobility."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Industry Applications",
+    "permalink": "/participate/use-cases/industry-applications"
+  },
+  "next": {
+    "title": "Real Estate",
+    "permalink": "/participate/use-cases/real-estate"
+  }
+}

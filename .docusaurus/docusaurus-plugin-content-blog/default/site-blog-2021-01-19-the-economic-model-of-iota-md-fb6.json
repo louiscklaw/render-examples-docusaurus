@@ -1,0 +1,52 @@
+{
+  "permalink": "/blog/the-economic-model",
+  "source": "@site/blog/2021-01-19_the_economic_model_of_iota.md",
+  "title": "The Economic Model of IOTA",
+  "description": "IOTA",
+  "date": "2021-01-19T00:00:00.000Z",
+  "formattedDate": "January 19, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "Economic",
+      "permalink": "/blog/tags/economic"
+    },
+    {
+      "label": "Mana",
+      "permalink": "/blog/tags/mana"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Luka Stanisic",
+      "title": "X-Team Member",
+      "url": "https://luka99.medium.com",
+      "twitter": "https://twitter.com/lukastanisic99",
+      "imageURL": "https://pbs.twimg.com/profile_images/1340659523070136325/ivYifVE1_400x400.jpg",
+      "key": "lstanisic"
+    }
+  ],
+  "frontMatter": {
+    "slug": "the-economic-model",
+    "title": "The Economic Model of IOTA",
+    "authors": "lstanisic",
+    "tags": [
+      "Community",
+      "Economic",
+      "Mana"
+    ],
+    "url": "https://luka99.medium.com/the-economic-model-of-iota-c28732143d51"
+  },
+  "prevItem": {
+    "title": "The Tech Behind IOTA — Part 1 (Introduction)",
+    "permalink": "/blog/the-tech-behind-IOTA-1"
+  },
+  "nextItem": {
+    "title": "IILA x IOTA — Finite Element Method As A Service",
+    "permalink": "/blog/2019/03/02/_finite_element_method_as_a_service"
+  }
+}

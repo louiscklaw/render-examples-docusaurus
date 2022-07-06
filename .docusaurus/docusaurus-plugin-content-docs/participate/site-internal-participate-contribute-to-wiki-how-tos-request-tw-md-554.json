@@ -1,0 +1,32 @@
+{
+  "unversionedId": "contribute-to-wiki/how_tos/request_tw",
+  "id": "contribute-to-wiki/how_tos/request_tw",
+  "title": "Requesting a Technical Writer",
+  "description": "How to request help from a technical writer.",
+  "source": "@site/internal/participate/contribute-to-wiki/how_tos/request_tw.md",
+  "sourceDirName": "contribute-to-wiki/how_tos",
+  "slug": "/contribute-to-wiki/how_tos/request_tw",
+  "permalink": "/participate/contribute-to-wiki/how_tos/request_tw",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/how_tos/request_tw.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "keywords": [
+      "how to"
+    ],
+    "description": "How to request help from a technical writer.",
+    "image": "/img/iota-wiki.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Setting Up Documentation",
+    "permalink": "/participate/contribute-to-wiki/how_tos/documentation_setup"
+  },
+  "next": {
+    "title": "Third-Party Works",
+    "permalink": "/participate/contribute-to-wiki/explanations/third-party_works"
+  }
+}

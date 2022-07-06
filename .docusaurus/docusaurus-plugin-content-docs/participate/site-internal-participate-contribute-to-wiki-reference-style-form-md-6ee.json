@@ -1,0 +1,32 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/style/form",
+  "id": "contribute-to-wiki/reference/style/form",
+  "title": "Form",
+  "description": "The technical writer's guide for IOTA Wiki.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/style/form.md",
+  "sourceDirName": "contribute-to-wiki/reference/style",
+  "slug": "/contribute-to-wiki/reference/style/form",
+  "permalink": "/participate/contribute-to-wiki/reference/style/form",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/style/form.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "keywords": [
+      "reference"
+    ],
+    "description": "The technical writer's guide for IOTA Wiki.",
+    "image": "/img/iota-wiki.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Matter",
+    "permalink": "/participate/contribute-to-wiki/reference/style/matter"
+  },
+  "next": {
+    "title": "Language Mechanics",
+    "permalink": "/participate/contribute-to-wiki/reference/style/mechanics"
+  }
+}

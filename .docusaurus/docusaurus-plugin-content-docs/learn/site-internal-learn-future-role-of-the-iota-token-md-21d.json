@@ -1,0 +1,35 @@
+{
+  "unversionedId": "future/role-of-iota",
+  "id": "future/role-of-iota",
+  "title": "Role of the IOTA Token",
+  "description": "Introduction to the emerging permissionless Smart Contracts network",
+  "source": "@site/internal/learn/future/role-of-the-iota-token.md",
+  "sourceDirName": "future",
+  "slug": "/future/role-of-iota",
+  "permalink": "/learn/future/role-of-iota",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/role-of-the-iota-token.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "role-of-iota",
+    "title": "Role of the IOTA Token",
+    "description": "Introduction to the emerging permissionless Smart Contracts network",
+    "keywords": [
+      "smart contracts",
+      "permissionless",
+      "ASMB"
+    ]
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Assembly",
+    "permalink": "/learn/future/assembly"
+  },
+  "next": {
+    "title": "Dust Protection",
+    "permalink": "/learn/future/dust-protection"
+  }
+}

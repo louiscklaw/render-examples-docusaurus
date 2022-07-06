@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/the-chirping-machine",
+  "source": "@site/blog/2021-05-11_the_chirping_machine.md",
+  "title": "The Chirping Machine",
+  "description": "Die Zwitscher-Maschine",
+  "date": "2021-05-11T00:00:00.000Z",
+  "formattedDate": "May 11, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "Distributed Ledger",
+      "permalink": "/blog/tags/distributed-ledger"
+    },
+    {
+      "label": "Gossip",
+      "permalink": "/blog/tags/gossip"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Borg",
+      "title": "X-Team Member",
+      "url": "https://b0rg.medium.com",
+      "imageURL": "https://miro.medium.com/fit/c/262/262/0*WiVpsjo3-7vCQam4",
+      "key": "borg"
+    }
+  ],
+  "frontMatter": {
+    "slug": "the-chirping-machine",
+    "title": "The Chirping Machine",
+    "authors": "borg",
+    "tags": [
+      "Community",
+      "Distributed Ledger",
+      "Gossip"
+    ],
+    "url": "https://medium.com/coinmonks/the-chirping-machine-4c73269c2871"
+  },
+  "prevItem": {
+    "title": "My take on IOTA’s Community Treasury",
+    "permalink": "/blog/my-take-community-treasury"
+  },
+  "nextItem": {
+    "title": "The Tech Behind IOTA — Part 2 (Consensus)",
+    "permalink": "/blog/the-tech-behind-IOTA-2"
+  }
+}

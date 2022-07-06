@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/the-dao-landscape",
+  "source": "@site/blog/2021-11-15_DAO-ecosystem.md",
+  "title": "A vision of IOTA´s future ecosystem — The DAO-landscape",
+  "description": "DAO ecosystem",
+  "date": "2021-11-15T00:00:00.000Z",
+  "formattedDate": "November 15, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "DAO",
+      "permalink": "/blog/tags/dao"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Linus Naumann",
+      "title": "Community Member",
+      "url": "https://twitter.com/LinusNaumann",
+      "twitter": "LinusNaumann",
+      "imageURL": "https://pbs.twimg.com/profile_images/1397841376335876097/8Q2_Bovt_400x400.jpg",
+      "key": "lnaumann"
+    }
+  ],
+  "frontMatter": {
+    "slug": "the-dao-landscape",
+    "title": "A vision of IOTA´s future ecosystem — The DAO-landscape",
+    "authors": "lnaumann",
+    "tags": [
+      "Community",
+      "DAO"
+    ],
+    "url": "https://medium.com/@linus.naumann/a-vision-of-iota-s-future-ecosystem-the-dao-landscape-b93688d8acee"
+  },
+  "prevItem": {
+    "title": "“Better than Coinbase” – IOTAs new Assembly network is the missing piece for Metaverse and Web3",
+    "permalink": "/blog/Assembly better than Coinbase"
+  },
+  "nextItem": {
+    "title": "IOTAs multi-asset multiverse is coming",
+    "permalink": "/blog/multi-asset-multiverse-is-coming"
+  }
+}

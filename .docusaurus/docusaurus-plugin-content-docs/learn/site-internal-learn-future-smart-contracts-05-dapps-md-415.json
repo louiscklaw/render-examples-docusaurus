@@ -1,0 +1,43 @@
+{
+  "unversionedId": "future/smart-contracts/smart-contracts-dapps",
+  "id": "future/smart-contracts/smart-contracts-dapps",
+  "title": "Decentralized Applications",
+  "description": "In this article you decentralized applications work and how users can interact with it.",
+  "source": "@site/internal/learn/future/smart-contracts/05_dapps.md",
+  "sourceDirName": "future/smart-contracts",
+  "slug": "/future/smart-contracts/smart-contracts-dapps",
+  "permalink": "/learn/future/smart-contracts/smart-contracts-dapps",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/05_dapps.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "smart-contracts-dapps",
+    "title": "Decentralized Applications",
+    "description": "In this article you decentralized applications work and how users can interact with it.",
+    "keywords": [
+      "Decentralized Applications",
+      "dApps",
+      "Smart Contracts",
+      "wasp",
+      "ISCP",
+      "Schema Tool",
+      "Wasp API",
+      "REST API",
+      "Fair roulette"
+    ],
+    "image": "http://blog.iota.org/content/images/size/w1600/2021/10/Group-4947.png"
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Chains",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-chains"
+  },
+  "next": {
+    "title": "Consensus",
+    "permalink": "/learn/future/smart-contracts/smart-contracts-consensus"
+  }
+}

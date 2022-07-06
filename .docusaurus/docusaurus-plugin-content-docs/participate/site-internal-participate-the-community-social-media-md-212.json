@@ -1,0 +1,29 @@
+{
+  "unversionedId": "the-community/social-media",
+  "id": "the-community/social-media",
+  "title": "Social Media",
+  "description": "IOTA has a thriving and active community on all popular social media applications. Find the IOTA Foundation and the community here.",
+  "source": "@site/internal/participate/the-community/social-media.md",
+  "sourceDirName": "the-community",
+  "slug": "/the-community/social-media",
+  "permalink": "/participate/the-community/social-media",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/the-community/social-media.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Social Media",
+    "description": "IOTA has a thriving and active community on all popular social media applications. Find the IOTA Foundation and the community here."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "GitHub",
+    "permalink": "/participate/the-community/git-hub"
+  },
+  "next": {
+    "title": "EDF - Funding",
+    "permalink": "/participate/funding/edf-funding"
+  }
+}

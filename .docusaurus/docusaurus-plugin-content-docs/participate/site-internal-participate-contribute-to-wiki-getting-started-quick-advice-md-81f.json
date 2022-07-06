@@ -1,0 +1,32 @@
+{
+  "unversionedId": "contribute-to-wiki/getting_started/quick_advice",
+  "id": "contribute-to-wiki/getting_started/quick_advice",
+  "title": "Quick Advice",
+  "description": "How to get yourself writing.",
+  "source": "@site/internal/participate/contribute-to-wiki/getting_started/quick_advice.md",
+  "sourceDirName": "contribute-to-wiki/getting_started",
+  "slug": "/contribute-to-wiki/getting_started/quick_advice",
+  "permalink": "/participate/contribute-to-wiki/getting_started/quick_advice",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/getting_started/quick_advice.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "keywords": [
+      "getting started"
+    ],
+    "description": "How to get yourself writing.",
+    "image": "/img/iota-wiki.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/participate/contribute-to-wiki/getting_started/"
+  },
+  "next": {
+    "title": "Writing as a Dev",
+    "permalink": "/participate/contribute-to-wiki/getting_started/developer"
+  }
+}

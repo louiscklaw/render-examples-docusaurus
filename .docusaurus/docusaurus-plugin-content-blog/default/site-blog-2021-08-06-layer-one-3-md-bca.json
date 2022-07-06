@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/layer_one_3",
+  "source": "@site/blog/2021-08-06_layer_one_3.md",
+  "title": "Layer One—Part 3: Metamoney",
+  "description": "Parallel Reality",
+  "date": "2021-08-06T00:00:00.000Z",
+  "formattedDate": "August 6, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "Layer One",
+      "permalink": "/blog/tags/layer-one"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "R. Brennan Kelly",
+      "title": "X-Team Member",
+      "url": "https://iologica.substack.com",
+      "twitter": "https://twitter.com/rbrennankelly",
+      "imageURL": "https://cdn.substack.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21445b1d-ec24-4133-baa2-95ceede4f41e_448x479.png",
+      "key": "kbrennan"
+    }
+  ],
+  "frontMatter": {
+    "slug": "layer_one_3",
+    "title": "Layer One—Part 3: Metamoney",
+    "authors": "kbrennan",
+    "tags": [
+      "Community",
+      "Layer One"
+    ],
+    "url": "https://iologica.substack.com/p/metamoney"
+  },
+  "prevItem": {
+    "title": "Layer One—Part 2: Error Correction",
+    "permalink": "/blog/layer_one_2"
+  },
+  "nextItem": {
+    "title": "An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains",
+    "permalink": "/blog/An introduction to DLT Concepts"
+  }
+}

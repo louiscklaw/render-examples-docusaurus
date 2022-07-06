@@ -1,0 +1,30 @@
+{
+  "unversionedId": "about-iota/energy-efficiency",
+  "id": "about-iota/energy-efficiency",
+  "title": "Energy efficiency",
+  "description": "Energy efficiency of transactions in the IOTA Network.",
+  "source": "@site/internal/learn/about-iota/energy-efficiency.md",
+  "sourceDirName": "about-iota",
+  "slug": "/about-iota/energy-efficiency",
+  "permalink": "/learn/about-iota/energy-efficiency",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/about-iota/energy-efficiency.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "energy-efficiency",
+    "title": "Energy efficiency",
+    "description": "Energy efficiency of transactions in the IOTA Network."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Messages",
+    "permalink": "/learn/about-iota/messages"
+  },
+  "next": {
+    "title": "Buying IOTA",
+    "permalink": "/learn/iota-token/buying-iota"
+  }
+}

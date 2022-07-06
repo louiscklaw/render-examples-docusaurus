@@ -1,0 +1,29 @@
+{
+  "unversionedId": "use-cases/real-estate",
+  "id": "use-cases/real-estate",
+  "title": "Real Estate",
+  "description": "IOTA is the underlying technology for many ground-breaking use cases. Real estate is one of them.",
+  "source": "@site/internal/participate/use-cases/real-estate.md",
+  "sourceDirName": "use-cases",
+  "slug": "/use-cases/real-estate",
+  "permalink": "/participate/use-cases/real-estate",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/use-cases/real-estate.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Real Estate",
+    "description": "IOTA is the underlying technology for many ground-breaking use cases. Real estate is one of them."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Mobility",
+    "permalink": "/participate/use-cases/mobility"
+  },
+  "next": {
+    "title": "Trade and Supply Chain",
+    "permalink": "/participate/use-cases/trade-and-supply-chain"
+  }
+}

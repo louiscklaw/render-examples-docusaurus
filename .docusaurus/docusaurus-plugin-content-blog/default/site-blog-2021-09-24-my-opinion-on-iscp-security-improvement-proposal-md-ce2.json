@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/iscp_security_proposal",
+  "source": "@site/blog/2021-09-24_My_opinion_on_iscp_security_improvement_proposal.md",
+  "title": "My opinion on ISCP — security improvement proposal",
+  "description": "keyboard",
+  "date": "2021-09-24T00:00:00.000Z",
+  "formattedDate": "September 24, 2021",
+  "tags": [
+    {
+      "label": "Community",
+      "permalink": "/blog/tags/community"
+    },
+    {
+      "label": "ISCP",
+      "permalink": "/blog/tags/iscp"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Luka Stanisic",
+      "title": "X-Team Member",
+      "url": "https://luka99.medium.com",
+      "twitter": "https://twitter.com/lukastanisic99",
+      "imageURL": "https://pbs.twimg.com/profile_images/1340659523070136325/ivYifVE1_400x400.jpg",
+      "key": "lstanisic"
+    }
+  ],
+  "frontMatter": {
+    "slug": "iscp_security_proposal",
+    "title": "My opinion on ISCP — security improvement proposal",
+    "authors": "lstanisic",
+    "tags": [
+      "Community",
+      "ISCP"
+    ],
+    "url": "https://luka99.medium.com/my-opinion-on-iota-smart-contract-protocol-iscp-security-improvement-proposal-c6ca3ca3df23"
+  },
+  "prevItem": {
+    "title": "IOTAs multi-asset multiverse is coming",
+    "permalink": "/blog/multi-asset-multiverse-is-coming"
+  },
+  "nextItem": {
+    "title": "ISCP in a Private Network - Developing a Prediction Market",
+    "permalink": "/blog/develop_prediction_market"
+  }
+}

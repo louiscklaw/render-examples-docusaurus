@@ -1,0 +1,33 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/style/manifesto",
+  "id": "contribute-to-wiki/reference/style/manifesto",
+  "title": "Manifesto",
+  "description": "The IOTA Wiki's technical writers' manifesto.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/style/manifesto.md",
+  "sourceDirName": "contribute-to-wiki/reference/style",
+  "slug": "/contribute-to-wiki/reference/style/manifesto",
+  "permalink": "/participate/contribute-to-wiki/reference/style/manifesto",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/style/manifesto.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Manifesto",
+    "keywords": [
+      "reference"
+    ],
+    "description": "The IOTA Wiki's technical writers' manifesto.",
+    "image": "/img/iota-wiki.png"
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Mind Maps",
+    "permalink": "/participate/contribute-to-wiki/explanations/tools/mind_map"
+  },
+  "next": {
+    "title": "Structure",
+    "permalink": "/participate/contribute-to-wiki/reference/style/structure"
+  }
+}

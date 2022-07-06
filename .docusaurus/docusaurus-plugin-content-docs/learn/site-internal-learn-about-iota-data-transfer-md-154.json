@@ -1,0 +1,29 @@
+{
+  "unversionedId": "about-iota/data-transfer",
+  "id": "about-iota/data-transfer",
+  "title": "Data Transfer",
+  "description": "A major use-case for the IOTA Technology is Data Transfer. Learn how it works.",
+  "source": "@site/internal/learn/about-iota/data-transfer.md",
+  "sourceDirName": "about-iota",
+  "slug": "/about-iota/data-transfer",
+  "permalink": "/learn/about-iota/data-transfer",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/about-iota/data-transfer.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Data Transfer",
+    "description": "A major use-case for the IOTA Technology is Data Transfer. Learn how it works."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "An Introduction to IOTA",
+    "permalink": "/learn/about-iota/an-introduction-to-iota"
+  },
+  "next": {
+    "title": "Value Transfer",
+    "permalink": "/learn/about-iota/value-transfer"
+  }
+}

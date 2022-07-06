@@ -1,0 +1,46 @@
+{
+  "permalink": "/blog/wiki-alpha",
+  "source": "@site/blog/2021-08-15_iota-wiki-alpha/2021-08-15.md",
+  "title": "Wiki Alpha release!",
+  "description": "We proudly present the first alpha release of the IOTA wiki. Built by the community for the community. The wiki is at an early stage, and we would really appreciate your contribution.",
+  "date": "2021-08-15T00:00:00.000Z",
+  "formattedDate": "August 15, 2021",
+  "tags": [
+    {
+      "label": "X-Teams",
+      "permalink": "/blog/tags/x-teams"
+    },
+    {
+      "label": "IOTA-Wiki",
+      "permalink": "/blog/tags/iota-wiki"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Dr. Electron",
+      "title": "IOTA-Wiki Core Team",
+      "url": "https://github.com/Dr-Electron",
+      "twitter": "Dr_Electron",
+      "imageURL": "https://avatars.githubusercontent.com/u/61637085?s=400&u=af6caa142c72ef0212a8f9f6798a19878fdd1dae&v=4",
+      "key": "delectron"
+    }
+  ],
+  "frontMatter": {
+    "slug": "wiki-alpha",
+    "title": "Wiki Alpha release!",
+    "authors": "delectron",
+    "tags": [
+      "X-Teams",
+      "IOTA-Wiki"
+    ]
+  },
+  "prevItem": {
+    "title": "Parallel realities and IOTAs breakthrough “Multiverse consensus”",
+    "permalink": "/blog/multiverse_consensus"
+  },
+  "nextItem": {
+    "title": "A future day with IOTA — Part I",
+    "permalink": "/blog/future_day_1"
+  }
+}

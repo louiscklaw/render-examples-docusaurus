@@ -1,0 +1,29 @@
+{
+  "unversionedId": "frameworks/identity",
+  "id": "frameworks/identity",
+  "title": "Identity",
+  "description": "IOTA's digital Identity framework offer amazing new ways to control privacy and data of humans and machines.",
+  "source": "@site/internal/participate/frameworks/identity.md",
+  "sourceDirName": "frameworks",
+  "slug": "/frameworks/identity",
+  "permalink": "/participate/frameworks/identity",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/identity.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "title": "Identity",
+    "description": "IOTA's digital Identity framework offer amazing new ways to control privacy and data of humans and machines."
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Streams",
+    "permalink": "/participate/frameworks/streams"
+  },
+  "next": {
+    "title": "Smart Contracts",
+    "permalink": "/participate/frameworks/smart-contracts"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "unversionedId": "about-iota/why-is-iota-feeless",
+  "id": "about-iota/why-is-iota-feeless",
+  "title": "Why is IOTA Feeless?",
+  "description": "The unique feature of IOTA is the absence of any Fee's in the protocol. Here we explain how this is achieved.",
+  "source": "@site/internal/learn/about-iota/why-is-iota-feeless.md",
+  "sourceDirName": "about-iota",
+  "slug": "/about-iota/why-is-iota-feeless",
+  "permalink": "/learn/about-iota/why-is-iota-feeless",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/about-iota/why-is-iota-feeless.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "id": "why-is-iota-feeless",
+    "title": "Why is IOTA Feeless?",
+    "description": "The unique feature of IOTA is the absence of any Fee's in the protocol. Here we explain how this is achieved."
+  },
+  "sidebar": "learn",
+  "previous": {
+    "title": "Value Transfer",
+    "permalink": "/learn/about-iota/value-transfer"
+  },
+  "next": {
+    "title": "Roadmap to Decentralization",
+    "permalink": "/learn/about-iota/roadmap-to-decentralization"
+  }
+}

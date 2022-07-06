@@ -1,0 +1,33 @@
+{
+  "unversionedId": "contribute-to-wiki/reference/structure/explanations",
+  "id": "contribute-to-wiki/reference/structure/explanations",
+  "title": "Explanations",
+  "description": "Explanations clarify a single topic.",
+  "source": "@site/internal/participate/contribute-to-wiki/reference/structure/explanations.md",
+  "sourceDirName": "contribute-to-wiki/reference/structure",
+  "slug": "/contribute-to-wiki/reference/structure/explanations",
+  "permalink": "/participate/contribute-to-wiki/reference/structure/explanations",
+  "draft": false,
+  "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/explanations.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1657100931,
+  "formattedLastUpdatedAt": "7/6/2022",
+  "frontMatter": {
+    "description": "Explanations clarify a single topic.",
+    "image": "/img/logo/iota_logo.svg",
+    "keywords": [
+      "explanations",
+      "clarify"
+    ]
+  },
+  "sidebar": "participate",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/participate/contribute-to-wiki/reference/structure/tutorials"
+  },
+  "next": {
+    "title": "Reference",
+    "permalink": "/participate/contribute-to-wiki/reference/structure/reference"
+  }
+}
