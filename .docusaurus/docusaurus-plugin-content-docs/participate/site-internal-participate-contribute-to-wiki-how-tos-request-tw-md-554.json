@@ -11,12 +11,10 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/how_tos/request_tw.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
-    "keywords": [
-      "how to"
-    ],
+    "keywords": ["how to"],
     "description": "How to request help from a technical writer.",
     "image": "/img/iota-wiki.png"
   },

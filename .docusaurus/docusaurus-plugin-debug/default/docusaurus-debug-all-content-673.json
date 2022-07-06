@@ -2157,11 +2157,6 @@
       },
       {
         "type": "jsx",
-        "permalink": "/tutorials/",
-        "source": "@site/src/pages/tutorials/index.tsx"
-      },
-      {
-        "type": "jsx",
         "permalink": "/team/",
         "source": "@site/src/pages/team/index.tsx"
       },
@@ -2169,6 +2164,11 @@
         "type": "jsx",
         "permalink": "/team/member",
         "source": "@site/src/pages/team/member.tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/tutorials/",
+        "source": "@site/src/pages/tutorials/index.tsx"
       }
     ]
   },
@@ -2194,9 +2194,9 @@
           "editUrlLocalized": "https://github.com/iota-community/iota-wiki/edit/main/i18n/en/docusaurus-plugin-content-docs-learn/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/work_dir/internal/learn/sidebars.ts",
-          "contentPath": "/work_dir/internal/learn",
-          "contentPathLocalized": "/work_dir/i18n/en/docusaurus-plugin-content-docs-learn/current",
+          "sidebarFilePath": "/home/logic/_del/render-examples-docusaurus/internal/learn/sidebars.ts",
+          "contentPath": "/home/logic/_del/render-examples-docusaurus/internal/learn",
+          "contentPathLocalized": "/home/logic/_del/render-examples-docusaurus/i18n/en/docusaurus-plugin-content-docs-learn/current",
           "docs": [
             {
               "unversionedId": "about-iota/an-introduction-to-iota",
@@ -3753,9 +3753,9 @@
           "editUrlLocalized": "https://github.com/iota-community/iota-wiki/edit/main/i18n/en/docusaurus-plugin-content-docs-participate/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/work_dir/internal/participate/sidebars.ts",
-          "contentPath": "/work_dir/internal/participate",
-          "contentPathLocalized": "/work_dir/i18n/en/docusaurus-plugin-content-docs-participate/current",
+          "sidebarFilePath": "/home/logic/_del/render-examples-docusaurus/internal/participate/sidebars.ts",
+          "contentPath": "/home/logic/_del/render-examples-docusaurus/internal/participate",
+          "contentPathLocalized": "/home/logic/_del/render-examples-docusaurus/i18n/en/docusaurus-plugin-content-docs-participate/current",
           "docs": [
             {
               "unversionedId": "contribute-to-wiki/explanations/third-party_works",
@@ -5554,9 +5554,9 @@
           "editUrlLocalized": "https://github.com/iota-community/iota-wiki/edit/main/i18n/en/docusaurus-plugin-content-docs-build/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/work_dir/internal/build/sidebars.ts",
-          "contentPath": "/work_dir/internal/build",
-          "contentPathLocalized": "/work_dir/i18n/en/docusaurus-plugin-content-docs-build/current",
+          "sidebarFilePath": "/home/logic/_del/render-examples-docusaurus/internal/build/sidebars.ts",
+          "contentPath": "/home/logic/_del/render-examples-docusaurus/internal/build",
+          "contentPathLocalized": "/home/logic/_del/render-examples-docusaurus/i18n/en/docusaurus-plugin-content-docs-build/current",
           "docs": [
             {
               "unversionedId": "exchange-integration/exchange-integration-guide",

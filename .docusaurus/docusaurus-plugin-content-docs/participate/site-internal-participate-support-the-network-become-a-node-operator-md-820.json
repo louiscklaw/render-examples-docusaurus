@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/support-the-network/become-a-node-operator.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "Become a Node Operator",
     "description": "Running a node is the best way to use IOTA. This topic provides a checklist of steps for running a reliable node.",

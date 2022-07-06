@@ -11,20 +11,14 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/04_chains.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 4,
   "frontMatter": {
     "id": "smart-contracts-chains",
     "title": "Chains",
     "description": "In this article you will learn how the IOTA Smart Contract Chains works.",
-    "keywords": [
-      "Chains",
-      "Smart Contracts",
-      "wasp",
-      "ISCP",
-      "Multi-Chain"
-    ],
+    "keywords": ["Chains", "Smart Contracts", "wasp", "ISCP", "Multi-Chain"],
     "image": "/img/learn/multichain.png"
   },
   "sidebar": "learn",

@@ -10,20 +10,20 @@
  * - The default component has the date left aligned, we moved it to the right side
  */
 
-import React from 'react';
-import clsx from 'clsx';
-import { MDXProvider } from '@mdx-js/react';
-import Translate, { translate } from '@docusaurus/Translate';
-import Link from '@docusaurus/Link';
-import { useBaseUrlUtils } from '@docusaurus/useBaseUrl';
-import { usePluralForm } from '@docusaurus/theme-common';
-import MDXComponents from '@theme/MDXComponents';
-import EditThisPage from '@theme/EditThisPage';
-import type { Props } from '@theme/BlogPostItem';
+import React from "react";
+import clsx from "clsx";
+import { MDXProvider } from "@mdx-js/react";
+import Translate, { translate } from "@docusaurus/Translate";
+import Link from "@docusaurus/Link";
+import { useBaseUrlUtils } from "@docusaurus/useBaseUrl";
+import { usePluralForm } from "@docusaurus/theme-common";
+import MDXComponents from "@theme/MDXComponents";
+import EditThisPage from "@theme/EditThisPage";
+import type { Props } from "@theme/BlogPostItem";
 
-import styles from './styles.module.css';
-import TagsListInline from '@theme/TagsListInline';
-import BlogPostAuthors from '@theme/BlogPostAuthors';
+import styles from "./styles.module.css";
+import TagsListInline from "@theme/TagsListInline";
+import BlogPostAuthors from "@theme/BlogPostAuthors";
 
 type UrlFrontmatter = {
   url?: string;
@@ -38,15 +38,15 @@ function useReadingTimePlural() {
       readingTime,
       translate(
         {
-          id: 'theme.blog.post.readingTime.plurals',
+          id: "theme.blog.post.readingTime.plurals",
           description:
             'Pluralized label for "{readingTime} min read". Use as much plural forms (separated by "|") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)',
-          message: 'One min read|{readingTime} min read',
+          message: "One min read|{readingTime} min read",
         },
         {
           readingTime,
-        },
-      ),
+        }
+      )
     );
   };
 }
@@ -76,32 +76,32 @@ function BlogPostItem(props: Props): JSX.Element {
   const url = (frontMatter as UrlFrontmatter).url;
 
   const renderPostHeader = () => {
-    const TitleHeading = isBlogPostPage ? 'h1' : 'h2';
+    const TitleHeading = isBlogPostPage ? "h1" : "h2";
     // Move date to the right
     return (
       <header className={styles.blogHeader}>
-        <TitleHeading className={styles.blogPostTitle} itemProp='headline'>
+        <TitleHeading className={styles.blogPostTitle} itemProp="headline">
           {isBlogPostPage ? (
             title
           ) : (
-            <Link itemProp='url' to={url ? url : permalink}>
+            <Link itemProp="url" to={url ? url : permalink}>
               {title}
             </Link>
           )}
         </TitleHeading>
-        <div className='row row--no-gutters'>
-          <div className='col'>
+        <div className="row row--no-gutters">
+          <div className="col">
             <BlogPostAuthors authors={authors} assets={assets} />
           </div>
-          <div className={clsx(styles.blogPostData, 'margin-vert--md', 'col')}>
+          <div className={clsx(styles.blogPostData, "margin-vert--md", "col")}>
             <div className={styles.blogPostDataContainer}>
-              <time dateTime={date} itemProp='datePublished'>
+              <time dateTime={date} itemProp="datePublished">
                 {formattedDate}
               </time>
 
-              {typeof readingTime !== 'undefined' && (
+              {typeof readingTime !== "undefined" && (
                 <>
-                  {' · '}
+                  {" · "}
                   {readingTimePlural(readingTime)}
                 </>
               )}
@@ -114,16 +114,16 @@ function BlogPostItem(props: Props): JSX.Element {
 
   return (
     <article
-      className={!isBlogPostPage ? 'margin-bottom--xl' : undefined}
-      itemProp='blogPost'
+      className={!isBlogPostPage ? "margin-bottom--xl" : undefined}
+      itemProp="blogPost"
       itemScope
-      itemType='http://schema.org/BlogPosting'
+      itemType="http://schema.org/BlogPosting"
     >
       {renderPostHeader()}
 
       {image && (
         <meta
-          itemProp='image'
+          itemProp="image"
           content={withBaseUrl(image, {
             absolute: true,
           })}
@@ -131,22 +131,22 @@ function BlogPostItem(props: Props): JSX.Element {
       )}
 
       <div
-        className={clsx('markdown', [styles.blogPost__body])}
-        itemProp='articleBody'
+        className={clsx("markdown", [styles.blogPost__body])}
+        itemProp="articleBody"
       >
         <MDXProvider components={MDXComponents}>{children}</MDXProvider>
       </div>
 
       {(tags.length > 0 || truncated) && (
         <footer
-          className={clsx('row docusaurus-mt-lg', {
+          className={clsx("row docusaurus-mt-lg", {
             [styles.blogPostDetailsFull]: isBlogPostPage,
           })}
         >
           {tags.length > 0 && (
             <div
-              className={clsx('col', {
-                'col--9': !isBlogPostPage,
+              className={clsx("col", {
+                "col--9": !isBlogPostPage,
               })}
             >
               <div className={styles.tagsList}>
@@ -156,21 +156,21 @@ function BlogPostItem(props: Props): JSX.Element {
           )}
 
           {isBlogPostPage && editUrl && (
-            <div className='col margin-top--sm'>
+            <div className="col margin-top--sm">
               <EditThisPage editUrl={editUrl} />
             </div>
           )}
 
           {!isBlogPostPage && truncated && (
-            <div className='col col--3 text--right'>
+            <div className="col col--3 text--right">
               <Link
                 to={metadata.permalink}
                 aria-label={`Read more about ${title}`}
               >
                 <b>
                   <Translate
-                    id='theme.blog.post.readMore'
-                    description='The label used in blog post item excerpts to link to full blog posts'
+                    id="theme.blog.post.readMore"
+                    description="The label used in blog post item excerpts to link to full blog posts"
                   >
                     Read More
                   </Translate>

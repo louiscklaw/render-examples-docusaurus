@@ -5,11 +5,11 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-const StorageTypes = ['localStorage', 'sessionStorage', 'none'] as const;
+const StorageTypes = ["localStorage", "sessionStorage", "none"] as const;
 
 export type StorageType = typeof StorageTypes[number];
 
-const DefaultStorageType: StorageType = 'localStorage';
+const DefaultStorageType: StorageType = "localStorage";
 
 /**
  * Will return `null` if browser storage is unavailable (like running Docusaurus
@@ -18,14 +18,14 @@ const DefaultStorageType: StorageType = 'localStorage';
  * @see https://github.com/facebook/docusaurus/pull/4501
  */
 function getBrowserStorage(
-  storageType: StorageType = DefaultStorageType,
+  storageType: StorageType = DefaultStorageType
 ): Storage | null {
-  if (typeof window === 'undefined') {
+  if (typeof window === "undefined") {
     throw new Error(
-      'Browser storage is not available on Node.js/Docusaurus SSR process.',
+      "Browser storage is not available on Node.js/Docusaurus SSR process."
     );
   }
-  if (storageType === 'none') {
+  if (storageType === "none") {
     return null;
   }
   try {
@@ -47,7 +47,7 @@ function logOnceBrowserStorageNotAvailableWarning(error: Error) {
     console.warn(
       `Docusaurus browser storage is not available.
 Possible reasons: running Docusaurus in an iframe, in an incognito browser session, or using too strict browser privacy settings.`,
-      error,
+      error
     );
     hasLoggedBrowserStorageNotAvailableWarning = true;
   }
@@ -93,9 +93,9 @@ Please only call storage APIs in effects and event handlers.`);
  */
 export function createStorageSlot(
   key: string,
-  options?: { persistence?: StorageType },
+  options?: { persistence?: StorageType }
 ): StorageSlot {
-  if (typeof window === 'undefined') {
+  if (typeof window === "undefined") {
     return createServerStorageSlot(key);
   }
   const browserStorage = getBrowserStorage(options?.persistence);
@@ -117,7 +117,7 @@ export function createStorageSlot(
       } catch (err) {
         console.error(
           `Docusaurus storage error, can't set ${key}=${value}`,
-          err,
+          err
         );
       }
     },
@@ -136,7 +136,7 @@ export function createStorageSlot(
  * or an empty list if browser storage can't be accessed.
  */
 export function listStorageKeys(
-  storageType: StorageType = DefaultStorageType,
+  storageType: StorageType = DefaultStorageType
 ): string[] {
   const browserStorage = getBrowserStorage(storageType);
   if (!browserStorage) {

@@ -1,10 +1,10 @@
-import React from 'react';
-import ImageGallery from 'react-image-gallery';
-import 'react-image-gallery/styles/css/image-gallery.css';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import { useRef } from 'react';
-import { useThemeConfig } from '@docusaurus/theme-common';
-import { ThemeConfig } from '@docusaurus/preset-classic';
+import React from "react";
+import ImageGallery from "react-image-gallery";
+import "react-image-gallery/styles/css/image-gallery.css";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import { useRef } from "react";
+import { useThemeConfig } from "@docusaurus/theme-common";
+import { ThemeConfig } from "@docusaurus/preset-classic";
 
 export interface ImageSliderProps {
   path: string;
@@ -21,18 +21,18 @@ export default function ImageSlider({ path }: ImageSliderProps) {
   const videoPlaceholder = useBaseUrl(imageSlider.videoPlaceholder);
   // Import images from the infographics folder
   function importImages(r) {
-    return r.keys().map((x) => x.replace('.', ''));
+    return r.keys().map((x) => x.replace(".", ""));
   }
 
   // Resolve images relative to the static folder
   const allImages = importImages(
-    require.context('@site/static/', true, /\.(png|jpe?g|svg|mp4)$/),
+    require.context("@site/static/", true, /\.(png|jpe?g|svg|mp4)$/)
   );
   const requestedImages = allImages.filter((word) => word.startsWith(path));
 
   // Get file extension
   function getFileExtension(filename) {
-    return filename.split('.').pop();
+    return filename.split(".").pop();
   }
 
   // Create an array of objects with the image paths
@@ -40,7 +40,7 @@ export default function ImageSlider({ path }: ImageSliderProps) {
     const images = [];
     for (let i = 0; i < requestedImages.length; i++) {
       const image = useBaseUrl(requestedImages[i]);
-      if (getFileExtension(requestedImages[i]) === 'mp4') {
+      if (getFileExtension(requestedImages[i]) === "mp4") {
         images.push({
           original: image,
           thumbnail: videoPlaceholder,
@@ -49,9 +49,9 @@ export default function ImageSlider({ path }: ImageSliderProps) {
               controls
               autoPlay={true}
               muted
-              className='image-gallery-video'
+              className="image-gallery-video"
             >
-              <source src={image} type='video/mp4' />
+              <source src={image} type="video/mp4" />
             </video>
           ),
         });

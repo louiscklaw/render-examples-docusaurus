@@ -1,6 +1,6 @@
 ---
 slug: An introduction to DLT Concepts
-title: 'An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains'
+title: "An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains"
 authors: jehnle
 tags: [Community, DLT, Tangle, Introduction]
 url: https://medium.com/p/an-introduction-to-dlt-concepts-and-why-i-think-iotas-tangle-is-superior-to-blockchains-550b69ec86d6

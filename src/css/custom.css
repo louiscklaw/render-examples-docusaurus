@@ -1,6 +1,6 @@
-@import 'fonts.css';
-@import 'variables.css';
-@import 'patches.css';
+@import "fonts.css";
+@import "variables.css";
+@import "patches.css";
 
 .version-picker {
   background-color: var(--ifm-color-emphasis-200);
@@ -25,15 +25,15 @@
 
 .dropdown > .navbar__link:after,
 .menu__link--sublist:after {
-  content: 'expand_more';
-  font-family: 'Material Icons';
+  content: "expand_more";
+  font-family: "Material Icons";
   font-size: 1.25rem;
   white-space: nowrap;
 }
 
 .dropdown__label,
 .footer__title {
-  font-family: 'Metropolis Bold';
+  font-family: "Metropolis Bold";
   font-size: 0.8rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
@@ -49,7 +49,7 @@
 }
 
 .dropdown__menu--mega .link__label {
-  font-family: 'Metropolis Semi Bold', sans-serif;
+  font-family: "Metropolis Semi Bold", sans-serif;
 }
 
 .card {
@@ -98,8 +98,8 @@ article .card {
 .Collapsible__trigger:after {
   font-size: var(--ifm-h2-font-size);
   font-weight: var(--ifm-heading-font-weight);
-  font-family: 'Material Icons';
-  content: '\e5cf';
+  font-family: "Material Icons";
+  content: "\e5cf";
   position: absolute;
   right: 10px;
   top: 10px;
@@ -168,11 +168,11 @@ article .card {
 }
 
 .link__icon {
-  font-family: 'iota_icons_font' !important;
+  font-family: "iota_icons_font" !important;
   font-size: 2.5rem;
 }
 
-[data-theme='dark'] .link__icon {
+[data-theme="dark"] .link__icon {
   color: var(--ifm-menu-color);
 }
 
@@ -212,7 +212,7 @@ article .card {
 }
 
 .navbar__item {
-  font-family: 'Metropolis Semi Bold';
+  font-family: "Metropolis Semi Bold";
   font-size: 0.9rem;
   letter-spacing: 1px;
 }
@@ -264,7 +264,7 @@ ul ul .table-of-contents__link {
 }
 
 .team__icon {
-  font-family: 'socials_font' !important;
+  font-family: "socials_font" !important;
   font-size: 1rem;
   display: flex;
   align-items: center;
@@ -289,8 +289,8 @@ ul ul .table-of-contents__link {
 }
 
 .theme-doc-toc-mobile button::after {
-  content: 'expand_less';
-  font-family: 'Material Icons';
+  content: "expand_less";
+  font-family: "Material Icons";
   font-size: 1.25rem;
 }
 
@@ -305,7 +305,7 @@ ul ul .table-of-contents__link {
   text-shadow: none;
 }
 
-.DocSearch .DocSearch-Hit[aria-selected='true'] a {
+.DocSearch .DocSearch-Hit[aria-selected="true"] a {
   background-color: var(--ifm-hover-overlay);
 }
 
@@ -339,7 +339,7 @@ ul ul .table-of-contents__link {
   color: var(--ifm-color-emphasis-600);
 }
 
-.DocSearch .DocSearch-Hit[aria-selected='true'] mark {
+.DocSearch .DocSearch-Hit[aria-selected="true"] mark {
   color: var(--docsearch-highlight-color) !important;
   text-decoration: none;
 }

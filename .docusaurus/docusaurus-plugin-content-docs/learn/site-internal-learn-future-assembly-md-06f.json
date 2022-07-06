@@ -11,17 +11,13 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/assembly.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "assembly",
     "title": "Assembly",
     "description": "Introduction to the emerging permissionless Smart Contracts network",
-    "keywords": [
-      "smart contracts",
-      "permissionless",
-      "ASMB"
-    ]
+    "keywords": ["smart contracts", "permissionless", "ASMB"]
   },
   "sidebar": "learn",
   "previous": {

@@ -11,12 +11,10 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/explanations/tools/mind_map.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
-    "keywords": [
-      "getting started"
-    ],
+    "keywords": ["getting started"],
     "description": "A mind map is a technique that can help you to grasp a large project and start writing about it.",
     "image": "/img/iota-wiki.png"
   },

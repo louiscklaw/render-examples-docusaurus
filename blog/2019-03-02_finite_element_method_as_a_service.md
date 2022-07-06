@@ -1,5 +1,5 @@
 ---
-title: 'IILA x IOTA — Finite Element Method As A Service'
+title: "IILA x IOTA — Finite Element Method As A Service"
 authors: dtrauth
 tags: [Community, IoT, IOTA LAB AACHEN]
 url: https://medium.com/industrial-iota-lab-aachen-wzl-of-rwth-aachen/iila-x-iota-finite-element-method-as-a-service-2a782a479516

@@ -5,13 +5,13 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React from 'react';
+import React from "react";
 import {
   useNavbarMobileSidebar,
   useThemeConfig,
-} from '@docusaurus/theme-common';
-import type { Props as NavbarItemConfig } from '@theme/NavbarItem';
-import NavbarItem from '../../../NavbarItem';
+} from "@docusaurus/theme-common";
+import type { Props as NavbarItemConfig } from "@theme/NavbarItem";
+import NavbarItem from "../../../NavbarItem";
 
 function useNavbarItems() {
   // TODO temporary casting until ThemeConfig type is improved
@@ -27,7 +27,7 @@ export default function NavbarMobilePrimaryMenu(): JSX.Element {
   const items = useNavbarItems();
 
   return (
-    <ul className='menu__list'>
+    <ul className="menu__list">
       {items.map((item, i) => (
         <NavbarItem
           mobile

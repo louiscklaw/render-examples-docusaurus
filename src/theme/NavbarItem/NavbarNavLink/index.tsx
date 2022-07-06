@@ -5,16 +5,16 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React from 'react';
-import Link from '@docusaurus/Link';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import type { Props as OriginalProps } from '@theme/NavbarItem/NavbarNavLink';
-import IconExternalLink from '@theme/IconExternalLink';
-import isInternalUrl from '@docusaurus/isInternalUrl';
-import { isRegexpStringMatch } from '@docusaurus/theme-common';
-import './styles.css';
+import React from "react";
+import Link from "@docusaurus/Link";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import type { Props as OriginalProps } from "@theme/NavbarItem/NavbarNavLink";
+import IconExternalLink from "@theme/IconExternalLink";
+import isInternalUrl from "@docusaurus/isInternalUrl";
+import { isRegexpStringMatch } from "@docusaurus/theme-common";
+import "./styles.css";
 
-const dropdownLinkActiveClass = 'dropdown__link--active';
+const dropdownLinkActiveClass = "dropdown__link--active";
 
 export interface Props extends OriginalProps {
   sublabel?: string;
@@ -29,7 +29,7 @@ export default function NavbarNavLink({
   label,
   sublabel,
   icon,
-  activeClassName = '',
+  activeClassName = "",
   prependBaseUrlToHref,
   ...props
 }: Props): JSX.Element {
@@ -51,7 +51,7 @@ export default function NavbarNavLink({
             isNavLink: true,
             activeClassName: !props.className?.includes(activeClassName)
               ? activeClassName
-              : '',
+              : "",
             to: toUrl,
             ...(activeBasePath || activeBaseRegex
               ? {
@@ -64,10 +64,10 @@ export default function NavbarNavLink({
           })}
       {...props}
     >
-      <div className='link'>
-        {icon && <div className='link__icon'>{icon}</div>}
-        <div className='link__body'>
-          <div className='link__label'>
+      <div className="link">
+        {icon && <div className="link__icon">{icon}</div>}
+        <div className="link__body">
+          <div className="link__label">
             {label}
             {isExternalLink && (
               <IconExternalLink
@@ -78,7 +78,7 @@ export default function NavbarNavLink({
               />
             )}
           </div>
-          {sublabel && <div className='link__sublabel'>{sublabel}</div>}
+          {sublabel && <div className="link__sublabel">{sublabel}</div>}
         </div>
       </div>
     </Link>

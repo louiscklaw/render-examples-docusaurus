@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/utilities/visualizer.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "Network Visualizer",
     "description": "See the IOTA Tangle in real-time confirming messages and building the unique IOTA Directed Acyclic Graph."

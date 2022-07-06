@@ -5,8 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React, { useState, useRef, useEffect } from 'react';
-import clsx from 'clsx';
+import React, { useState, useRef, useEffect } from "react";
+import clsx from "clsx";
 import {
   isSamePath,
   useCollapsible,
@@ -15,19 +15,19 @@ import {
   useLocalPathname,
   useHideableNavbar,
   useThemeConfig,
-} from '@docusaurus/theme-common';
-import type { DesktopOrMobileNavBarItemProps } from '@theme/NavbarItem/DropdownNavbarItem';
-import type { LinkLikeNavbarItemProps } from '@theme/NavbarItem';
+} from "@docusaurus/theme-common";
+import type { DesktopOrMobileNavBarItemProps } from "@theme/NavbarItem/DropdownNavbarItem";
+import type { LinkLikeNavbarItemProps } from "@theme/NavbarItem";
 
 import NavbarNavLink, {
   Props as NavbarNavLinkProps,
-} from '@theme/NavbarItem/NavbarNavLink';
-import NavbarItem from '@theme/NavbarItem';
-import './styles.css';
-import { useCurrentDocPlugins } from '@site/src/theme/NavbarItem/DocsVersionDropdownNavbarItem/utils';
-import { useWikiPreferredVersion } from '@site/src/contexts/wikiPreferredVersion';
+} from "@theme/NavbarItem/NavbarNavLink";
+import NavbarItem from "@theme/NavbarItem";
+import "./styles.css";
+import { useCurrentDocPlugins } from "@site/src/theme/NavbarItem/DocsVersionDropdownNavbarItem/utils";
+import { useWikiPreferredVersion } from "@site/src/contexts/wikiPreferredVersion";
 
-const dropdownLinkActiveClass = 'dropdown__link--active';
+const dropdownLinkActiveClass = "dropdown__link--active";
 
 interface MegaDropdownCategory {
   label: string;
@@ -35,7 +35,7 @@ interface MegaDropdownCategory {
 }
 
 interface DesktopOrMobileMegaDropdownNavbarItemProps
-  extends Omit<DesktopOrMobileNavBarItemProps, 'items'> {
+  extends Omit<DesktopOrMobileNavBarItemProps, "items"> {
   readonly items_: MegaDropdownCategory[];
   readonly layout?;
 }
@@ -69,7 +69,7 @@ function MegaDropdownItem({
   if (to || href) {
     return (
       <NavbarNavLink
-        className={clsx('dropdown__link', className)}
+        className={clsx("dropdown__link", className)}
         activeClassName={dropdownLinkActiveClass}
         to={to}
         href={href}
@@ -80,10 +80,10 @@ function MegaDropdownItem({
   }
 
   if (label) {
-    return <div className='dropdown__label'>{label}</div>;
+    return <div className="dropdown__label">{label}</div>;
   }
 
-  throw 'Mega dropdown item must be a link or a category header.';
+  throw "Mega dropdown item must be a link or a category header.";
 }
 
 /***
@@ -110,7 +110,7 @@ function getDropdownProps(props, items, localPathname) {
   if (activeItem.length) {
     return {
       activeBaseRegex: activeItem[0].activeBaseRegex,
-      label: props.label + ' | ' + activeItem[0].label,
+      label: props.label + " | " + activeItem[0].label,
     };
   }
 
@@ -119,7 +119,7 @@ function getDropdownProps(props, items, localPathname) {
 
 function isItemActive(
   item: LinkLikeNavbarItemProps,
-  localPathname: string,
+  localPathname: string
 ): boolean {
   if (isSamePath(item.to, localPathname)) {
     return true;
@@ -135,7 +135,7 @@ function isItemActive(
 
 function containsActiveItems(
   items: readonly LinkLikeNavbarItemProps[],
-  localPathname: string,
+  localPathname: string
 ): boolean {
   return items.some((item) => isItemActive(item, localPathname));
 }
@@ -164,7 +164,7 @@ function MegaDropdownNavbarItemDesktop({
   const dropdownProps = getDropdownProps(
     props,
     ungroupedItems,
-    useLocalPathname(),
+    useLocalPathname()
   );
   const containsActive = containsActiveItems(ungroupedItems, localPathname);
 
@@ -176,7 +176,7 @@ function MegaDropdownNavbarItemDesktop({
   const gridIndexes = [];
   layout.forEach((row, rowOffset) => {
     row.split(/\s+/).forEach((column, columnOffset) => {
-      if (column && column !== '.') {
+      if (column && column !== ".") {
         gridIndexes[rowOffset + columnOffset * rowCount] = column;
       }
     });
@@ -207,7 +207,7 @@ function MegaDropdownNavbarItemDesktop({
 
   // Add tab behavior to last item
   lastItem.onKeyDown = (e) => {
-    if (e.key === 'Tab') {
+    if (e.key === "Tab") {
       setShowDropdown(false);
     }
   };
@@ -229,32 +229,32 @@ function MegaDropdownNavbarItemDesktop({
       setShowDropdown(false);
     };
 
-    document.addEventListener('mousedown', handleClickOutside);
-    document.addEventListener('touchstart', handleClickOutside);
+    document.addEventListener("mousedown", handleClickOutside);
+    document.addEventListener("touchstart", handleClickOutside);
 
     return () => {
-      document.removeEventListener('mousedown', handleClickOutside);
-      document.removeEventListener('touchstart', handleClickOutside);
+      document.removeEventListener("mousedown", handleClickOutside);
+      document.removeEventListener("touchstart", handleClickOutside);
     };
   }, [dropdownRef]);
 
   return (
     <div
       ref={dropdownRef}
-      className={clsx('dropdown', 'dropdown--hoverable', 'dropdown--mega', {
-        'dropdown--right': position === 'right',
-        'dropdown--show': showDropdown,
+      className={clsx("dropdown", "dropdown--hoverable", "dropdown--mega", {
+        "dropdown--right": position === "right",
+        "dropdown--show": showDropdown,
       })}
       onMouseLeave={() => setShowDropdown(false)}
     >
       <NavbarNavLink
-        className={clsx('navbar__item navbar__link', className, {
-          'navbar__link--active': containsActive,
+        className={clsx("navbar__item navbar__link", className, {
+          "navbar__link--active": containsActive,
         })}
         {...dropdownProps}
         onClick={(e) => e.preventDefault()}
         onKeyDown={(e) => {
-          if (e.key === 'Enter') {
+          if (e.key === "Enter") {
             e.preventDefault();
             setShowDropdown(!showDropdown);
           }
@@ -263,13 +263,13 @@ function MegaDropdownNavbarItemDesktop({
       >
         {props.children ?? props.label}
       </NavbarNavLink>
-      <div className='dropdown__container'>
-        <div className='dropdown__menu'>
+      <div className="dropdown__container">
+        <div className="dropdown__menu">
           {grid.map((row, rowKey) => (
-            <div className='row row--no-gutters dropdown__row' key={rowKey}>
+            <div className="row row--no-gutters dropdown__row" key={rowKey}>
               {row.map((column, columnKey) => (
                 <div
-                  className='col margin-horiz--xs dropdown__col'
+                  className="col margin-horiz--xs dropdown__col"
                   key={columnKey}
                 >
                   {column ? <MegaDropdownItem {...column} /> : null}
@@ -315,13 +315,13 @@ function MegaDropdownNavbarItemMobile({
 
   return (
     <li
-      className={clsx('menu__list-item', {
-        'menu__list-item--collapsed': collapsed,
+      className={clsx("menu__list-item", {
+        "menu__list-item--collapsed": collapsed,
       })}
     >
       <NavbarNavLink
-        role='button'
-        className={clsx('menu__link menu__link--sublist', className)}
+        role="button"
+        className={clsx("menu__link menu__link--sublist", className)}
         {...props}
         onClick={(e) => {
           e.preventDefault();
@@ -330,12 +330,12 @@ function MegaDropdownNavbarItemMobile({
       >
         {dropdownProps}
       </NavbarNavLink>
-      <Collapsible lazy as='ul' className='menu__list' collapsed={collapsed}>
+      <Collapsible lazy as="ul" className="menu__list" collapsed={collapsed}>
         {items.map((childItemProps, i) => (
           <NavbarItem
             mobile
             onClick={props.onClick}
-            activeClassName='menu__link--active'
+            activeClassName="menu__link--active"
             {...childItemProps}
             key={i}
           />
@@ -346,12 +346,12 @@ function MegaDropdownNavbarItemMobile({
 }
 
 function resolveVersion(
-  item: LinkLikeNavbarItemProps,
+  item: LinkLikeNavbarItemProps
 ): LinkLikeNavbarItemProps {
   if (item.to !== undefined) {
     // TODO: Not rely on `{projectId}/{docsPath}` formatted url
-    const [projectId, ...docsPathItems] = item.to.split('/');
-    const docsPath = docsPathItems.join('/');
+    const [projectId, ...docsPathItems] = item.to.split("/");
+    const docsPath = docsPathItems.join("/");
     const pathname = `/${projectId}/${docsPath}`;
     const pluginIds = useCurrentDocPlugins(pathname);
 

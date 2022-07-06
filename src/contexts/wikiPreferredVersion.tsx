@@ -1,11 +1,11 @@
-import { useCallback } from 'react';
+import { useCallback } from "react";
 import {
   useDocsData,
   type GlobalVersion,
-} from '@docusaurus/plugin-content-docs/client';
-import { createStorageSlot } from '../theme/NavbarItem/DocsVersionDropdownNavbarItem/storageUtils';
-import { DocsVersionPersistence } from '@docusaurus/theme-common/src/utils/useThemeConfig';
-import useIsBrowser from '@docusaurus/useIsBrowser';
+} from "@docusaurus/plugin-content-docs/client";
+import { createStorageSlot } from "../theme/NavbarItem/DocsVersionDropdownNavbarItem/storageUtils";
+import { DocsVersionPersistence } from "@docusaurus/theme-common/src/utils/useThemeConfig";
+import useIsBrowser from "@docusaurus/useIsBrowser";
 
 const storageKey = (projectId) => `wiki-preferred-version-${projectId}`;
 
@@ -13,14 +13,14 @@ const DocsPreferredVersionStorage = {
   save: (
     projectId: string,
     persistence: DocsVersionPersistence,
-    versionLabel: string,
+    versionLabel: string
   ): void => {
     createStorageSlot(storageKey(projectId), { persistence }).set(versionLabel);
   },
 
   read: (
     projectId: string,
-    persistence: DocsVersionPersistence,
+    persistence: DocsVersionPersistence
   ): string | null => {
     return createStorageSlot(storageKey(projectId), { persistence }).get();
   },
@@ -32,15 +32,15 @@ const DocsPreferredVersionStorage = {
 
 export function useWikiPreferredVersion(
   pathname: string,
-  pluginIds: string[],
+  pluginIds: string[]
 ): {
   preferredVersion: GlobalVersion | null;
   savePreferredVersionName: (versionName: string) => void;
 } {
   const isBrowser = useIsBrowser();
   // Use string at index 1 as pathname starts with a '/'
-  const projectId = pathname.split('/')[1];
-  const persistence = 'localStorage';
+  const projectId = pathname.split("/")[1];
+  const persistence = "localStorage";
   const preferredVersionLabel = isBrowser
     ? DocsPreferredVersionStorage.read(projectId, persistence)
     : null;
@@ -63,7 +63,7 @@ export function useWikiPreferredVersion(
         DocsPreferredVersionStorage.save(projectId, persistence, versionLabel);
       }
     },
-    [projectId, isBrowser],
+    [projectId, isBrowser]
   );
 
   return { preferredVersion, savePreferredVersionName };

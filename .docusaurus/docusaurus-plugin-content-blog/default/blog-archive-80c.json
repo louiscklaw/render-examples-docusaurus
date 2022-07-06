@@ -34,10 +34,7 @@
           "slug": "Finality—Part 1: Two Generals",
           "title": "Finality—Part 1: Two Generals",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Consensus"
-          ],
+          "tags": ["Community", "Consensus"],
           "url": "https://iologica.substack.com/p/two-generals"
         },
         "nextItem": {
@@ -81,10 +78,7 @@
           "slug": "Finality—Part 2: Bookkeeping",
           "title": "Finality—Part 2: Bookkeeping",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Consensus"
-          ],
+          "tags": ["Community", "Consensus"],
           "url": "https://iologica.substack.com/p/bookkeeping"
         },
         "prevItem": {
@@ -132,10 +126,7 @@
           "slug": "Finality—Part 3: Total Order",
           "title": "Finality—Part 3: Total Order",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Consensus"
-          ],
+          "tags": ["Community", "Consensus"],
           "url": "https://iologica.substack.com/p/total-order"
         },
         "prevItem": {
@@ -183,10 +174,7 @@
           "slug": "Finality—Part 4: Many Worlds",
           "title": "Finality—Part 4: Many Worlds",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Consensus"
-          ],
+          "tags": ["Community", "Consensus"],
           "url": "https://iologica.substack.com/p/many-worlds"
         },
         "prevItem": {
@@ -238,11 +226,7 @@
           "slug": "Assembly better than Coinbase",
           "title": "“Better than Coinbase” – IOTAs new Assembly network is the missing piece for Metaverse and Web3",
           "authors": "lnaumann",
-          "tags": [
-            "Assembly",
-            "Metaverse",
-            "Web3"
-          ],
+          "tags": ["Assembly", "Metaverse", "Web3"],
           "url": "https://medium.com/@linus.naumann/better-than-coinbase-why-the-new-iota-assembly-network-is-the-missing-piece-for-iota-based-f503420cc990"
         },
         "prevItem": {
@@ -290,10 +274,7 @@
           "slug": "the-dao-landscape",
           "title": "A vision of IOTA´s future ecosystem — The DAO-landscape",
           "authors": "lnaumann",
-          "tags": [
-            "Community",
-            "DAO"
-          ],
+          "tags": ["Community", "DAO"],
           "url": "https://medium.com/@linus.naumann/a-vision-of-iota-s-future-ecosystem-the-dao-landscape-b93688d8acee"
         },
         "prevItem": {
@@ -341,10 +322,7 @@
           "slug": "multi-asset-multiverse-is-coming",
           "title": "IOTAs multi-asset multiverse is coming",
           "authors": "lnaumann",
-          "tags": [
-            "Community",
-            "Tokenization"
-          ],
+          "tags": ["Community", "Tokenization"],
           "url": "https://medium.com/@linus.naumann/iotas-multi-asset-multiverse-is-coming-huge-implications-for-its-tokenomics-454bfb1f1de1"
         },
         "prevItem": {
@@ -392,10 +370,7 @@
           "slug": "iscp_security_proposal",
           "title": "My opinion on ISCP — security improvement proposal",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "ISCP"
-          ],
+          "tags": ["Community", "ISCP"],
           "url": "https://luka99.medium.com/my-opinion-on-iota-smart-contract-protocol-iscp-security-improvement-proposal-c6ca3ca3df23"
         },
         "prevItem": {
@@ -442,10 +417,7 @@
           "slug": "develop_prediction_market",
           "title": "ISCP in a Private Network - Developing a Prediction Market",
           "authors": "aklein",
-          "tags": [
-            "Community",
-            "ISCP"
-          ],
+          "tags": ["Community", "ISCP"],
           "url": "https://medium.com/51nodes/exploring-iota-2-0-smart-contracts-in-a-private-network-developing-a-prediction-market-c2d81988f75e"
         },
         "prevItem": {
@@ -489,9 +461,7 @@
           "slug": "future_day_2",
           "title": "A future day with IOTA — Part II",
           "authors": "lnaumann",
-          "tags": [
-            "Community"
-          ],
+          "tags": ["Community"],
           "url": "https://medium.com/@linus.naumann/a-future-day-with-iota-part-ii-revelations-c3926202f3c4"
         },
         "prevItem": {
@@ -543,11 +513,7 @@
           "slug": "multiverse_consensus",
           "title": "Parallel realities and IOTAs breakthrough “Multiverse consensus”",
           "authors": "lnaumann",
-          "tags": [
-            "Community",
-            "OTV",
-            "Multiverse"
-          ],
+          "tags": ["Community", "OTV", "Multiverse"],
           "url": "https://medium.com/@linus.naumann/parallel-realities-and-iotas-multiverse-consensus-bcfbf3b12aad"
         },
         "prevItem": {
@@ -595,10 +561,7 @@
           "slug": "wiki-alpha",
           "title": "Wiki Alpha release!",
           "authors": "delectron",
-          "tags": [
-            "X-Teams",
-            "IOTA-Wiki"
-          ]
+          "tags": ["X-Teams", "IOTA-Wiki"]
         },
         "prevItem": {
           "title": "Parallel realities and IOTAs breakthrough “Multiverse consensus”",
@@ -641,9 +604,7 @@
           "slug": "future_day_1",
           "title": "A future day with IOTA — Part I",
           "authors": "lnaumann",
-          "tags": [
-            "Community"
-          ],
+          "tags": ["Community"],
           "url": "https://medium.com/@linus.naumann/a-future-day-with-iota-part-i-239c16a011f3"
         },
         "prevItem": {
@@ -691,10 +652,7 @@
           "slug": "bitcoin-middle-man",
           "title": "Unpopular opinion: Bitcoin did not get rid of the middle-man",
           "authors": "lnaumann",
-          "tags": [
-            "Community",
-            "Bitcoin"
-          ],
+          "tags": ["Community", "Bitcoin"],
           "url": "https://medium.com/@linus.naumann/unpopular-opinion-bitcoin-did-not-get-rid-of-the-middle-man-71aced8c5e3f"
         },
         "prevItem": {
@@ -742,10 +700,7 @@
           "slug": "layer_one_1",
           "title": "Layer One—Part 1: Assimilation",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Layer One"
-          ],
+          "tags": ["Community", "Layer One"],
           "url": "https://iologica.substack.com/p/assimilation"
         },
         "prevItem": {
@@ -793,10 +748,7 @@
           "slug": "layer_one_2",
           "title": "Layer One—Part 2: Error Correction",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Layer One"
-          ],
+          "tags": ["Community", "Layer One"],
           "url": "https://iologica.substack.com/p/error-correction"
         },
         "prevItem": {
@@ -844,10 +796,7 @@
           "slug": "layer_one_3",
           "title": "Layer One—Part 3: Metamoney",
           "authors": "kbrennan",
-          "tags": [
-            "Community",
-            "Layer One"
-          ],
+          "tags": ["Community", "Layer One"],
           "url": "https://iologica.substack.com/p/metamoney"
         },
         "prevItem": {
@@ -902,12 +851,7 @@
           "slug": "An introduction to DLT Concepts",
           "title": "An introduction to DLT concepts and why I think IOTAs Tangle is superior to Blockchains",
           "authors": "jehnle",
-          "tags": [
-            "Community",
-            "DLT",
-            "Tangle",
-            "Introduction"
-          ],
+          "tags": ["Community", "DLT", "Tangle", "Introduction"],
           "url": "https://medium.com/p/an-introduction-to-dlt-concepts-and-why-i-think-iotas-tangle-is-superior-to-blockchains-550b69ec86d6"
         },
         "prevItem": {
@@ -959,11 +903,7 @@
           "slug": "my-take-community-treasury",
           "title": "My take on IOTA’s Community Treasury",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "DAO",
-            "Commmunity Treasury"
-          ],
+          "tags": ["Community", "DAO", "Commmunity Treasury"],
           "url": "https://luka99.medium.com/my-take-on-iotas-community-treasury-f40deb7b56ba"
         },
         "prevItem": {
@@ -1014,11 +954,7 @@
           "slug": "the-chirping-machine",
           "title": "The Chirping Machine",
           "authors": "borg",
-          "tags": [
-            "Community",
-            "Distributed Ledger",
-            "Gossip"
-          ],
+          "tags": ["Community", "Distributed Ledger", "Gossip"],
           "url": "https://medium.com/coinmonks/the-chirping-machine-4c73269c2871"
         },
         "prevItem": {
@@ -1070,11 +1006,7 @@
           "slug": "the-tech-behind-IOTA-2",
           "title": "The Tech Behind IOTA — Part 2 (Consensus)",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "Coordicide",
-            "Mana"
-          ],
+          "tags": ["Community", "Coordicide", "Mana"],
           "url": "https://luka99.medium.com/the-tech-behind-iota-part-2-consensus-88c74917b993"
         },
         "prevItem": {
@@ -1126,11 +1058,7 @@
           "slug": "why-iota",
           "title": "Why IOTA?",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "Ethereum",
-            "Bitcoin"
-          ],
+          "tags": ["Community", "Ethereum", "Bitcoin"],
           "url": "https://luka99.medium.com/why-iota-4f563c375afb"
         },
         "prevItem": {
@@ -1182,11 +1110,7 @@
           "slug": "the-tech-behind-IOTA-1",
           "title": "The Tech Behind IOTA — Part 1 (Introduction)",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "Coordicide",
-            "Mana"
-          ],
+          "tags": ["Community", "Coordicide", "Mana"],
           "url": "https://luka99.medium.com/the-tech-behind-iota-part-1-introduction-b8f82775325a"
         },
         "prevItem": {
@@ -1238,11 +1162,7 @@
           "slug": "the-economic-model",
           "title": "The Economic Model of IOTA",
           "authors": "lstanisic",
-          "tags": [
-            "Community",
-            "Economic",
-            "Mana"
-          ],
+          "tags": ["Community", "Economic", "Mana"],
           "url": "https://luka99.medium.com/the-economic-model-of-iota-c28732143d51"
         },
         "prevItem": {
@@ -1293,11 +1213,7 @@
         "frontMatter": {
           "title": "IILA x IOTA — Finite Element Method As A Service",
           "authors": "dtrauth",
-          "tags": [
-            "Community",
-            "IoT",
-            "IOTA LAB AACHEN"
-          ],
+          "tags": ["Community", "IoT", "IOTA LAB AACHEN"],
           "url": "https://medium.com/industrial-iota-lab-aachen-wzl-of-rwth-aachen/iila-x-iota-finite-element-method-as-a-service-2a782a479516"
         },
         "prevItem": {
@@ -1349,11 +1265,7 @@
           "slug": "manufacturing-economy",
           "title": "Manufacturing Economy",
           "authors": "dtrauth",
-          "tags": [
-            "Community",
-            "IoT",
-            "IOTA LAB AACHEN"
-          ],
+          "tags": ["Community", "IoT", "IOTA LAB AACHEN"],
           "url": "https://medium.com/industrial-iota-lab-aachen-wzl-of-rwth-aachen/manufacturing-economy-e541066889ee"
         },
         "prevItem": {

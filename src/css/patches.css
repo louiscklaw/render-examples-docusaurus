@@ -83,6 +83,6 @@ Patch to use transformed font icons in dropdowns and expanded menus
 .theme-doc-toc-mobile button::after {
   align-items: center;
   display: inline-flex;
-  content: '';
+  content: "";
   justify-content: center;
 }

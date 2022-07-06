@@ -11,13 +11,11 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/explanations/tools/overview.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "Overview",
-    "keywords": [
-      "getting started"
-    ],
+    "keywords": ["getting started"],
     "description": "How to improve your writing.",
     "image": "/img/iota-wiki.png"
   },

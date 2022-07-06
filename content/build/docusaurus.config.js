@@ -1,9 +1,9 @@
 // @ts-check
 // eslint-disable-next-line @typescript-eslint/no-var-requires
-var requireGlob = require('require-glob');
+var requireGlob = require("require-glob");
 
-const { BUILD = '' } = process.env;
-const configs = BUILD.split(',').map((item) => `${item}/docusaurus.config.js`);
+const { BUILD = "" } = process.env;
+const configs = BUILD.split(",").map((item) => `${item}/docusaurus.config.js`);
 
 function reducer(_options, result, fileObject) {
   // TODO: pass default object after shannonmoeller/require-glob#24 is merged.
@@ -19,7 +19,7 @@ function reducer(_options, result, fileObject) {
   return result;
 }
 
-let config = requireGlob.sync([...configs, '!node_modules'], { reducer });
+let config = requireGlob.sync([...configs, "!node_modules"], { reducer });
 
 // TODO: remove after shannonmoeller/require-glob#24 is merged.
 if (Object.keys(config).length === 0)

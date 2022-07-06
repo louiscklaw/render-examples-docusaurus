@@ -11,13 +11,11 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/style/manifesto.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "Manifesto",
-    "keywords": [
-      "reference"
-    ],
+    "keywords": ["reference"],
     "description": "The IOTA Wiki's technical writers' manifesto.",
     "image": "/img/iota-wiki.png"
   },

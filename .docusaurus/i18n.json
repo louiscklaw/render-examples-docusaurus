@@ -1,8 +1,6 @@
 {
   "defaultLocale": "en",
-  "locales": [
-    "en"
-  ],
+  "locales": ["en"],
   "currentLocale": "en",
   "localeConfigs": {
     "en": {

@@ -1,6 +1,6 @@
 ---
 slug: the-economic-model
-title: 'The Economic Model of IOTA'
+title: "The Economic Model of IOTA"
 authors: lstanisic
 tags: [Community, Economic, Mana]
 url: https://luka99.medium.com/the-economic-model-of-iota-c28732143d51

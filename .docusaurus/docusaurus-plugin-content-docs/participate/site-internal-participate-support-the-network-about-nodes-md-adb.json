@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/support-the-network/about-nodes.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "About Nodes",
     "description": "Nodes are the core of an IOTA network. They run the node software that gives them read and write access to the Tangle.",

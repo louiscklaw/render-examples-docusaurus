@@ -1,9 +1,8 @@
 export default [
-  require('/work_dir/node_modules/infima/dist/css/default/default.css'),
-  require('/work_dir/node_modules/@docusaurus/theme-classic/lib/prism-include-languages'),
-  require('/work_dir/node_modules/@docusaurus/theme-classic/lib/admonitions.css'),
-  require('/work_dir/node_modules/@docusaurus/theme-classic/lib/nprogress'),
-  require('/work_dir/src/css/custom.css'),
-  require('/work_dir/node_modules/plugin-image-zoom/src/zoom'),
-  require('/work_dir/node_modules/docusaurus-plugin-matomo/src/track'),
+  require("/home/logic/_del/render-examples-docusaurus/node_modules/infima/dist/css/default/default.css"),
+  require("/home/logic/_del/render-examples-docusaurus/node_modules/@docusaurus/theme-classic/lib/prism-include-languages"),
+  require("/home/logic/_del/render-examples-docusaurus/node_modules/@docusaurus/theme-classic/lib/admonitions.css"),
+  require("/home/logic/_del/render-examples-docusaurus/node_modules/@docusaurus/theme-classic/lib/nprogress"),
+  require("/home/logic/_del/render-examples-docusaurus/src/css/custom.css"),
+  require("/home/logic/_del/render-examples-docusaurus/node_modules/plugin-image-zoom/src/zoom"),
 ];

@@ -1,6 +1,6 @@
-import React from 'react';
-import { useHistory } from 'react-router-dom';
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import React from "react";
+import { useHistory } from "react-router-dom";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 export interface CardWithImageProps {
   title: string;
@@ -23,21 +23,21 @@ export default function HomePageCard({
   };
 
   return (
-    <div className='col margin-vert--md'>
+    <div className="col margin-vert--md">
       <div
-        className='card card--full-height card-radius--md card--pointer'
+        className="card card--full-height card-radius--md card--pointer"
         onClick={handleClick}
       >
         {image && (
           <img
             alt={title}
-            className='card__image'
+            className="card__image"
             src={useBaseUrl(image)}
-            width='337'
-            height='342'
+            width="337"
+            height="342"
           />
         )}
-        <div className='card__body padding-horiz--lg padding-bottom--lg'>
+        <div className="card__body padding-horiz--lg padding-bottom--lg">
           {title && <h3>{title}</h3>}
           {description}
         </div>

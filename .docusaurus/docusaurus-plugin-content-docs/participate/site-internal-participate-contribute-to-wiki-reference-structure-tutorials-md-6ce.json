@@ -11,14 +11,12 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/tutorials.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "description": "Tutorials are lessons which should guide the reader to complete a concrete project.",
     "image": "/img/logo/iota_logo.svg",
-    "keywords": [
-      "tutorials"
-    ]
+    "keywords": ["tutorials"]
   },
   "sidebar": "participate",
   "previous": {

@@ -11,19 +11,14 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/06_consensus.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 6,
   "frontMatter": {
     "id": "smart-contracts-consensus",
     "title": "Consensus",
     "description": "In this article you will learn how the IOTA Smart Contract Consensus works.",
-    "keywords": [
-      "Cosensus",
-      "Smart Contracts",
-      "wasp",
-      "ISCP"
-    ]
+    "keywords": ["Cosensus", "Smart Contracts", "wasp", "ISCP"]
   },
   "sidebar": "learn",
   "previous": {

@@ -1,1273 +1,1316 @@
 {
-  "/blog-d95": {
-    "__comp": "a6aa9e1f",
+  "/__docusaurus/debug-d95": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3997ae63"
-      },
-      {
-        "content": "3e4eb032"
-      },
-      {
-        "content": "1e758b6d"
-      },
-      {
-        "content": "ea1497f7"
-      },
-      {
-        "content": "616ad8e0"
-      },
-      {
-        "content": "0a663ceb"
-      },
-      {
-        "content": "e961eeb0"
-      },
-      {
-        "content": "09697dc6"
-      },
-      {
-        "content": "31822706"
-      },
-      {
-        "content": "bb4d4998"
-      }
-    ],
-    "metadata": "b2b675dd"
-  },
-  "/blog/2019/03/02/_finite_element_method_as_a_service-ceb": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "54f80c7c"
-  },
-  "/blog/An introduction to DLT Concepts-f33": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "604a04d8"
-  },
-  "/blog/archive-e93": {
-    "__comp": "9e4087bc",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "archive": "b2f554cd"
-  },
-  "/blog/Assembly better than Coinbase-5f9": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "8ac172c0"
-  },
-  "/blog/bitcoin-middle-man-78e": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "f19001f3"
-  },
-  "/blog/develop_prediction_market-bf6": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "96f25dbe"
-  },
-  "/blog/Finality—Part 1: Two Generals-df3": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "be050327"
-  },
-  "/blog/Finality—Part 2: Bookkeeping-582": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "d95ecdd9"
-  },
-  "/blog/Finality—Part 3: Total Order-ed1": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "56ce53b7"
-  },
-  "/blog/Finality—Part 4: Many Worlds-a09": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "9d18cf52"
-  },
-  "/blog/future_day_1-1a3": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "cd86c559"
-  },
-  "/blog/future_day_2-732": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "cce2dc56"
-  },
-  "/blog/iscp_security_proposal-451": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "ce28f03e"
-  },
-  "/blog/layer_one_1-463": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "6bf86e97"
-  },
-  "/blog/layer_one_2-b5f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "4fac8380"
-  },
-  "/blog/layer_one_3-3d5": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "bca3d262"
-  },
-  "/blog/manufacturing-economy-1fe": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "190f9212"
-  },
-  "/blog/multi-asset-multiverse-is-coming-944": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "7e7e303f"
-  },
-  "/blog/multiverse_consensus-643": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "d99919a5"
-  },
-  "/blog/my-take-community-treasury-b2f": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "3882d9f6"
-  },
-  "/blog/page/2-ba6": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7ba1c45f"
-      },
-      {
-        "content": "1c9bf409"
-      },
-      {
-        "content": "5d512ff5"
-      },
-      {
-        "content": "e3ab8a2b"
-      },
-      {
-        "content": "3093de38"
-      },
-      {
-        "content": "6f67e7a5"
-      },
-      {
-        "content": "27fc0300"
-      },
-      {
-        "content": "c8b38a7d"
-      },
-      {
-        "content": "6dad603d"
-      },
-      {
-        "content": "9cb29257"
-      }
-    ],
-    "metadata": "8eb4e46b"
-  },
-  "/blog/page/3-e88": {
-    "__comp": "a6aa9e1f",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6b76ddb"
-      },
-      {
-        "content": "35d129b8"
-      },
-      {
-        "content": "b7fab636"
-      },
-      {
-        "content": "04e9edf5"
-      },
-      {
-        "content": "10bb3f48"
-      },
-      {
-        "content": "9ed1c52c"
-      }
-    ],
-    "metadata": "92999a1c"
-  },
-  "/blog/tags-dce": {
-    "__comp": "01a85c17",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
-  },
-  "/blog/tags/assembly-d9c": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "616ad8e0"
-      }
-    ],
-    "tag": "74d01232",
-    "listMetadata": "08e3db72"
-  },
-  "/blog/tags/bitcoin-afd": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "e3ab8a2b"
-      },
-      {
-        "content": "35d129b8"
-      }
-    ],
-    "tag": "f4aea73c",
-    "listMetadata": "310c5460"
-  },
-  "/blog/tags/commmunity-treasury-e93": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "6dad603d"
-      }
-    ],
-    "tag": "7140b834",
-    "listMetadata": "6b1813b6"
-  },
-  "/blog/tags/community-1fa": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3997ae63"
-      },
-      {
-        "content": "3e4eb032"
-      },
-      {
-        "content": "1e758b6d"
-      },
-      {
-        "content": "ea1497f7"
-      },
-      {
-        "content": "0a663ceb"
-      },
-      {
-        "content": "e961eeb0"
-      },
-      {
-        "content": "09697dc6"
-      },
-      {
-        "content": "31822706"
-      },
-      {
-        "content": "bb4d4998"
-      },
-      {
-        "content": "7ba1c45f"
-      }
-    ],
-    "tag": "69b09ea9",
-    "listMetadata": "afaff11a"
-  },
-  "/blog/tags/community/page/2-1a9": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "5d512ff5"
-      },
-      {
-        "content": "e3ab8a2b"
-      },
-      {
-        "content": "3093de38"
-      },
-      {
-        "content": "6f67e7a5"
-      },
-      {
-        "content": "27fc0300"
-      },
-      {
-        "content": "c8b38a7d"
-      },
-      {
-        "content": "6dad603d"
-      },
-      {
-        "content": "9cb29257"
-      },
-      {
-        "content": "d6b76ddb"
-      },
-      {
-        "content": "35d129b8"
-      }
-    ],
-    "tag": "6e4ab04c",
-    "listMetadata": "f242d0a7"
-  },
-  "/blog/tags/community/page/3-29e": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "b7fab636"
-      },
-      {
-        "content": "04e9edf5"
-      },
-      {
-        "content": "10bb3f48"
-      },
-      {
-        "content": "9ed1c52c"
-      }
-    ],
-    "tag": "9268851e",
-    "listMetadata": "78257193"
-  },
-  "/blog/tags/consensus-783": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3997ae63"
-      },
-      {
-        "content": "3e4eb032"
-      },
-      {
-        "content": "1e758b6d"
-      },
-      {
-        "content": "ea1497f7"
-      }
-    ],
-    "tag": "6c05bc6b",
-    "listMetadata": "191fb562"
-  },
-  "/blog/tags/coordicide-a5b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6b76ddb"
-      },
-      {
-        "content": "b7fab636"
-      }
-    ],
-    "tag": "0de59d08",
-    "listMetadata": "2c0c573e"
-  },
-  "/blog/tags/dao-4b9": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "0a663ceb"
-      },
-      {
-        "content": "6dad603d"
-      }
-    ],
-    "tag": "12ece279",
-    "listMetadata": "9abca082"
-  },
-  "/blog/tags/distributed-ledger-790": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "9cb29257"
-      }
-    ],
-    "tag": "dbe79aac",
-    "listMetadata": "19c2850a"
-  },
-  "/blog/tags/dlt-3d6": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c8b38a7d"
-      }
-    ],
-    "tag": "9199c369",
-    "listMetadata": "00aef0d4"
-  },
-  "/blog/tags/economic-9bf": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "04e9edf5"
-      }
-    ],
-    "tag": "e3de1adb",
-    "listMetadata": "43aef269"
-  },
-  "/blog/tags/ethereum-e85": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "35d129b8"
-      }
-    ],
-    "tag": "4688d424",
-    "listMetadata": "98e459ed"
-  },
-  "/blog/tags/gossip-050": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "9cb29257"
-      }
-    ],
-    "tag": "5d20d274",
-    "listMetadata": "b373a260"
-  },
-  "/blog/tags/introduction-885": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c8b38a7d"
-      }
-    ],
-    "tag": "20417f73",
-    "listMetadata": "5ad2500b"
-  },
-  "/blog/tags/io-t-215": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "10bb3f48"
-      },
-      {
-        "content": "9ed1c52c"
-      }
-    ],
-    "tag": "b27699ff",
-    "listMetadata": "ef8fe38c"
-  },
-  "/blog/tags/iota-lab-aachen-c88": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "10bb3f48"
-      },
-      {
-        "content": "9ed1c52c"
-      }
-    ],
-    "tag": "525980fc",
-    "listMetadata": "27ad2271"
-  },
-  "/blog/tags/iota-wiki-ecc": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "1c9bf409"
-      }
-    ],
-    "tag": "418cefa8",
-    "listMetadata": "91bff259"
-  },
-  "/blog/tags/iscp-8e7": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "09697dc6"
-      },
-      {
-        "content": "31822706"
-      }
-    ],
-    "tag": "412c7cfa",
-    "listMetadata": "915a594a"
-  },
-  "/blog/tags/layer-one-aca": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "3093de38"
-      },
-      {
-        "content": "6f67e7a5"
-      },
-      {
-        "content": "27fc0300"
-      }
-    ],
-    "tag": "da31d0b1",
-    "listMetadata": "cffc0142"
-  },
-  "/blog/tags/mana-af1": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "d6b76ddb"
-      },
-      {
-        "content": "b7fab636"
-      },
-      {
-        "content": "04e9edf5"
-      }
-    ],
-    "tag": "41da85c2",
-    "listMetadata": "79014ad7"
-  },
-  "/blog/tags/metaverse-eb2": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "616ad8e0"
-      }
-    ],
-    "tag": "1eebe6d4",
-    "listMetadata": "f74c27a7"
-  },
-  "/blog/tags/multiverse-609": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7ba1c45f"
-      }
-    ],
-    "tag": "9a68c4f8",
-    "listMetadata": "5afa2e36"
-  },
-  "/blog/tags/otv-81c": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "7ba1c45f"
-      }
-    ],
-    "tag": "0f66365c",
-    "listMetadata": "3c443c66"
-  },
-  "/blog/tags/tangle-c7d": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "c8b38a7d"
-      }
-    ],
-    "tag": "1fd58ec7",
-    "listMetadata": "7ad2c32d"
-  },
-  "/blog/tags/tokenization-2f1": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "e961eeb0"
-      }
-    ],
-    "tag": "e7d445e0",
-    "listMetadata": "1f45765f"
-  },
-  "/blog/tags/web-3-afb": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "616ad8e0"
-      }
-    ],
-    "tag": "6a3809a9",
-    "listMetadata": "37178c25"
-  },
-  "/blog/tags/x-teams-53b": {
-    "__comp": "6875c492",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "1c9bf409"
-      }
-    ],
-    "tag": "e2d7a17d",
-    "listMetadata": "9b6e69ad"
-  },
-  "/blog/the-chirping-machine-074": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "a8b3e35d"
-  },
-  "/blog/the-dao-landscape-843": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "5ec5c016"
-  },
-  "/blog/the-economic-model-e58": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "fb68927f"
-  },
-  "/blog/the-tech-behind-IOTA-1-c33": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "6a5f059f"
-  },
-  "/blog/the-tech-behind-IOTA-2-dac": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "f58ece51"
-  },
-  "/blog/why-iota-1f9": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "c36cca59"
-  },
-  "/blog/wiki-alpha-44b": {
-    "__comp": "ccc49370",
-    "__context": {
-      "plugin": "a49920f9"
-    },
-    "sidebar": "814f3328",
-    "content": "f8265a61"
-  },
-  "/legacy-b20": {
-    "__comp": "292d6fed",
-    "__context": {
-      "plugin": "7e9e90ed"
-    },
-    "config": "5e9f5e1a"
-  },
-  "/search-75d": {
-    "__comp": "1a4e3797",
-    "__context": {
-      "plugin": "742c76e9"
+      "plugin": "plugin---docusaurus-debug-888-aee"
     }
   },
-  "/team-700": {
-    "__comp": "ca10fb34",
+  "/__docusaurus/debug/config-23a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "7e9e90ed"
-    },
-    "config": "5e9f5e1a"
+      "plugin": "plugin---docusaurus-debug-888-aee"
+    }
   },
-  "/team/member-c30": {
-    "__comp": "3748a629",
+  "/__docusaurus/debug/content-abc": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "7e9e90ed"
+      "plugin": "plugin---docusaurus-debug-888-aee"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/tutorials-5b9": {
-    "__comp": "10f96bc3",
+  "/__docusaurus/debug/globalData-7f3": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "7e9e90ed"
-    },
-    "config": "5e9f5e1a"
+      "plugin": "plugin---docusaurus-debug-888-aee"
+    }
   },
-  "/build-7b3": {
-    "__comp": "1be78505",
+  "/__docusaurus/debug/metadata-caa": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "5bc25947"
+      "plugin": "plugin---docusaurus-debug-888-aee"
+    }
+  },
+  "/__docusaurus/debug/registry-e04": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-888-aee"
+    }
+  },
+  "/__docusaurus/debug/routes-047": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-888-aee"
+    }
+  },
+  "/blog-928": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
     },
-    "versionMetadata": "d930201c"
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-399-03e"
+      },
+      {
+        "content": "content---blog-3-e-4-460"
+      },
+      {
+        "content": "content---blog-1-e-7-b1c"
+      },
+      {
+        "content": "content---blogea-1-2da"
+      },
+      {
+        "content": "content---blog-616-dec"
+      },
+      {
+        "content": "content---blog-0-a-6-5ab"
+      },
+      {
+        "content": "content---bloge-96-fae"
+      },
+      {
+        "content": "content---blog-096-388"
+      },
+      {
+        "content": "content---blog-318-92b"
+      },
+      {
+        "content": "content---blogbb-4-8f8"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/2019/03/02/_finite_element_method_as_a_service-78f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2019-03-02-finite-element-method-as-a-service-54-f-355"
+  },
+  "/blog/An introduction to DLT Concepts-525": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-an-introduction-to-dlt-concepts-604-500"
+  },
+  "/blog/archive-deb": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/Assembly better than Coinbase-60c": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-assembly-better-than-coinbase-8-ac-7ad"
+  },
+  "/blog/bitcoin-middle-man-ae6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-bitcoin-middle-manf-19-641"
+  },
+  "/blog/develop_prediction_market-308": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-develop-prediction-market-96-f-1c8"
+  },
+  "/blog/Finality—Part 1: Two Generals-c9b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-finality-part-1-two-generalsbe-0-3bd"
+  },
+  "/blog/Finality—Part 2: Bookkeeping-63d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-finality-part-2-bookkeepingd-95-560"
+  },
+  "/blog/Finality—Part 3: Total Order-421": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-finality-part-3-total-order-56-c-aea"
+  },
+  "/blog/Finality—Part 4: Many Worlds-305": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-finality-part-4-many-worlds-9-d-1-61a"
+  },
+  "/blog/future_day_1-a8b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-future-day-1-cd-8-9f6"
+  },
+  "/blog/future_day_2-0d5": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-future-day-2-cce-1a9"
+  },
+  "/blog/iscp_security_proposal-494": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-iscp-security-proposalce-2-555"
+  },
+  "/blog/layer_one_1-bf2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-layer-one-16-bf-a67"
+  },
+  "/blog/layer_one_2-6be": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-layer-one-24-fa-1cc"
+  },
+  "/blog/layer_one_3-29e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-layer-one-3-bca-4fd"
+  },
+  "/blog/manufacturing-economy-39a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-manufacturing-economy-190-a36"
+  },
+  "/blog/multi-asset-multiverse-is-coming-8b8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-multi-asset-multiverse-is-coming-7-e-7-120"
+  },
+  "/blog/multiverse_consensus-582": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-multiverse-consensusd-99-5f4"
+  },
+  "/blog/my-take-community-treasury-1fc": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-my-take-community-treasury-388-b88"
+  },
+  "/blog/page/2-656": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-27-ba-7dc"
+      },
+      {
+        "content": "content---blog-page-21-c-9-20c"
+      },
+      {
+        "content": "content---blog-page-25-d-5-1a2"
+      },
+      {
+        "content": "content---blog-page-2-e-3-a-377"
+      },
+      {
+        "content": "content---blog-page-2309-4c3"
+      },
+      {
+        "content": "content---blog-page-26-f-6-416"
+      },
+      {
+        "content": "content---blog-page-227-f-a61"
+      },
+      {
+        "content": "content---blog-page-2-c-8-b-34c"
+      },
+      {
+        "content": "content---blog-page-26-da-d3b"
+      },
+      {
+        "content": "content---blog-page-29-cb-99c"
+      }
+    ],
+    "metadata": "metadata---blog-page-28-eb-625"
+  },
+  "/blog/page/3-cea": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-3-d-6-b-2c9"
+      },
+      {
+        "content": "content---blog-page-335-d-ca2"
+      },
+      {
+        "content": "content---blog-page-3-b-7-f-18b"
+      },
+      {
+        "content": "content---blog-page-304-e-525"
+      },
+      {
+        "content": "content---blog-page-310-b-c75"
+      },
+      {
+        "content": "content---blog-page-39-ed-dac"
+      }
+    ],
+    "metadata": "metadata---blog-page-3929-7ba"
+  },
+  "/blog/tags-2c1": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/assembly-121": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-616-dec"
+      }
+    ],
+    "tag": "tag---blog-tags-assembly-74-d-7a8",
+    "listMetadata": "listMetadata---blog-tags-assembly-08-e-41c"
+  },
+  "/blog/tags/bitcoin-b7d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-e-3-a-377"
+      },
+      {
+        "content": "content---blog-page-335-d-ca2"
+      }
+    ],
+    "tag": "tag---blog-tags-bitcoinf-4-a-c2b",
+    "listMetadata": "listMetadata---blog-tags-bitcoin-310-848"
+  },
+  "/blog/tags/commmunity-treasury-cbd": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-26-da-d3b"
+      }
+    ],
+    "tag": "tag---blog-tags-commmunity-treasury-714-fce",
+    "listMetadata": "listMetadata---blog-tags-commmunity-treasury-6-b-1-032"
+  },
+  "/blog/tags/community-d18": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-399-03e"
+      },
+      {
+        "content": "content---blog-3-e-4-460"
+      },
+      {
+        "content": "content---blog-1-e-7-b1c"
+      },
+      {
+        "content": "content---blogea-1-2da"
+      },
+      {
+        "content": "content---blog-0-a-6-5ab"
+      },
+      {
+        "content": "content---bloge-96-fae"
+      },
+      {
+        "content": "content---blog-096-388"
+      },
+      {
+        "content": "content---blog-318-92b"
+      },
+      {
+        "content": "content---blogbb-4-8f8"
+      },
+      {
+        "content": "content---blog-page-27-ba-7dc"
+      }
+    ],
+    "tag": "tag---blog-tags-community-69-b-ca1",
+    "listMetadata": "listMetadata---blog-tags-communityafa-1dc"
+  },
+  "/blog/tags/community/page/2-2cc": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-25-d-5-1a2"
+      },
+      {
+        "content": "content---blog-page-2-e-3-a-377"
+      },
+      {
+        "content": "content---blog-page-2309-4c3"
+      },
+      {
+        "content": "content---blog-page-26-f-6-416"
+      },
+      {
+        "content": "content---blog-page-227-f-a61"
+      },
+      {
+        "content": "content---blog-page-2-c-8-b-34c"
+      },
+      {
+        "content": "content---blog-page-26-da-d3b"
+      },
+      {
+        "content": "content---blog-page-29-cb-99c"
+      },
+      {
+        "content": "content---blog-page-3-d-6-b-2c9"
+      },
+      {
+        "content": "content---blog-page-335-d-ca2"
+      }
+    ],
+    "tag": "tag---blog-tags-community-page-26-e-4-c87",
+    "listMetadata": "listMetadata---blog-tags-community-page-2-f-24-279"
+  },
+  "/blog/tags/community/page/3-d9b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-3-b-7-f-18b"
+      },
+      {
+        "content": "content---blog-page-304-e-525"
+      },
+      {
+        "content": "content---blog-page-310-b-c75"
+      },
+      {
+        "content": "content---blog-page-39-ed-dac"
+      }
+    ],
+    "tag": "tag---blog-tags-community-page-3926-368",
+    "listMetadata": "listMetadata---blog-tags-community-page-3782-b51"
+  },
+  "/blog/tags/consensus-a7e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-399-03e"
+      },
+      {
+        "content": "content---blog-3-e-4-460"
+      },
+      {
+        "content": "content---blog-1-e-7-b1c"
+      },
+      {
+        "content": "content---blogea-1-2da"
+      }
+    ],
+    "tag": "tag---blog-tags-consensus-6-c-0-246",
+    "listMetadata": "listMetadata---blog-tags-consensus-191-395"
+  },
+  "/blog/tags/coordicide-bdb": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-3-d-6-b-2c9"
+      },
+      {
+        "content": "content---blog-page-3-b-7-f-18b"
+      }
+    ],
+    "tag": "tag---blog-tags-coordicide-0-de-a44",
+    "listMetadata": "listMetadata---blog-tags-coordicide-2-c-0-9a4"
+  },
+  "/blog/tags/dao-882": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-0-a-6-5ab"
+      },
+      {
+        "content": "content---blog-page-26-da-d3b"
+      }
+    ],
+    "tag": "tag---blog-tags-dao-12-e-50c",
+    "listMetadata": "listMetadata---blog-tags-dao-9-ab-308"
+  },
+  "/blog/tags/distributed-ledger-3f0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-29-cb-99c"
+      }
+    ],
+    "tag": "tag---blog-tags-distributed-ledgerdbe-8dc",
+    "listMetadata": "listMetadata---blog-tags-distributed-ledger-19-c-2ba"
+  },
+  "/blog/tags/dlt-00f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-c-8-b-34c"
+      }
+    ],
+    "tag": "tag---blog-tags-dlt-919-a46",
+    "listMetadata": "listMetadata---blog-tags-dlt-00-a-994"
+  },
+  "/blog/tags/economic-9e8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-304-e-525"
+      }
+    ],
+    "tag": "tag---blog-tags-economice-3-d-6f0",
+    "listMetadata": "listMetadata---blog-tags-economic-43-a-8f9"
+  },
+  "/blog/tags/ethereum-fb7": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-335-d-ca2"
+      }
+    ],
+    "tag": "tag---blog-tags-ethereum-468-055",
+    "listMetadata": "listMetadata---blog-tags-ethereum-98-e-b18"
+  },
+  "/blog/tags/gossip-814": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-29-cb-99c"
+      }
+    ],
+    "tag": "tag---blog-tags-gossip-5-d-2-eb3",
+    "listMetadata": "listMetadata---blog-tags-gossipb-37-948"
+  },
+  "/blog/tags/introduction-16a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-c-8-b-34c"
+      }
+    ],
+    "tag": "tag---blog-tags-introduction-204-dbd",
+    "listMetadata": "listMetadata---blog-tags-introduction-5-ad-a84"
+  },
+  "/blog/tags/io-t-2c6": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-310-b-c75"
+      },
+      {
+        "content": "content---blog-page-39-ed-dac"
+      }
+    ],
+    "tag": "tag---blog-tags-io-tb-27-ff5",
+    "listMetadata": "listMetadata---blog-tags-io-tef-8-55c"
+  },
+  "/blog/tags/iota-lab-aachen-ef8": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-310-b-c75"
+      },
+      {
+        "content": "content---blog-page-39-ed-dac"
+      }
+    ],
+    "tag": "tag---blog-tags-iota-lab-aachen-525-be5",
+    "listMetadata": "listMetadata---blog-tags-iota-lab-aachen-27-a-df2"
+  },
+  "/blog/tags/iota-wiki-06b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-21-c-9-20c"
+      }
+    ],
+    "tag": "tag---blog-tags-iota-wiki-418-f7e",
+    "listMetadata": "listMetadata---blog-tags-iota-wiki-91-b-c6d"
+  },
+  "/blog/tags/iscp-a5a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-096-388"
+      },
+      {
+        "content": "content---blog-318-92b"
+      }
+    ],
+    "tag": "tag---blog-tags-iscp-412-247",
+    "listMetadata": "listMetadata---blog-tags-iscp-915-27b"
+  },
+  "/blog/tags/layer-one-62e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2309-4c3"
+      },
+      {
+        "content": "content---blog-page-26-f-6-416"
+      },
+      {
+        "content": "content---blog-page-227-f-a61"
+      }
+    ],
+    "tag": "tag---blog-tags-layer-oneda-3-a06",
+    "listMetadata": "listMetadata---blog-tags-layer-onecff-0ce"
+  },
+  "/blog/tags/mana-259": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-3-d-6-b-2c9"
+      },
+      {
+        "content": "content---blog-page-3-b-7-f-18b"
+      },
+      {
+        "content": "content---blog-page-304-e-525"
+      }
+    ],
+    "tag": "tag---blog-tags-mana-41-d-e2c",
+    "listMetadata": "listMetadata---blog-tags-mana-790-8eb"
+  },
+  "/blog/tags/metaverse-b8c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-616-dec"
+      }
+    ],
+    "tag": "tag---blog-tags-metaverse-1-ee-3ef",
+    "listMetadata": "listMetadata---blog-tags-metaversef-74-361"
+  },
+  "/blog/tags/multiverse-2f9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-27-ba-7dc"
+      }
+    ],
+    "tag": "tag---blog-tags-multiverse-9-a-6-383",
+    "listMetadata": "listMetadata---blog-tags-multiverse-5-af-5b7"
+  },
+  "/blog/tags/otv-101": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-27-ba-7dc"
+      }
+    ],
+    "tag": "tag---blog-tags-otv-0-f-6-dcb",
+    "listMetadata": "listMetadata---blog-tags-otv-3-c-4-9fd"
+  },
+  "/blog/tags/tangle-55f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-2-c-8-b-34c"
+      }
+    ],
+    "tag": "tag---blog-tags-tangle-1-fd-440",
+    "listMetadata": "listMetadata---blog-tags-tangle-7-ad-bca"
+  },
+  "/blog/tags/tokenization-3b4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---bloge-96-fae"
+      }
+    ],
+    "tag": "tag---blog-tags-tokenizatione-7-d-e43",
+    "listMetadata": "listMetadata---blog-tags-tokenization-1-f-4-1b0"
+  },
+  "/blog/tags/web-3-30c": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-616-dec"
+      }
+    ],
+    "tag": "tag---blog-tags-web-36-a-3-2fe",
+    "listMetadata": "listMetadata---blog-tags-web-3371-5f4"
+  },
+  "/blog/tags/x-teams-a3a": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-page-21-c-9-20c"
+      }
+    ],
+    "tag": "tag---blog-tags-x-teamse-2-d-cca",
+    "listMetadata": "listMetadata---blog-tags-x-teams-9-b-6-66d"
+  },
+  "/blog/the-chirping-machine-c17": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-the-chirping-machinea-8-b-790"
+  },
+  "/blog/the-dao-landscape-144": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-the-dao-landscape-5-ec-cef"
+  },
+  "/blog/the-economic-model-842": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-the-economic-modelfb-6-7b2"
+  },
+  "/blog/the-tech-behind-IOTA-1-3f6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-the-tech-behind-iota-16-a-5-955"
+  },
+  "/blog/the-tech-behind-IOTA-2-c2f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-the-tech-behind-iota-2-f-58-15a"
+  },
+  "/blog/why-iota-17f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-why-iotac-36-87e"
+  },
+  "/blog/wiki-alpha-4f6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-3-b-8-102"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-wiki-alphaf-82-2b5"
+  },
+  "/legacy-3af": {
+    "__comp": "__comp---site-src-pages-legacy-tsx-292-709",
+    "__context": {
+      "plugin": "plugin---legacy-4-d-6-a6c"
+    },
+    "config": "config---legacy-5-e-9-54b"
+  },
+  "/search-369": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-11-c-c4c"
+    }
+  },
+  "/team-cfa": {
+    "__comp": "__comp---site-src-pages-team-index-tsxca-1-583",
+    "__context": {
+      "plugin": "plugin---legacy-4-d-6-a6c"
+    },
+    "config": "config---legacy-5-e-9-54b"
+  },
+  "/team/member-bee": {
+    "__comp": "__comp---site-src-pages-team-member-tsx-374-c20",
+    "__context": {
+      "plugin": "plugin---legacy-4-d-6-a6c"
+    },
+    "config": "config---legacy-5-e-9-54b"
+  },
+  "/tutorials-783": {
+    "__comp": "__comp---site-src-pages-tutorials-index-tsx-10-f-093",
+    "__context": {
+      "plugin": "plugin---legacy-4-d-6-a6c"
+    },
+    "config": "config---legacy-5-e-9-54b"
+  },
+  "/build-a02": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---buildc-99-3c6"
+    },
+    "versionMetadata": "versionMetadata---buildd-93-799"
   },
   "/build/exchange-integration/exchange-integration-guide-379": {
-    "__comp": "17896441",
-    "content": "2f4a7eaf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-exchange-integration-exchange-integration-guide-2-f-4-13b"
   },
   "/build/fundamentals/cryptography-d43": {
-    "__comp": "17896441",
-    "content": "bddb4719"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-fundamentals-cryptographybdd-195"
   },
   "/build/networks/iota-1.5-821": {
-    "__comp": "17896441",
-    "content": "6667875a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-networks-iota-1-5666-ad1"
   },
   "/build/networks/iota-2.0-12d": {
-    "__comp": "17896441",
-    "content": "3bfc02b2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-networks-iota-2-03-bf-a40"
   },
   "/build/tutorials/twitch-0fd": {
-    "__comp": "17896441",
-    "content": "5101deaa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-tutorials-twitch-510-7b8"
   },
   "/build/tutorials/youtube-acc": {
-    "__comp": "17896441",
-    "content": "07c83312"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-tutorials-youtube-07-c-9c4"
   },
   "/build/welcome-115": {
-    "__comp": "17896441",
-    "content": "c4ececdb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---build-welcomec-4-e-329"
   },
-  "/learn-3fd": {
-    "__comp": "1be78505",
+  "/learn-b68": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "cc467b6f"
+      "plugin": "plugin---learnee-1-8ae"
     },
-    "versionMetadata": "fb5308ca"
+    "versionMetadata": "versionMetadata---learnfb-5-261"
   },
   "/learn/about-iota/an-introduction-to-iota-352": {
-    "__comp": "17896441",
-    "content": "fa93d123"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-an-introduction-to-iotafa-9-ebf"
   },
   "/learn/about-iota/data-transfer-0dc": {
-    "__comp": "17896441",
-    "content": "154a2b5d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-data-transfer-154-8b7"
   },
   "/learn/about-iota/energy-efficiency-5dc": {
-    "__comp": "17896441",
-    "content": "8ad467aa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-energy-efficiency-8-ad-4fb"
   },
   "/learn/about-iota/messages-dc6": {
-    "__comp": "17896441",
-    "content": "19dee9c3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-messages-19-d-5f5"
   },
   "/learn/about-iota/roadmap-to-decentralization-753": {
-    "__comp": "17896441",
-    "content": "1313ee50"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-roadmap-to-decentralization-131-8f5"
   },
   "/learn/about-iota/value-transfer-950": {
-    "__comp": "17896441",
-    "content": "55a462bb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-value-transfer-55-a-d4f"
   },
   "/learn/about-iota/why-is-iota-feeless-bc7": {
-    "__comp": "17896441",
-    "content": "1a360e9a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-about-iota-why-is-iota-feeless-1-a-3-d7e"
   },
   "/learn/faqs-306": {
-    "__comp": "17896441",
-    "content": "a6cf0e29"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-faqsa-6-c-496"
   },
   "/learn/future/assembly-76f": {
-    "__comp": "17896441",
-    "content": "06f1b5f4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-assembly-06-f-f46"
   },
   "/learn/future/dust-protection-20b": {
-    "__comp": "17896441",
-    "content": "4158984f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-dust-protection-415-4b5"
   },
   "/learn/future/future-of-iota-264": {
-    "__comp": "17896441",
-    "content": "dc60ca71"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-future-of-iotadc-6-6bc"
   },
   "/learn/future/nfts-4ab": {
-    "__comp": "17896441",
-    "content": "0d02d30b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-nfts-0-d-0-7e4"
   },
   "/learn/future/role-of-iota-992": {
-    "__comp": "17896441",
-    "content": "21dcd9d5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-role-of-iota-21-d-f11"
   },
   "/learn/future/shimmer-951": {
-    "__comp": "17896441",
-    "content": "f36b6081"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-shimmerf-36-90f"
   },
   "/learn/future/smart-contracts/smart-contracts-chains-356": {
-    "__comp": "17896441",
-    "content": "a34633fa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-chainsa-34-e8d"
   },
   "/learn/future/smart-contracts/smart-contracts-community-tutorials-be8": {
-    "__comp": "17896441",
-    "content": "6796fd5a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-community-tutorials-679-e00"
   },
   "/learn/future/smart-contracts/smart-contracts-consensus-858": {
-    "__comp": "17896441",
-    "content": "c7503931"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-consensusc-75-6e3"
   },
   "/learn/future/smart-contracts/smart-contracts-dapps-7b2": {
-    "__comp": "17896441",
-    "content": "4154de7f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-dapps-415-36c"
   },
   "/learn/future/smart-contracts/smart-contracts-introduction-1cf": {
-    "__comp": "17896441",
-    "content": "c9721487"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-introductionc-97-e59"
   },
   "/learn/future/smart-contracts/smart-contracts-tangle-37d": {
-    "__comp": "17896441",
-    "content": "6957172a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-tangle-695-998"
   },
   "/learn/future/smart-contracts/smart-contracts-validators-178": {
-    "__comp": "17896441",
-    "content": "ed2eecd0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-validatorsed-2-a4e"
   },
   "/learn/future/smart-contracts/smart-contracts-VM-and-languages-dc6": {
-    "__comp": "17896441",
-    "content": "2022ccbd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-future-smart-contracts-smart-contracts-vm-and-languages-202-8fd"
   },
   "/learn/glossary-424": {
-    "__comp": "17896441",
-    "content": "9866bfec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-glossary-986-f87"
   },
   "/learn/iota-token/buying-iota-72c": {
-    "__comp": "17896441",
-    "content": "a99d25fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-iota-token-buying-iotaa-99-83f"
   },
   "/learn/iota-token/staking-iota-fcb": {
-    "__comp": "17896441",
-    "content": "51c8366b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-iota-token-staking-iota-51-c-c3d"
   },
   "/learn/media-library/infographics-562": {
-    "__comp": "17896441",
-    "content": "ffc39983"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-media-library-infographicsffc-cd4"
   },
   "/learn/media-library/project-presentations-4ac": {
-    "__comp": "17896441",
-    "content": "96ea9841"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-media-library-project-presentations-96-e-1b7"
   },
   "/learn/media-library/videos-dde": {
-    "__comp": "17896441",
-    "content": "59bb36fd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-media-library-videos-59-b-17d"
   },
   "/learn/networks/iota-1.5-chrysalis-e9b": {
-    "__comp": "17896441",
-    "content": "fa24585e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-networks-iota-1-5-chrysalisfa-2-816"
   },
   "/learn/networks/iota-2.0-coordicide-67d": {
-    "__comp": "17896441",
-    "content": "ae5996e0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-networks-iota-2-0-coordicideae-5-5c5"
   },
   "/learn/networks/network-token-migration-01e": {
-    "__comp": "17896441",
-    "content": "adae99c9"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-networks-network-token-migrationada-232"
   },
   "/learn/networks/testnets-f5d": {
-    "__comp": "17896441",
-    "content": "f55d0cfa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-networks-testnetsf-55-37c"
   },
   "/learn/research/research-outline-d08": {
-    "__comp": "17896441",
-    "content": "eeb25b1c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-research-research-outlineeeb-0c3"
   },
   "/learn/research/research-papers-92d": {
-    "__comp": "17896441",
-    "content": "ad67f68f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-research-research-papersad-6-190"
   },
   "/learn/wallets/firefly-wallet-52a": {
-    "__comp": "17896441",
-    "content": "2e125c98"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-firefly-wallet-2-e-1-84a"
   },
   "/learn/wallets/firefly/faq-and-troubleshooting-04e": {
-    "__comp": "17896441",
-    "content": "48630c60"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-firefly-faq-and-troubleshooting-486-73b"
   },
   "/learn/wallets/firefly/general-54c": {
-    "__comp": "17896441",
-    "content": "fb50557f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-firefly-generalfb-5-181"
   },
   "/learn/wallets/firefly/user-guide-ab9": {
-    "__comp": "17896441",
-    "content": "efd4e549"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-firefly-user-guideefd-079"
   },
   "/learn/wallets/firefly/user-guide-ledger-da2": {
-    "__comp": "17896441",
-    "content": "76bfdd37"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-firefly-user-guide-ledger-76-b-6bf"
   },
   "/learn/wallets/iota-devnet-wallet-d5b": {
-    "__comp": "17896441",
-    "content": "17efbd2f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-iota-devnet-wallet-17-e-7d3"
   },
   "/learn/wallets/what-is-a-wallet-99d": {
-    "__comp": "17896441",
-    "content": "d3f84d5e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---learn-wallets-what-is-a-walletd-3-f-6ec"
   },
-  "/participate-23b": {
-    "__comp": "1be78505",
+  "/participate-5cd": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "9316ecfa"
+      "plugin": "plugin---participate-719-daf"
     },
-    "versionMetadata": "655207e3"
+    "versionMetadata": "versionMetadata---participate-655-f01"
   },
   "/participate/contribute-to-wiki/explanations/third-party_works-15d": {
-    "__comp": "17896441",
-    "content": "547155fb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-explanations-third-party-works-547-c6d"
   },
   "/participate/contribute-to-wiki/explanations/tools/mind_map-17d": {
-    "__comp": "17896441",
-    "content": "5ac46590"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-explanations-tools-mind-map-5-ac-a45"
   },
   "/participate/contribute-to-wiki/explanations/tools/overview-d81": {
-    "__comp": "17896441",
-    "content": "bd3008ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-explanations-tools-overviewbd-3-006"
   },
   "/participate/contribute-to-wiki/explanations/tools/questions-e41": {
-    "__comp": "17896441",
-    "content": "2af66256"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-explanations-tools-questions-2-af-483"
   },
   "/participate/contribute-to-wiki/getting_started-27f": {
-    "__comp": "17896441",
-    "content": "1f721616"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-getting-started-1-f-7-235"
   },
   "/participate/contribute-to-wiki/getting_started/developer-431": {
-    "__comp": "17896441",
-    "content": "77cf77a4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-getting-started-developer-77-c-841"
   },
   "/participate/contribute-to-wiki/getting_started/quick_advice-f76": {
-    "__comp": "17896441",
-    "content": "81f6e53a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-getting-started-quick-advice-81-f-fe9"
   },
   "/participate/contribute-to-wiki/how_tos/documentation_setup-419": {
-    "__comp": "17896441",
-    "content": "c0b14821"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-how-tos-documentation-setupc-0-b-cec"
   },
   "/participate/contribute-to-wiki/how_tos/request_tw-b3e": {
-    "__comp": "17896441",
-    "content": "55429513"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-how-tos-request-tw-554-1f6"
   },
   "/participate/contribute-to-wiki/reference/structure/explanations-844": {
-    "__comp": "17896441",
-    "content": "4470963c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-explanations-447-7e2"
   },
   "/participate/contribute-to-wiki/reference/structure/getting_started-38e": {
-    "__comp": "17896441",
-    "content": "50fcd333"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-getting-started-50-f-d90"
   },
   "/participate/contribute-to-wiki/reference/structure/how_tos-406": {
-    "__comp": "17896441",
-    "content": "795074b3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-how-tos-795-035"
   },
   "/participate/contribute-to-wiki/reference/structure/overview-5ca": {
-    "__comp": "17896441",
-    "content": "728c6840"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-overview-728-0fe"
   },
   "/participate/contribute-to-wiki/reference/structure/reference-273": {
-    "__comp": "17896441",
-    "content": "64ad5d9b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-reference-64-a-e02"
   },
   "/participate/contribute-to-wiki/reference/structure/tutorials-79d": {
-    "__comp": "17896441",
-    "content": "6ce7ce25"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-structure-tutorials-6-ce-a6d"
   },
   "/participate/contribute-to-wiki/reference/style/form-3e4": {
-    "__comp": "17896441",
-    "content": "6eef1d6d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-form-6-ee-83c"
   },
   "/participate/contribute-to-wiki/reference/style/formatting-4f9": {
-    "__comp": "17896441",
-    "content": "d165b396"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-formattingd-16-6df"
   },
   "/participate/contribute-to-wiki/reference/style/manifesto-ce2": {
-    "__comp": "17896441",
-    "content": "55a54491"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-manifesto-55-a-c33"
   },
   "/participate/contribute-to-wiki/reference/style/matter-aff": {
-    "__comp": "17896441",
-    "content": "6028ed67"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-matter-602-f8d"
   },
   "/participate/contribute-to-wiki/reference/style/mechanics-270": {
-    "__comp": "17896441",
-    "content": "c8818709"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-mechanicsc-88-932"
   },
   "/participate/contribute-to-wiki/reference/style/structure-bb1": {
-    "__comp": "17896441",
-    "content": "5c2b9656"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-reference-style-structure-5-c-2-576"
   },
   "/participate/contribute-to-wiki/welcome-22b": {
-    "__comp": "17896441",
-    "content": "d88ff06f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-contribute-to-wiki-welcomed-88-8f0"
   },
   "/participate/frameworks/access-fc3": {
-    "__comp": "17896441",
-    "content": "24b1a0ca"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-access-24-b-044"
   },
   "/participate/frameworks/identity-9b0": {
-    "__comp": "17896441",
-    "content": "388b6269"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-identity-388-3f2"
   },
   "/participate/frameworks/introduction-f08": {
-    "__comp": "17896441",
-    "content": "0203f387"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-introduction-020-300"
   },
   "/participate/frameworks/oracles-aeb": {
-    "__comp": "17896441",
-    "content": "eba53adb"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-oracleseba-09f"
   },
   "/participate/frameworks/smart-contracts-777": {
-    "__comp": "17896441",
-    "content": "c0797a4b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-smart-contractsc-07-357"
   },
   "/participate/frameworks/streams-084": {
-    "__comp": "17896441",
-    "content": "8b405ac8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-streams-8-b-4-5c1"
   },
   "/participate/frameworks/stronghold-987": {
-    "__comp": "17896441",
-    "content": "dd48a424"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-strongholddd-4-083"
   },
   "/participate/frameworks/utilities/iota-ipfs-0b1": {
-    "__comp": "17896441",
-    "content": "0500b25f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-utilities-iota-ipfs-050-435"
   },
   "/participate/frameworks/utilities/tangle-explorer-de9": {
-    "__comp": "17896441",
-    "content": "da5dbf2a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-utilities-tangle-explorerda-5-c18"
   },
   "/participate/frameworks/utilities/visualizer-25b": {
-    "__comp": "17896441",
-    "content": "b4c69f09"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-frameworks-utilities-visualizerb-4-c-bc8"
   },
   "/participate/funding/community-treasury-58c": {
-    "__comp": "17896441",
-    "content": "056f2f0f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-funding-community-treasury-056-819"
   },
   "/participate/funding/edf-funding-f6d": {
-    "__comp": "17896441",
-    "content": "30721912"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-funding-edf-funding-307-b6e"
   },
   "/participate/support-the-network/about-nodes-955": {
-    "__comp": "17896441",
-    "content": "adb9e27b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-support-the-network-about-nodesadb-194"
   },
   "/participate/support-the-network/become-a-node-operator-ada": {
-    "__comp": "17896441",
-    "content": "820942db"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-support-the-network-become-a-node-operator-820-743"
   },
   "/participate/support-the-network/node-software-717": {
-    "__comp": "17896441",
-    "content": "5db44b77"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-support-the-network-node-software-5-db-e59"
   },
   "/participate/the-community/discord-018": {
-    "__comp": "17896441",
-    "content": "04b3674a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-the-community-discord-04-b-051"
   },
   "/participate/the-community/git-hub-ed2": {
-    "__comp": "17896441",
-    "content": "f4da7e6a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-the-community-git-hubf-4-d-64f"
   },
   "/participate/the-community/social-media-ab7": {
-    "__comp": "17896441",
-    "content": "21260a60"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-the-community-social-media-212-540"
   },
   "/participate/the-community/x-teams-c41": {
-    "__comp": "17896441",
-    "content": "b5278a01"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-the-community-x-teamsb-52-e63"
   },
   "/participate/use-cases/data-confidence-75e": {
-    "__comp": "17896441",
-    "content": "17354c02"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-data-confidence-173-6fd"
   },
   "/participate/use-cases/eco-social-projects-840": {
-    "__comp": "17896441",
-    "content": "f4afa23e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-eco-social-projectsf-4-a-a19"
   },
   "/participate/use-cases/healthcare-25e": {
-    "__comp": "17896441",
-    "content": "0659f581"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-healthcare-065-71a"
   },
   "/participate/use-cases/industry-applications-3d7": {
-    "__comp": "17896441",
-    "content": "f38d7d38"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-industry-applicationsf-38-104"
   },
   "/participate/use-cases/mobility-28c": {
-    "__comp": "17896441",
-    "content": "d97d32ea"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-mobilityd-97-a30"
   },
   "/participate/use-cases/real-estate-fba": {
-    "__comp": "17896441",
-    "content": "4aff675b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-real-estate-4-af-f3f"
   },
   "/participate/use-cases/trade-and-supply-chain-fa5": {
-    "__comp": "17896441",
-    "content": "20b8668b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---participate-use-cases-trade-and-supply-chain-20-b-1f5"
   },
-  "/-fe3": {
-    "__comp": "1df93b7f",
+  "/-d47": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "7e9e90ed"
+      "plugin": "plugin---legacy-4-d-6-a6c"
     },
-    "config": "5e9f5e1a"
+    "config": "config---legacy-5-e-9-54b"
   }
 }

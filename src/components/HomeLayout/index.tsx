@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 import CardWithImage, {
   CardWithImageProps,
-} from '@site/src/components/CardWithImage';
-import Layout from '@theme/Layout';
-import { useThemeConfig } from '@docusaurus/theme-common';
-import { ThemeConfig } from '@docusaurus/preset-classic';
+} from "@site/src/components/CardWithImage";
+import Layout from "@theme/Layout";
+import { useThemeConfig } from "@docusaurus/theme-common";
+import { ThemeConfig } from "@docusaurus/preset-classic";
 
 export interface HomeLayoutProps {
   description: string;
@@ -25,14 +25,14 @@ export default function HomeLayout({
 
   return (
     <Layout description={description}>
-      <div className='hero'>
-        <div className='container'>
-          <div className='text--center margin-bottom--lg'>
-            <h1 className='hero__title margin--none'>{title}</h1>
-            <p className='hero__subtitle margin--none'>{tagline}</p>
+      <div className="hero">
+        <div className="container">
+          <div className="text--center margin-bottom--lg">
+            <h1 className="hero__title margin--none">{title}</h1>
+            <p className="hero__subtitle margin--none">{tagline}</p>
           </div>
           {cards && (
-            <div className='row'>
+            <div className="row">
               {cards.map((props, idx) => (
                 <CardWithImage key={idx} {...props} />
               ))}

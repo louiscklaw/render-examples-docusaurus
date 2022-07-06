@@ -2,14 +2,14 @@ import {
   useDocsData,
   useVersions,
   useActiveDocContext,
-} from '@docusaurus/plugin-content-docs/client';
+} from "@docusaurus/plugin-content-docs/client";
 import {
   ActiveDocContext,
   GlobalVersion,
   useAllDocsData,
   useLatestVersion,
-} from '@docusaurus/plugin-content-docs/client';
-import { useMemo } from 'react';
+} from "@docusaurus/plugin-content-docs/client";
+import { useMemo } from "react";
 
 function uniq<T>(arr: T[]): T[] {
   // Note: had problems with [...new Set()]: https://github.com/facebook/docusaurus/issues/4972#issuecomment-863895061
@@ -77,8 +77,8 @@ export function useAllLatestVersion(pluginIds: string[]): GlobalVersion {
     const currentVersion = useLatestVersion(currentPluginId);
 
     if (
-      previousVersion.path.split('/').length <=
-      currentVersion.path.split('/').length
+      previousVersion.path.split("/").length <=
+      currentVersion.path.split("/").length
     )
       return previousVersion;
     return currentVersion;
@@ -106,14 +106,14 @@ export function useAllLatestVersion(pluginIds: string[]): GlobalVersion {
 export function useWikiVersionCandidates(
   preferredVersion: GlobalVersion,
   activeVersion: GlobalVersion,
-  docsPluginIds?: string[],
+  docsPluginIds?: string[]
 ): [GlobalVersion, ...GlobalVersion[]] {
   const latestVersion = useAllLatestVersion(docsPluginIds);
   return useMemo(
     () =>
       uniq(
-        [activeVersion, preferredVersion, latestVersion].filter(Boolean),
+        [activeVersion, preferredVersion, latestVersion].filter(Boolean)
       ) as [GlobalVersion, ...GlobalVersion[]],
-    [activeVersion, preferredVersion, latestVersion],
+    [activeVersion, preferredVersion, latestVersion]
   );
 }

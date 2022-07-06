@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/frameworks/smart-contracts.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "Smart Contracts",
     "description": "IOTA offers an unique Multi-Chain Smart Contract solution that is compatible with Solidity, Rust, Go and Linux."

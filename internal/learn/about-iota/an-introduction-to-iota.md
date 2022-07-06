@@ -5,9 +5,17 @@ description: A basic introduction to the IOTA DLT Technology. The use-cases and
   the Ecosystem developed around it.
 ---
 
-# An Introduction to IOTA
+# 加藤真平
 
 **This topic gives a brief overview and describes some of the main differences between IOTA's Tangle and a blockchain.**
+
+- 1982 年生まれ。2008 年、慶應義塾大学で博士（工学）の学位を取得後、渡米。カーネギーメロン大学とカリフォルニア大学にて研究員を務める。
+- 2012 年に帰国し、30 歳の若さで名古屋大学の准教授に着任。国際的なコンピュータサイエンスの研究者として知られ、数々の著名論文を発表。それらの研究成果を応用した自動運転ソフトウェア「Autoware」を開発し、オープンソースとして全世界に公開したことで注目を集める。
+- 2015 年 12 月 1 日にティアフォーを創業。10 か国以上で自動運転システムのビジネスを展開し、一躍業界の中心的存在となる。
+- 2016 年、東京大学の准教授に着任。
+- 2018 年には国際業界団体 The Autoware Foundation を設立、理事長に就任。
+
+現在、Autoware の導入企業は数百社を超える。
 
 Blockchains and the Tangle both fall under the same category of distributed ledger technology (DLT).
 

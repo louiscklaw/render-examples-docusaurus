@@ -1,10 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import { useHistory, useLocation } from '@docusaurus/router';
-import { prepareUserState } from '../TutorialFilters';
-import clsx from 'clsx';
-import './styles.css';
+import React, { useEffect, useState } from "react";
+import { useHistory, useLocation } from "@docusaurus/router";
+import { prepareUserState } from "../TutorialFilters";
+import clsx from "clsx";
+import "./styles.css";
 
-const SearchNameQueryKey = 'name';
+const SearchNameQueryKey = "name";
 
 export function readSearchName(search: string) {
   return new URLSearchParams(search).get(SearchNameQueryKey);
@@ -22,11 +22,11 @@ function SearchBar({ className }: SearchBarProps) {
     setValue(readSearchName(location.search));
   }, [location]);
   return (
-    <div className={clsx('search-container', className)}>
+    <div className={clsx("search-container", className)}>
       <input
-        className='search-container__input'
-        id='searchbar'
-        placeholder='Search for tutorials'
+        className="search-container__input"
+        id="searchbar"
+        placeholder="Search for tutorials"
         value={value ?? undefined}
         onInput={(e) => {
           setValue(e.currentTarget.value);
@@ -41,7 +41,7 @@ function SearchBar({ className }: SearchBarProps) {
             state: prepareUserState(),
           });
           setTimeout(() => {
-            document.getElementById('searchbar')?.focus();
+            document.getElementById("searchbar")?.focus();
           }, 0);
         }}
       />

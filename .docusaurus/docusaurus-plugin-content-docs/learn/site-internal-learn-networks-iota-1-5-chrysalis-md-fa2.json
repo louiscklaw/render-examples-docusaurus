@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/networks/iota-1.5-chrysalis.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "IOTA 1.5 Chrysalis",
     "description": "The current Mainnet implementation where all IOTA transactions and use cases happen."

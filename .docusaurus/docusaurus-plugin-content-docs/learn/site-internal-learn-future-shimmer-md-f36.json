@@ -11,17 +11,13 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/shimmer.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "shimmer",
     "title": "Shimmer",
     "description": "Introduction to the emerging incentivized staging network",
-    "keywords": [
-      "Incentivized",
-      "staking",
-      "SMR"
-    ]
+    "keywords": ["Incentivized", "staking", "SMR"]
   },
   "sidebar": "learn",
   "previous": {

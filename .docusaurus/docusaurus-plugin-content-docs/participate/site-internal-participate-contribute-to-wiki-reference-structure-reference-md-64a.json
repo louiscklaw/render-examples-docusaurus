@@ -11,15 +11,12 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/reference.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "description": "Reference guides are technical descriptions of the project.",
     "image": "/img/libraries/messages_in_tangle.svg",
-    "keywords": [
-      "reference",
-      "API"
-    ]
+    "keywords": ["reference", "API"]
   },
   "sidebar": "participate",
   "previous": {

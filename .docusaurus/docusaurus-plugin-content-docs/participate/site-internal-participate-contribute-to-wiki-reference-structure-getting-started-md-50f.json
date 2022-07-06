@@ -11,17 +11,12 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/participate/contribute-to-wiki/reference/structure/getting_started.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "description": "Getting started with your project.",
     "image": "/img/logo/iota_logo.svg",
-    "keywords": [
-      "install",
-      "prerequisites",
-      "getting started",
-      "hello world"
-    ]
+    "keywords": ["install", "prerequisites", "getting started", "hello world"]
   },
   "sidebar": "participate",
   "previous": {

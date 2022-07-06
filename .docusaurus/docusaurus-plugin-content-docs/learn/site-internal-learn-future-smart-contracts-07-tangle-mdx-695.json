@@ -11,19 +11,14 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/smart-contracts/07_tangle.mdx",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "sidebarPosition": 7,
   "frontMatter": {
     "id": "smart-contracts-tangle",
     "title": "IOTA Tangle",
     "description": "In this article you will learn how the IOTA Smart Contracts interact with the IOTA Tangle.",
-    "keywords": [
-      "Tangle",
-      "Smart Contracts",
-      "wasp",
-      "ISCP"
-    ]
+    "keywords": ["Tangle", "Smart Contracts", "wasp", "ISCP"]
   },
   "sidebar": "learn",
   "previous": {

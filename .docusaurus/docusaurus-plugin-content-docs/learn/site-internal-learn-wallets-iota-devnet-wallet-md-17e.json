@@ -11,8 +11,8 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/wallets/iota-devnet-wallet.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "title": "IOTA 2.0 DevNet Wallet",
     "description": "A Wallet for the current IOTA 2.0 Development - and Testnet. Offers a lot of Functions that will become available in the IOTA 2.0 Mainnet. No real IOTA Tokens are used here."

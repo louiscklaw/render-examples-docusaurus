@@ -11,17 +11,13 @@
   "editUrl": "https://github.com/iota-community/iota-wiki/edit/main/internal/learn/future/dust-protection.md",
   "tags": [],
   "version": "current",
-  "lastUpdatedAt": 1657100931,
-  "formattedLastUpdatedAt": "7/6/2022",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "10/14/2018",
   "frontMatter": {
     "id": "dust-protection",
     "title": "Dust Protection",
     "description": "Introduction to the history of dust protection in IOTA",
-    "keywords": [
-      "Dust",
-      "Chrysalis",
-      "Legacy"
-    ]
+    "keywords": ["Dust", "Chrysalis", "Legacy"]
   },
   "sidebar": "learn",
   "previous": {

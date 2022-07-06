@@ -1,28 +1,28 @@
-import React from 'react';
-import clsx from 'clsx';
+import React from "react";
+import clsx from "clsx";
 import {
   NavbarSecondaryMenuFiller,
   ThemeClassNames,
   useNavbarMobileSidebar,
-} from '@docusaurus/theme-common';
-import DocSidebarItems from '@theme/DocSidebarItems';
-import VersionPicker from '@site/src/components/VersionPicker';
+} from "@docusaurus/theme-common";
+import DocSidebarItems from "@theme/DocSidebarItems";
+import VersionPicker from "@site/src/components/VersionPicker";
 // eslint-disable-next-line react/function-component-definition
 const DocSidebarMobileSecondaryMenu = ({ sidebar, path }) => {
   const mobileSidebar = useNavbarMobileSidebar();
   return (
     <>
       <VersionPicker />
-      <ul className={clsx(ThemeClassNames.docs.docSidebarMenu, 'menu__list')}>
+      <ul className={clsx(ThemeClassNames.docs.docSidebarMenu, "menu__list")}>
         <DocSidebarItems
           items={sidebar}
           activePath={path}
           onItemClick={(item) => {
             // Mobile sidebar should only be closed if the category has a link
-            if (item.type === 'category' && item.href) {
+            if (item.type === "category" && item.href) {
               mobileSidebar.toggle();
             }
-            if (item.type === 'link') {
+            if (item.type === "link") {
               mobileSidebar.toggle();
             }
           }}

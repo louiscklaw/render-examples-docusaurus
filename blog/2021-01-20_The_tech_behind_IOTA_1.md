@@ -1,6 +1,6 @@
 ---
 slug: the-tech-behind-IOTA-1
-title: 'The Tech Behind IOTA — Part 1 (Introduction)'
+title: "The Tech Behind IOTA — Part 1 (Introduction)"
 authors: lstanisic
 tags: [Community, Coordicide, Mana]
 url: https://luka99.medium.com/the-tech-behind-iota-part-1-introduction-b8f82775325a

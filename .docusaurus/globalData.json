@@ -1,5 +1,233 @@
 {
   "docusaurus-plugin-content-docs": {
+    "learn": {
+      "path": "/learn",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/learn",
+          "mainDocId": "about-iota/an-introduction-to-iota",
+          "docs": [
+            {
+              "id": "about-iota/an-introduction-to-iota",
+              "path": "/learn/about-iota/an-introduction-to-iota",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/data-transfer",
+              "path": "/learn/about-iota/data-transfer",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/energy-efficiency",
+              "path": "/learn/about-iota/energy-efficiency",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/messages",
+              "path": "/learn/about-iota/messages",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/roadmap-to-decentralization",
+              "path": "/learn/about-iota/roadmap-to-decentralization",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/value-transfer",
+              "path": "/learn/about-iota/value-transfer",
+              "sidebar": "learn"
+            },
+            {
+              "id": "about-iota/why-is-iota-feeless",
+              "path": "/learn/about-iota/why-is-iota-feeless",
+              "sidebar": "learn"
+            },
+            {
+              "id": "faqs",
+              "path": "/learn/faqs",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/assembly",
+              "path": "/learn/future/assembly",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/dust-protection",
+              "path": "/learn/future/dust-protection",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/future-of-iota",
+              "path": "/learn/future/future-of-iota",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/nfts",
+              "path": "/learn/future/nfts",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/role-of-iota",
+              "path": "/learn/future/role-of-iota",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/shimmer",
+              "path": "/learn/future/shimmer",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-chains",
+              "path": "/learn/future/smart-contracts/smart-contracts-chains",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-community-tutorials",
+              "path": "/learn/future/smart-contracts/smart-contracts-community-tutorials",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-consensus",
+              "path": "/learn/future/smart-contracts/smart-contracts-consensus",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-dapps",
+              "path": "/learn/future/smart-contracts/smart-contracts-dapps",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-introduction",
+              "path": "/learn/future/smart-contracts/smart-contracts-introduction",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-tangle",
+              "path": "/learn/future/smart-contracts/smart-contracts-tangle",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-validators",
+              "path": "/learn/future/smart-contracts/smart-contracts-validators",
+              "sidebar": "learn"
+            },
+            {
+              "id": "future/smart-contracts/smart-contracts-VM-and-languages",
+              "path": "/learn/future/smart-contracts/smart-contracts-VM-and-languages",
+              "sidebar": "learn"
+            },
+            {
+              "id": "glossary",
+              "path": "/learn/glossary",
+              "sidebar": "learn"
+            },
+            {
+              "id": "iota-token/buying-iota",
+              "path": "/learn/iota-token/buying-iota",
+              "sidebar": "learn"
+            },
+            {
+              "id": "iota-token/staking-iota",
+              "path": "/learn/iota-token/staking-iota",
+              "sidebar": "learn"
+            },
+            {
+              "id": "media-library/infographics",
+              "path": "/learn/media-library/infographics",
+              "sidebar": "learn"
+            },
+            {
+              "id": "media-library/project-presentations",
+              "path": "/learn/media-library/project-presentations",
+              "sidebar": "learn"
+            },
+            {
+              "id": "media-library/videos",
+              "path": "/learn/media-library/videos",
+              "sidebar": "learn"
+            },
+            {
+              "id": "networks/iota-1.5-chrysalis",
+              "path": "/learn/networks/iota-1.5-chrysalis",
+              "sidebar": "learn"
+            },
+            {
+              "id": "networks/iota-2.0-coordicide",
+              "path": "/learn/networks/iota-2.0-coordicide",
+              "sidebar": "learn"
+            },
+            {
+              "id": "networks/network-token-migration",
+              "path": "/learn/networks/network-token-migration",
+              "sidebar": "learn"
+            },
+            {
+              "id": "networks/testnets",
+              "path": "/learn/networks/testnets",
+              "sidebar": "learn"
+            },
+            {
+              "id": "research/research-outline",
+              "path": "/learn/research/research-outline",
+              "sidebar": "learn"
+            },
+            {
+              "id": "research/research-papers",
+              "path": "/learn/research/research-papers",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/firefly-wallet",
+              "path": "/learn/wallets/firefly-wallet"
+            },
+            {
+              "id": "wallets/firefly/faq-and-troubleshooting",
+              "path": "/learn/wallets/firefly/faq-and-troubleshooting",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/firefly/general",
+              "path": "/learn/wallets/firefly/general",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/firefly/user-guide",
+              "path": "/learn/wallets/firefly/user-guide",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/firefly/user-guide-ledger",
+              "path": "/learn/wallets/firefly/user-guide-ledger",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/iota-devnet-wallet",
+              "path": "/learn/wallets/iota-devnet-wallet",
+              "sidebar": "learn"
+            },
+            {
+              "id": "wallets/what-is-a-wallet",
+              "path": "/learn/wallets/what-is-a-wallet",
+              "sidebar": "learn"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "learn": {
+              "link": {
+                "path": "/learn/about-iota/an-introduction-to-iota",
+                "label": "about-iota/an-introduction-to-iota"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
     "participate": {
       "path": "/participate",
       "versions": [
@@ -316,234 +544,6 @@
               "link": {
                 "path": "/build/welcome",
                 "label": "welcome"
-              }
-            }
-          }
-        }
-      ],
-      "breadcrumbs": true
-    },
-    "learn": {
-      "path": "/learn",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/learn",
-          "mainDocId": "about-iota/an-introduction-to-iota",
-          "docs": [
-            {
-              "id": "about-iota/an-introduction-to-iota",
-              "path": "/learn/about-iota/an-introduction-to-iota",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/data-transfer",
-              "path": "/learn/about-iota/data-transfer",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/energy-efficiency",
-              "path": "/learn/about-iota/energy-efficiency",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/messages",
-              "path": "/learn/about-iota/messages",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/roadmap-to-decentralization",
-              "path": "/learn/about-iota/roadmap-to-decentralization",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/value-transfer",
-              "path": "/learn/about-iota/value-transfer",
-              "sidebar": "learn"
-            },
-            {
-              "id": "about-iota/why-is-iota-feeless",
-              "path": "/learn/about-iota/why-is-iota-feeless",
-              "sidebar": "learn"
-            },
-            {
-              "id": "faqs",
-              "path": "/learn/faqs",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/assembly",
-              "path": "/learn/future/assembly",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/dust-protection",
-              "path": "/learn/future/dust-protection",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/future-of-iota",
-              "path": "/learn/future/future-of-iota",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/nfts",
-              "path": "/learn/future/nfts",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/role-of-iota",
-              "path": "/learn/future/role-of-iota",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/shimmer",
-              "path": "/learn/future/shimmer",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-chains",
-              "path": "/learn/future/smart-contracts/smart-contracts-chains",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-community-tutorials",
-              "path": "/learn/future/smart-contracts/smart-contracts-community-tutorials",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-consensus",
-              "path": "/learn/future/smart-contracts/smart-contracts-consensus",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-dapps",
-              "path": "/learn/future/smart-contracts/smart-contracts-dapps",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-introduction",
-              "path": "/learn/future/smart-contracts/smart-contracts-introduction",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-tangle",
-              "path": "/learn/future/smart-contracts/smart-contracts-tangle",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-validators",
-              "path": "/learn/future/smart-contracts/smart-contracts-validators",
-              "sidebar": "learn"
-            },
-            {
-              "id": "future/smart-contracts/smart-contracts-VM-and-languages",
-              "path": "/learn/future/smart-contracts/smart-contracts-VM-and-languages",
-              "sidebar": "learn"
-            },
-            {
-              "id": "glossary",
-              "path": "/learn/glossary",
-              "sidebar": "learn"
-            },
-            {
-              "id": "iota-token/buying-iota",
-              "path": "/learn/iota-token/buying-iota",
-              "sidebar": "learn"
-            },
-            {
-              "id": "iota-token/staking-iota",
-              "path": "/learn/iota-token/staking-iota",
-              "sidebar": "learn"
-            },
-            {
-              "id": "media-library/infographics",
-              "path": "/learn/media-library/infographics",
-              "sidebar": "learn"
-            },
-            {
-              "id": "media-library/project-presentations",
-              "path": "/learn/media-library/project-presentations",
-              "sidebar": "learn"
-            },
-            {
-              "id": "media-library/videos",
-              "path": "/learn/media-library/videos",
-              "sidebar": "learn"
-            },
-            {
-              "id": "networks/iota-1.5-chrysalis",
-              "path": "/learn/networks/iota-1.5-chrysalis",
-              "sidebar": "learn"
-            },
-            {
-              "id": "networks/iota-2.0-coordicide",
-              "path": "/learn/networks/iota-2.0-coordicide",
-              "sidebar": "learn"
-            },
-            {
-              "id": "networks/network-token-migration",
-              "path": "/learn/networks/network-token-migration",
-              "sidebar": "learn"
-            },
-            {
-              "id": "networks/testnets",
-              "path": "/learn/networks/testnets",
-              "sidebar": "learn"
-            },
-            {
-              "id": "research/research-outline",
-              "path": "/learn/research/research-outline",
-              "sidebar": "learn"
-            },
-            {
-              "id": "research/research-papers",
-              "path": "/learn/research/research-papers",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/firefly-wallet",
-              "path": "/learn/wallets/firefly-wallet"
-            },
-            {
-              "id": "wallets/firefly/faq-and-troubleshooting",
-              "path": "/learn/wallets/firefly/faq-and-troubleshooting",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/firefly/general",
-              "path": "/learn/wallets/firefly/general",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/firefly/user-guide",
-              "path": "/learn/wallets/firefly/user-guide",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/firefly/user-guide-ledger",
-              "path": "/learn/wallets/firefly/user-guide-ledger",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/iota-devnet-wallet",
-              "path": "/learn/wallets/iota-devnet-wallet",
-              "sidebar": "learn"
-            },
-            {
-              "id": "wallets/what-is-a-wallet",
-              "path": "/learn/wallets/what-is-a-wallet",
-              "sidebar": "learn"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "learn": {
-              "link": {
-                "path": "/learn/about-iota/an-introduction-to-iota",
-                "label": "about-iota/an-introduction-to-iota"
               }
             }
           }

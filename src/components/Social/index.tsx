@@ -1,8 +1,8 @@
-import React from 'react';
-import { useThemeConfig } from '@docusaurus/theme-common';
-import './styles.css';
-import get_socials_data from '@site/src/helper/socials';
-import { ThemeConfig } from '@docusaurus/preset-classic';
+import React from "react";
+import { useThemeConfig } from "@docusaurus/theme-common";
+import "./styles.css";
+import get_socials_data from "@site/src/helper/socials";
+import { ThemeConfig } from "@docusaurus/preset-classic";
 
 export interface Social {
   url: string;
@@ -17,12 +17,12 @@ function SocialLink({ url, backgroundColor }: Social) {
   const data = get_socials_data(url);
   return (
     <a
-      className='social__link padding-horiz--sm padding-vert--md'
+      className="social__link padding-horiz--sm padding-vert--md"
       style={{ backgroundColor: backgroundColor }}
       href={url}
     >
-      <div className='social__font social__icon'>{data.icon}</div>
-      <div className='social__title'>{data.name}</div>
+      <div className="social__font social__icon">{data.icon}</div>
+      <div className="social__title">{data.name}</div>
     </a>
   );
 }
@@ -31,7 +31,7 @@ function Social() {
   const { socials } = useThemeConfig() as SocialsConfig;
 
   return (
-    <div className='social'>
+    <div className="social">
       {socials &&
         socials.map((props, idx) => <SocialLink key={idx} {...props} />)}
     </div>

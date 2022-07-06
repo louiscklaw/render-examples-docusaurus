@@ -1,6 +1,6 @@
 ---
 slug: the-dao-landscape
-title: 'A vision of IOTA´s future ecosystem — The DAO-landscape'
+title: "A vision of IOTA´s future ecosystem — The DAO-landscape"
 authors: lnaumann
 tags: [Community, DAO]
 url: https://medium.com/@linus.naumann/a-vision-of-iota-s-future-ecosystem-the-dao-landscape-b93688d8acee

@@ -1,15 +1,15 @@
-import React from 'react';
-import { Collapsible, useCollapsible } from '@docusaurus/theme-common';
-import Link from '@docusaurus/Link';
-import { useLocation } from '@docusaurus/router';
+import React from "react";
+import { Collapsible, useCollapsible } from "@docusaurus/theme-common";
+import Link from "@docusaurus/Link";
+import { useLocation } from "@docusaurus/router";
 import {
   useAllActiveDocContexts,
   useAllVersions,
   useCurrentDocPlugins,
   useWikiVersionCandidates,
-} from '@site/src/theme/NavbarItem/DocsVersionDropdownNavbarItem/utils';
-import { useWikiPreferredVersion } from '@site/src/contexts/wikiPreferredVersion';
-import './styles.css';
+} from "@site/src/theme/NavbarItem/DocsVersionDropdownNavbarItem/utils";
+import { useWikiPreferredVersion } from "@site/src/contexts/wikiPreferredVersion";
+import "./styles.css";
 
 const getVersionMainDoc = (version) =>
   version.docs.find((doc) => doc.id === version.mainDocId);
@@ -47,15 +47,15 @@ export default function VersionPicker() {
   const dropdownVersion = useWikiVersionCandidates(
     preferredVersion,
     activeDocContext.activeVersion,
-    pluginIds,
+    pluginIds
   )[0];
 
   const { collapsed, toggleCollapsed } = useCollapsible({ initialState: true });
 
   return (
-    <div className='version-picker'>
+    <div className="version-picker">
       <div
-        className='version-picker__toggle menu__link menu__link--sublist'
+        className="version-picker__toggle menu__link menu__link--sublist"
         onClick={(e) => {
           e.preventDefault();
           toggleCollapsed();
@@ -66,16 +66,16 @@ export default function VersionPicker() {
 
       <Collapsible
         lazy
-        as='ul'
-        className='version-picker__list menu__list'
+        as="ul"
+        className="version-picker__list menu__list"
         collapsed={collapsed}
       >
         {versionLinks.map((versionLink, key) => (
-          <li key={key} className='version-picker__list-item menu__list-item'>
+          <li key={key} className="version-picker__list-item menu__list-item">
             <Link
               {...versionLink}
-              className='version-picker__link menu__link'
-              activeClassName={'version-picker__link--active'}
+              className="version-picker__link menu__link"
+              activeClassName={"version-picker__link--active"}
             >
               {versionLink.label}
             </Link>
