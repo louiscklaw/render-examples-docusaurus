@@ -38,7 +38,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Pi hole notes",
+      label: "pi_hole_notes",
       collapsed: true,
       items: ["Pi hole notes/index"],
     },
