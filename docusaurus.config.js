@@ -7,14 +7,14 @@ const tutorials = require("./content/tutorials/docusaurus.config");
 module.exports = {
   title: "加藤真平",
   tagline: "The complete reference for IOTA",
-  url: "https://wiki.iota.org",
+  url: "https://render-examples-docusaurus.onrender.com/",
   baseUrl: "/",
   onBrokenLinks: "log",
   onBrokenMarkdownLinks: "log",
   favicon: "img/favicon.ico",
   trailingSlash: false,
-  organizationName: "iota-community", // Usually your GitHub org/user name.
-  projectName: "iota-wiki", // Usually your repo name.
+  organizationName: "louislabs", // Usually your GitHub org/user name.
+  projectName: "louislabs-wiki", // Usually your repo name.
   stylesheets: [
     "https://fonts.googleapis.com/css?family=Material+Icons",
     {

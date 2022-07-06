@@ -6,6 +6,8 @@ import Layout from "@theme/Layout";
 import { useThemeConfig } from "@docusaurus/theme-common";
 import { ThemeConfig } from "@docusaurus/preset-classic";
 
+import Button from "../Button";
+
 export interface HomeLayoutProps {
   description: string;
   title: string;
@@ -38,7 +40,7 @@ export default function HomeLayout({
               ))}
             </div>
           )}
-          <button className="btn btn--primary">hello</button>
+          <Button>hello</Button>
         </div>
       </div>
     </Layout>
