@@ -38,6 +38,7 @@ export default function HomeLayout({
               ))}
             </div>
           )}
+          <button className="btn btn--primary">hello</button>
         </div>
       </div>
     </Layout>
