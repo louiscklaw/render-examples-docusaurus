@@ -82,17 +82,7 @@ module.exports = {
       type: "category",
       label: "Repo config",
       collapsed: true,
-      items: ["repo_config/index"],
-    },
-
-    {
-      type: "category",
-      label: "About IOTA",
-      collapsed: true,
-      items: [
-        "about-iota/an-introduction-to-iota",
-        "about-iota/energy-efficiency",
-      ],
+      items: ["repo_config/index", "repo_config/dashboard"],
     },
   ],
 };
