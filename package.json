@@ -15,7 +15,7 @@
     "lint": "eslint --cache --fix src",
     "format": "prettier --write .",
     "gitSync":"git fetch --all && git pull",
-    "gitUpdate":"git add . && git commit -m\"update helloworld,\" && gitSync && git push",
+    "gitUpdate":"git add . && git commit -m\"update helloworld,\" && yarn gitSync && git push",
     "prepare": "husky install"
   },
   "dependencies": {
