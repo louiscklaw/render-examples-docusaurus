@@ -3,7 +3,7 @@ module.exports = {
     {
       type: "category",
       label: "Build mon",
-      collapsed: true,
+      collapsed: false,
       items: ["build_mon/index"],
     },
     {
