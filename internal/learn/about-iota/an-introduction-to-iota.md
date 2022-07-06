@@ -52,7 +52,7 @@ The Tangle data structure is a directed acyclic graph (DAG), where each message 
 
 Allowing parallel processing removes congestion.
 
-## Consensus in a blockchain
+## 一躍業界の中心的存在となる
 
 In blockchains, the network participants are divided into validators (miners, stakers) and users. Miners consume large amounts of computing power to complete the proof-of-work required to chain the blocks together. Miners and stakers are incentivized to validate messages because of the following:
 

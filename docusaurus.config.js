@@ -121,8 +121,8 @@ module.exports = {
               label: "Getting Started",
               items: [
                 {
-                  label: "Getting Started",
-                  sublabel: "IOTA development basics",
+                  label: "Getting Started 改呢度？",
+                  sublabel: "改呢度？",
                   to: "build/welcome",
                   icon: "\ue902",
                   activeBaseRegex: "^/(build|blueprints)/.*",
