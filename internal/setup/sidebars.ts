@@ -2,20 +2,26 @@ module.exports = {
   learn: [
     {
       type: "category",
+      label: "Build mon",
+      collapsed: true,
+      items: ["build_mon/index"],
+    },
+    {
+      type: "category",
       label: "Change detect",
-      collapsed: false,
+      collapsed: true,
       items: ["change_detect/index"],
     },
     {
       type: "category",
       label: "database",
-      collapsed: false,
+      collapsed: true,
       items: ["database/index"],
     },
     {
       type: "category",
       label: "About IOTA",
-      collapsed: false,
+      collapsed: true,
       items: [
         "about-iota/an-introduction-to-iota",
         "about-iota/data-transfer",
